@@ -1,7 +1,7 @@
 # Sleep-Analysis
 
 DATA3800 – Mandatory assignment 2. How is sleep deprivation related to lifestyle choices?
-Data: NHIS 2025 Sample Adult file (CDC).
+Data: NHIS 2024 Sample Adult file (CDC).
 
 ## Setup
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Data
-Download the NHIS 2025 Sample Adult CSV from the CDC and place it in `data/raw/`.
+Download the NHIS 2024 Sample Adult CSV from the CDC and place it in `data/raw/`.
 The data is not stored in git.
 
 ## Structure
