@@ -5,5 +5,6 @@ RAW = ROOT / "data" / "raw"
 PROCESSED = ROOT / "data" / "processed"
 FIGURES = ROOT / "reports" / "figures"
 
-# Update when the NHIS file is downloaded
-NHIS_FILE = RAW / "samadult_2025.csv"
+# NHIS 2024 "Sample Adult" file (CDC publishes it as adult24csv.zip)
+NHIS_URL = "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2024/adult24csv.zip"
+NHIS_FILE = RAW / "adult24.csv"
