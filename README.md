@@ -14,10 +14,12 @@ pip install -r requirements.txt
 ```
 
 ## Data
+
 Download the NHIS 2024 Sample Adult CSV from the CDC and place it in `data/raw/`.
 The data is not stored in git.
 
 ## Structure
+
 - `data/raw/` – original data (not tracked)
 - `data/processed/` – cleaned data (not tracked)
 - `src/` – reusable code (cleaning, analysis)

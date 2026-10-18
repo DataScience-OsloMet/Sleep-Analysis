@@ -1,6 +1,6 @@
 import io
-import zipfile
 import urllib.request
+import zipfile
 
 import pandas as pd
 
