@@ -1,7 +1,7 @@
 # %% [markdown]
 # # Work hours and sleep: first look
 # Run cell by cell in VS Code ("Run Cell" above each `# %%`), or the whole file:
-# First build the data once:  `python scripts/run_all.py`
+# First build the data once:  `uv run python -m src.pipeline`
 
 # %%
 import pandas as pd

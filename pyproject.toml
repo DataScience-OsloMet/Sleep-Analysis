@@ -1,0 +1,20 @@
+[project]
+name = "sleep-analysis"
+version = "0.1.0"
+description = "DATA3800: does working alongside studies affect students' sleep? (NHIS 2024)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.0",
+    "numpy>=2.5",
+    "matplotlib>=3.11",
+    "seaborn>=0.13",
+    "scipy>=1.18",
+    "scikit-learn>=1.9",
+    "statsmodels>=0.15",
+    "ipykernel>=6",  # lets VS Code run the `# %%` cells in analysis/
+    "truststore>=0.10",  # fixes certificate errors when downloading on school networks
+]
+
+[tool.uv]
+package = false  # a set of scripts, not an installable library

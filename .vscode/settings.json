@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "AGEP",
+        "ANXFREQ",
+        "ARTHEV",
+        "ASEV",
+        "blpressure",
+        "DEPFREQ",
+        "DIBEV",
+        "EDUCP",
+        "EMPWKHRS",
+        "EMPWRKLSW",
+        "FDSCAT",
+        "HOUSECOST",
+        "HYPEV",
+        "PCNTKIDS",
+        "RATCAT",
+        "SCHCURENR",
+        "SLPFLL",
+        "SLPHOURS",
+        "SLPREST",
+        "SLPSTY",
+        "WTFA"
+    ],
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}

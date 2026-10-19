@@ -32,7 +32,7 @@ def build() -> pd.DataFrame:
             seen[column] = name
 
     merged = pd.concat(parts.values(), axis=1, join="inner", verify_integrity=False)
-    if len(merged) != sizes["jorgen"]:
+    if len(merged) != sizes["work"]:
         raise ValueError("Respondents differ between cleaners, merge lost rows")
     return merged.reset_index().rename(columns={ID_COLUMN: "household_id"})
 

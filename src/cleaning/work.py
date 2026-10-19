@@ -1,4 +1,4 @@
-"""Sample and work hours: age, survey weight, weekly work hours."""
+"""Age, survey weight and weekly work hours."""
 
 import pandas as pd
 
