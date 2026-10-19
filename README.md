@@ -19,6 +19,19 @@ uv pip install -r requirements.txt
 python scripts/download_data.py
 ```
 
+### Without uv
+
+```bash
+# Windows (PowerShell): use the Python launcher to select the required version
+py -3.14 -m venv .venv
+# Windows (PowerShell):  .venv\Scripts\Activate.ps1
+# Windows (Git Bash):    source .venv/Scripts/activate
+# macOS/Linux:           source .venv/bin/activate
+python scripts/check_python.py  # stops with an error unless Python is exactly 3.14.7
+python -m pip install -r requirements.txt
+python scripts/download_data.py
+```
+
 If `python scripts/check_python.py` reports an error, remove `.venv`, install Python
 3.14.7, and run the setup commands again. With `pyenv`, the `.python-version`
 file selects the version automatically before creating `.venv`.
