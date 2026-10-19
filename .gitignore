@@ -3,6 +3,7 @@
 venv/
 
 # Data (too large for git; everyone downloads it themselves)
+data/raw
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep

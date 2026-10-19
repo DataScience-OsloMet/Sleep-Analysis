@@ -8,6 +8,7 @@ from src.config import PROCESSED
 
 
 OUTPUT_PATH = PROCESSED / "combined_dataset.csv"
+GENERATED_OUTPUTS = {OUTPUT_PATH.name, "merged_dataset.csv"}
 
 
 def combine_processed_datasets(
@@ -18,7 +19,8 @@ def combine_processed_datasets(
     input_paths = sorted(
         path
         for path in input_dir.glob("*.csv")
-        if path.resolve() != output_path.resolve()
+        if path.name not in GENERATED_OUTPUTS
+        and path.resolve() != output_path.resolve()
     )
     if not input_paths:
         raise FileNotFoundError(f"No processed CSV files found in {input_dir}")

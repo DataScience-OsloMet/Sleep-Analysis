@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import shutil
+import ssl
+import subprocess
 import tempfile
 import urllib.error
 import urllib.request
@@ -19,6 +21,36 @@ DATA_DIR = PROJECT_ROOT / "data" / "raw"
 DATA_PATH = DATA_DIR / "adult24.csv"
 
 
+def fetch(url: str, destination: Path) -> None:
+    """Download url to destination. If the certificate check fails (common on
+    school networks, VPNs and with antivirus), retry using the operating
+    system's certificates, then with curl."""
+    try:
+        urllib.request.urlretrieve(url, destination)
+        return
+    except urllib.error.URLError as error:
+        if not isinstance(error.reason, ssl.SSLError):
+            raise
+        print("Certificate check failed. Retrying with the operating system's certificates ...")
+
+    try:
+        import truststore
+
+        truststore.inject_into_ssl()
+        urllib.request.urlretrieve(url, destination)
+        return
+    except (ImportError, OSError):
+        pass
+
+    curl = shutil.which("curl")
+    if curl:
+        print("Retrying with curl ...")
+        subprocess.run([curl, "-fL", "-o", str(destination), url], check=True)
+        return
+
+    raise OSError("all download attempts failed")
+
+
 def download_data() -> None:
     """Download and extract adult24.csv unless it is already present."""
     if DATA_PATH.exists():
@@ -31,9 +63,12 @@ def download_data() -> None:
         archive_path = Path(temporary_directory) / "adult24csv.zip"
         print("Downloading NHIS 2024 Sample Adult dataset from the CDC...")
         try:
-            urllib.request.urlretrieve(DATA_URL, archive_path)
-        except (OSError, urllib.error.URLError) as error:
-            raise RuntimeError(f"Could not download the dataset from {DATA_URL}") from error
+            fetch(DATA_URL, archive_path)
+        except (OSError, subprocess.CalledProcessError) as error:
+            raise RuntimeError(
+                f"Could not download the dataset from {DATA_URL}\n"
+                "Download the zip in your browser, unzip it, and put adult24.csv in data/raw/."
+            ) from error
 
         try:
             with zipfile.ZipFile(archive_path) as archive:
