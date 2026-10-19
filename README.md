@@ -26,8 +26,18 @@ You do not need to activate `.venv` yourself.
 ## Folders
 
 - `data/raw/` – original data (downloaded by the setup, not in Git)
-- `data/processed/` – cleaned data (not in Git)
+- `data/processed/` – cleaned data and the combined dataset (not in Git)
 - `notebooks/` – one cleaning notebook per person
 - `scripts/` – setup script
 - `src/` – shared code
 - `reports/figures/` – exported figures
+
+After the cleaning notebooks have generated their processed CSV files, run:
+
+```bash
+python -m src.merge_dataset
+```
+
+This creates `data/processed/combined_dataset.csv` by combining the processed
+files side by side, so each row remains one respondent. The input files must
+contain the same respondents in the same order and have unique column names.
