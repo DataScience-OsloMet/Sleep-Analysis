@@ -17,6 +17,14 @@ python scripts/setup.py      # creates .venv, installs packages, downloads the d
 
 You do not need to activate `.venv` yourself.
 
+## Run everything
+
+To run all notebooks and then combine everyone's files into one dataset:
+
+```bash
+python scripts/run_all.py   # writes data/processed/merged_dataset.csv
+```
+
 ## If something goes wrong
 
 - **"needs Python 3.14.7"**: install uv (step 1), then run `python scripts/setup.py` again.
@@ -28,7 +36,7 @@ You do not need to activate `.venv` yourself.
 - `data/raw/` – original data (downloaded by the setup, not in Git)
 - `data/processed/` – cleaned data and the combined dataset (not in Git)
 - `notebooks/` – one cleaning notebook per person
-- `scripts/` – setup script
+- `scripts/` – setup, run-all and merge scripts
 - `src/` – shared code
 - `reports/figures/` – exported figures
 
