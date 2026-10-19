@@ -18,9 +18,12 @@ python scripts/setup.py      # creates .venv, installs packages, downloads the d
 python scripts/run_all.py   # writes data/processed/merged_dataset.csv
 ```
 
-You do not need to activate `.venv` yourself. For notebooks in VS Code, choose
-the kernel `.venv` and start with `from src.cleaning import CLEANERS` or
-`pd.read_csv("../data/processed/merged_dataset.csv")`.
+You do not need to activate `.venv` yourself.
+
+4. Analysis: open a file in `analysis/` in VS Code. Each `# %%` line starts a
+cell; click **Run Cell** above it (choose the `.venv` kernel when asked). The
+files are plain `.py`, so Git diffs are readable and nobody gets merge conflicts
+in notebook JSON.
 
 ## How the cleaning works
 
@@ -30,7 +33,7 @@ same sample (`src/sample.py`: enrolled students aged 18-29) and return a table
 indexed by `household_id`. `src/pipeline.py` merges them on `household_id`
 (not on row order) and stops with a clear error on duplicate columns or
 mismatched respondents. To add a variable, edit your own file and re-run.
-Notebooks are only for exploring and plotting, not part of the pipeline.
+Put analysis and plots in `analysis/` (one numbered file per topic).
 
 ## If something goes wrong
 
