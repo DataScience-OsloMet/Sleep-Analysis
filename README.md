@@ -12,18 +12,25 @@ Data: NHIS 2024 Sample Adult file (CDC).
 python scripts/setup.py      # creates .venv, installs packages, downloads the data
 ```
 
-3. Open the project folder in VS Code, open a notebook in `notebooks/`, click
-   **Select Kernel** (top right) and choose `.venv`.
-
-You do not need to activate `.venv` yourself.
-
-## Run everything
-
-To run all notebooks and then combine everyone's files into one dataset:
+3. Build the dataset:
 
 ```bash
 python scripts/run_all.py   # writes data/processed/merged_dataset.csv
 ```
+
+You do not need to activate `.venv` yourself. For notebooks in VS Code, choose
+the kernel `.venv` and start with `from src.cleaning import CLEANERS` or
+`pd.read_csv("../data/processed/merged_dataset.csv")`.
+
+## How the cleaning works
+
+Each person owns one file in `src/cleaning/` (`jorgen.py`, `kristine.py`,
+`endre.py`, `lykke.py`) with a `clean()` function. All of them start from the
+same sample (`src/sample.py`: enrolled students aged 18-29) and return a table
+indexed by `household_id`. `src/pipeline.py` merges them on `household_id`
+(not on row order) and stops with a clear error on duplicate columns or
+mismatched respondents. To add a variable, edit your own file and re-run.
+Notebooks are only for exploring and plotting, not part of the pipeline.
 
 ## If something goes wrong
 
@@ -40,13 +47,3 @@ python scripts/run_all.py   # writes data/processed/merged_dataset.csv
 - `scripts/` – setup, run-all and merge scripts
 - `src/` – shared code
 - `reports/figures/` – exported figures
-
-After the cleaning notebooks have generated their processed CSV files, run:
-
-```bash
-python -m src.merge_dataset
-```
-
-This creates `data/processed/combined_dataset.csv` by combining the processed
-files side by side, so each row remains one respondent. The input files must
-contain the same respondents in the same order and have unique column names.
