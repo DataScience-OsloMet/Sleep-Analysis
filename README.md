@@ -5,14 +5,24 @@ Data: NHIS 2024 Sample Adult file (CDC).
 
 ## Setup
 
+The project uses **Python 3.14.7**. The required version is recorded in
+`.python-version`, while `.venv/` is created locally for each contributor and
+is not checked into Git.
+
 ```bash
-python -m venv .venv
+# Windows (PowerShell): use the Python launcher to select the required version
+py -3.14 -m venv .venv
 # Windows (PowerShell):  .venv\Scripts\Activate.ps1
 # Windows (Git Bash):    source .venv/Scripts/activate
 # macOS/Linux:           source .venv/bin/activate
-pip install -r requirements.txt
+python --version  # must be Python 3.14.7
+python -m pip install -r requirements.txt
 python scripts/download_data.py
 ```
+
+If `python --version` is not `Python 3.14.7`, remove `.venv`, install Python
+3.14.7, and run the setup commands again. With `pyenv`, the `.python-version`
+file selects the version automatically before creating `.venv`.
 
 ## Data
 
