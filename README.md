@@ -1,55 +1,32 @@
 # Sleep-Analysis
 
-## Setup
+DATA3800 group project: does working alongside studies affect students' sleep?
+Data: NHIS 2024 Sample Adult file (CDC).
 
-The project uses **Python 3.14.7**, recorded in `.python-version`. `.venv/` is
-created locally by each contributor and is not checked into Git.
+## Get started
 
-### Recommended: uv (picks the right Python automatically)
-
-[uv](https://docs.astral.sh/uv/) reads `.python-version`, downloads exactly
-Python 3.14.7 if it is missing, and creates `.venv` with it.
+1. Install [uv](https://docs.astral.sh/uv/) (once). It fetches the right Python (3.14.7) for you.
+2. In the project folder, run:
 
 ```bash
-uv venv
-# Windows (PowerShell):  .venv\Scripts\Activate.ps1
-# Windows (Git Bash):    source .venv/Scripts/activate
-# macOS/Linux:           source .venv/bin/activate
-uv pip install -r requirements.txt
-python scripts/download_data.py
+python scripts/setup.py      # once: creates .venv, installs packages, downloads the data
+python scripts/notebook.py   # opens JupyterLab
 ```
 
-### Without uv
+You do not need to activate `.venv`. In VS Code, open a notebook, click
+**Select Kernel** and choose `.venv`.
 
-```bash
-# Windows (PowerShell): use the Python launcher to select the required version
-py -3.14 -m venv .venv
-# Windows (PowerShell):  .venv\Scripts\Activate.ps1
-# Windows (Git Bash):    source .venv/Scripts/activate
-# macOS/Linux:           source .venv/bin/activate
-python scripts/check_python.py  # stops with an error unless Python is exactly 3.14.7
-python -m pip install -r requirements.txt
-python scripts/download_data.py
-```
+## If something goes wrong
 
-If `python scripts/check_python.py` reports an error, remove `.venv`, install Python
-3.14.7, and run the setup commands again. With `pyenv`, the `.python-version`
-file selects the version automatically before creating `.venv`.
+- **"needs Python 3.14.7"**: install uv (step 1), then run `python scripts/setup.py` again.
+- **".venv uses Python X"**: delete the `.venv` folder and run the setup again.
+- **"No module named pandas" in a notebook**: wrong kernel. Start with `python scripts/notebook.py`, or choose `.venv` in VS Code.
 
-## Data
+## Folders
 
-The setup command downloads the **NHIS 2024 Sample Adult CSV** automatically
-from the [CDC NHIS 2024 website](https://www.cdc.gov/nchs/nhis/2024-nhis.html)
-and extracts it to `data/raw/adult24.csv`. If the file already exists, it is
-not downloaded again.
-
-The original and processed data files are not stored in Git. Each contributor
-gets the original dataset locally by running the setup command.
-
-## Structure
-
-- `data/raw/` – original data (not tracked)
-- `data/processed/` – cleaned data (not tracked)
-- `src/` – reusable code (cleaning, analysis)
-- `notebooks/` – EDA and analysis notebooks (one per person to avoid merge conflicts)
+- `data/raw/` – original data (downloaded by the setup, not in Git)
+- `data/processed/` – cleaned data (not in Git)
+- `notebooks/` – one cleaning notebook per person
+- `scripts/` – setup and start scripts
+- `src/` – shared code
 - `reports/figures/` – exported figures
