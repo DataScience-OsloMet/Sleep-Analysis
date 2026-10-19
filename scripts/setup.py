@@ -63,7 +63,7 @@ def main():
         run([VENV_PYTHON, "-m", "pip", "install", "-r", "requirements.txt"])
 
     run([VENV_PYTHON, "scripts/download_data.py"])
-    print("\nDone. Open the notebooks with:  python scripts/notebook.py")
+    print("\nDone. Open this folder in VS Code, open a notebook and select the .venv kernel.")
 
 
 if __name__ == "__main__":
