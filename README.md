@@ -40,13 +40,14 @@ Put analysis and plots in `analysis/` (one numbered file per topic).
 - **"needs Python 3.14.7"**: install uv (step 1), then run `python scripts/setup.py` again.
 - **".venv uses Python X"**: delete the `.venv` folder and run the setup again.
 - **"CERTIFICATE_VERIFY_FAILED" when downloading the data**: update the project (`git pull`) and run `python scripts/setup.py` again, it retries automatically. If it still fails, download [adult24csv.zip](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2024/adult24csv.zip) in your browser, unzip it, put `adult24.csv` in `data/raw/`, and run the setup again.
-- **"No module named pandas" in a notebook**: wrong kernel. Click **Select Kernel** and choose `.venv`.
+- **"No module named pandas" in the interactive window**: wrong kernel. Click **Select Kernel** and choose `.venv`.
 
 ## Folders
 
 - `data/raw/` – original data (downloaded by the setup, not in Git)
 - `data/processed/` – cleaned data and the combined dataset (not in Git)
-- `notebooks/` – one cleaning notebook per person
-- `scripts/` – setup, run-all and merge scripts
+- `analysis/` – analysis scripts with `# %%` cells
+- `docs/codebook/` – codebook screenshots
+- `scripts/` – setup and run-all
 - `src/` – shared code
 - `reports/figures/` – exported figures
