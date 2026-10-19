@@ -1,8 +1,5 @@
 # Sleep-Analysis
 
-DATA3800 – Mandatory assignment 2. How is sleep deprivation related to lifestyle choices?
-Data: NHIS 2024 Sample Adult file (CDC).
-
 ## Setup
 
 The project uses **Python 3.14.7**, recorded in `.python-version`. `.venv/` is
@@ -19,19 +16,6 @@ uv venv
 # Windows (Git Bash):    source .venv/Scripts/activate
 # macOS/Linux:           source .venv/bin/activate
 uv pip install -r requirements.txt
-python scripts/download_data.py
-```
-
-### Without uv
-
-```bash
-# Windows (PowerShell): use the Python launcher to select the required version
-py -3.14 -m venv .venv
-# Windows (PowerShell):  .venv\Scripts\Activate.ps1
-# Windows (Git Bash):    source .venv/Scripts/activate
-# macOS/Linux:           source .venv/bin/activate
-python scripts/check_python.py  # stops with an error unless Python is exactly 3.14.7
-python -m pip install -r requirements.txt
 python scripts/download_data.py
 ```
 
