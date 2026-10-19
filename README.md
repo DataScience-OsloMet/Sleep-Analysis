@@ -11,12 +11,18 @@ python -m venv .venv
 # Windows (Git Bash):    source .venv/Scripts/activate
 # macOS/Linux:           source .venv/bin/activate
 pip install -r requirements.txt
+python scripts/download_data.py
 ```
 
 ## Data
 
-Download the NHIS 2024 Sample Adult CSV from the CDC and place it in `data/raw/`.
-The data is not stored in git.
+The setup command downloads the **NHIS 2024 Sample Adult CSV** automatically
+from the [CDC NHIS 2024 website](https://www.cdc.gov/nchs/nhis/2024-nhis.html)
+and extracts it to `data/raw/adult24.csv`. If the file already exists, it is
+not downloaded again.
+
+The original and processed data files are not stored in Git. Each contributor
+gets the original dataset locally by running the setup command.
 
 ## Structure
 
