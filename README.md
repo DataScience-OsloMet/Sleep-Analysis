@@ -5,9 +5,24 @@ Data: NHIS 2024 Sample Adult file (CDC).
 
 ## Setup
 
-The project uses **Python 3.14.7**. The required version is recorded in
-`.python-version`, while `.venv/` is created locally for each contributor and
-is not checked into Git.
+The project uses **Python 3.14.7**, recorded in `.python-version`. `.venv/` is
+created locally by each contributor and is not checked into Git.
+
+### Recommended: uv (picks the right Python automatically)
+
+[uv](https://docs.astral.sh/uv/) reads `.python-version`, downloads exactly
+Python 3.14.7 if it is missing, and creates `.venv` with it.
+
+```bash
+uv venv
+# Windows (PowerShell):  .venv\Scripts\Activate.ps1
+# Windows (Git Bash):    source .venv/Scripts/activate
+# macOS/Linux:           source .venv/bin/activate
+uv pip install -r requirements.txt
+python scripts/download_data.py
+```
+
+### Without uv
 
 ```bash
 # Windows (PowerShell): use the Python launcher to select the required version
@@ -15,12 +30,12 @@ py -3.14 -m venv .venv
 # Windows (PowerShell):  .venv\Scripts\Activate.ps1
 # Windows (Git Bash):    source .venv/Scripts/activate
 # macOS/Linux:           source .venv/bin/activate
-python --version  # must be Python 3.14.7
+python scripts/check_python.py  # stops with an error unless Python is exactly 3.14.7
 python -m pip install -r requirements.txt
 python scripts/download_data.py
 ```
 
-If `python --version` is not `Python 3.14.7`, remove `.venv`, install Python
+If `python scripts/check_python.py` reports an error, remove `.venv`, install Python
 3.14.7, and run the setup commands again. With `pyenv`, the `.python-version`
 file selects the version automatically before creating `.venv`.
 
