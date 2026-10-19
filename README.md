@@ -15,8 +15,26 @@ pip install -r requirements.txt
 
 ## Data
 
-Download the NHIS 2024 Sample Adult CSV from the CDC and place it in `data/raw/`.
-The data is not stored in git.
+Download the **NHIS 2024 Sample Adult CSV** from the
+[CDC NHIS 2024 website](https://www.cdc.gov/nchs/nhis/2024-nhis.html).
+
+Place the downloaded file at:
+
+```text
+data/raw/adult24.csv
+```
+
+On Windows PowerShell, verify that the file is available before running the
+notebooks:
+
+```powershell
+if (-not (Test-Path data/raw/adult24.csv)) {
+    Write-Error "Missing data/raw/adult24.csv. Download the NHIS 2024 Sample Adult CSV first."
+}
+```
+
+The original and processed data files are not stored in Git. Each contributor
+must download the original dataset locally.
 
 ## Structure
 
