@@ -1,6 +1,6 @@
 # %% [markdown]
 # # Work hours and sleep: first look
-# Run cell by cell in VS Code ("Run Cell" above each `# %%`), or the whole file:
+# Run cell by cell in VS Code ("Run Cell" above each `# %%`).
 # First build the data once:  `uv run python -m src.pipeline`
 
 # %%
