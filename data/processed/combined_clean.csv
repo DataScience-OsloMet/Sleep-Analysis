@@ -1,0 +1,1086 @@
+household_id,age,survey_weight,weekly_work_hours,activityLevelPerGuidelines,gender,monthly_troubleStayingAsleep,monthly_troubleSleeping,monthly_fullyRested,nightly_sleep,anxiety_frequency,depression_frequency,serious_distress,kids_household,education_level,family_income,food_security,housing_cost,high_blpressure,had_asthma,had_arthritis,had_diabetes,food_security_level
+H068201,21,6729.923,30,Sufficiently active,Female,Never,Some Days,Every Day,8,5.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H029511,28,13866.114,40,Sufficiently active,Female,Every Day,Some Days,Most days,7,1.0,3.0,2.0,0,8,12,1.0,YES,NO,YES,NO,NO,High
+H065349,18,11149.228,0,Sufficiently active,Female,Some Days,Some Days,Some Days,8,5.0,5.0,2.0,3,1,5,1.0,NO,NO,NO,NO,NO,High
+H028264,19,16847.17,20,Sufficiently active,Male,Most days,Never,Most days,5,1.0,1.0,2.0,3,5,14,1.0,NO,NO,YES,NO,NO,High
+H008231,18,2690.076,40,Insufficiently active,Female,Most days,Some Days,Most days,7,1.0,4.0,2.0,0,4,6,1.0,NO,NO,NO,NO,NO,High
+H005363,23,19022.851,0,Sufficiently active,Female,Some Days,Never,Some Days,7,1.0,4.0,2.0,0,8,2,2.0,NO,NO,NO,NO,NO,Marginal
+H030418,18,25384.251,0,Sufficiently active,Female,Never,Most days,Some Days,7,2.0,3.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H003248,18,25360.021,0,Inactive,Female,Never,Never,Most days,7,4.0,5.0,2.0,1,2,11,1.0,NO,NO,NO,NO,NO,High
+H013347,23,25096.9,44,Sufficiently active,Male,Never,Some Days,Some Days,6,2.0,4.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H041397,20,15901.31,0,Inactive,Female,Most days,Some Days,Some Days,6,2.0,3.0,2.0,0,5,1,3.0,NO,NO,YES,NO,NO,Low
+H061042,19,17610.467,0,Sufficiently active,Female,Never,Most days,Most days,6,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H008068,21,5922.314,0,Sufficiently active,Female,Never,Most days,Some Days,7,5.0,4.0,2.0,0,7,1,1.0,NO,NO,NO,NO,NO,High
+H026441,20,30879.927,0,Sufficiently active,Male,Some Days,Some Days,Most days,7,4.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H049726,18,18282.91,0,Inactive,Male,Never,Never,Every Day,20,4.0,5.0,2.0,3,5,5,1.0,YES,NO,YES,NO,NO,High
+H073068,25,3335.074,40,Inactive,Male,Never,Some Days,Some Days,7,3.0,5.0,2.0,1,5,9,3.0,YES,NO,NO,NO,NO,Low
+H045622,26,12173.824,0,Insufficiently active,Male,Never,Never,Every Day,7,5.0,5.0,2.0,3,5,10,1.0,NO,NO,YES,NO,NO,High
+H039656,29,8164.995,50,Sufficiently active,Male,Some Days,Some Days,Some Days,7,5.0,5.0,2.0,0,5,13,1.0,NO,NO,NO,NO,NO,High
+H074249,22,26963.683,25,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,3.0,2.0,1,5,9,1.0,NO,NO,NO,NO,NO,High
+H076706,21,8083.567,40,Sufficiently active,Male,Most days,Most days,Most days,7,4.0,4.0,2.0,0,4,7,3.0,NO,NO,NO,NO,YES,Low
+H001032,26,9684.93,40,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,3.0,2.0,0,8,13,1.0,NO,NO,NO,NO,NO,High
+H019614,28,15249.976,50,Inactive,Male,Never,Some Days,Most days,8,5.0,5.0,2.0,1,8,13,1.0,NO,NO,NO,NO,NO,High
+H078467,19,4723.285,15,Sufficiently active,Female,Never,Some Days,Most days,8,3.0,4.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H000384,23,5278.176,0,Sufficiently active,Male,Never,Some Days,Some Days,6,2.0,3.0,2.0,0,7,2,1.0,NO,NO,NO,NO,NO,High
+H062074,22,33482.845,32,Inactive,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H059373,18,12860.73,0,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,1,8,1.0,NO,NO,NO,NO,NO,High
+H009673,20,32721.0,17,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,5.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H019604,22,12684.907,40,Inactive,Female,Some Days,Some Days,Most days,8,5.0,5.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H060330,19,20281.251,30,Sufficiently active,Female,Never,Some Days,Most days,7,4.0,5.0,2.0,2,5,6,4.0,YES,NO,YES,NO,NO,Very Low
+H065635,20,34054.844,0,Insufficiently active,Female,Some Days,Most days,Most days,7,2.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H072794,29,20032.616,40,Inactive,Male,Never,Never,Never,7,4.0,5.0,2.0,1,4,13,1.0,NO,YES,NO,NO,NO,High
+H047426,19,32047.477,40,Insufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,2.0,2.0,0,4,7,1.0,NO,NO,YES,NO,NO,High
+H053072,18,13026.448,0,Insufficiently active,Male,Never,Never,Some Days,8,5.0,5.0,2.0,1,4,3,1.0,NO,NO,NO,NO,NO,High
+H058248,21,12615.791,0,Inactive,Male,Never,Some Days,Most days,7,2.0,5.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H036266,21,31466.98,0,Sufficiently active,Female,Some Days,Never,Most days,7,3.0,5.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H004306,19,10765.96,0,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,4.0,2.0,0,5,9,4.0,YES,NO,NO,NO,NO,Very Low
+H020557,28,10753.897,0,Inactive,Female,Never,Never,Never,5,5.0,5.0,2.0,1,1,1,2.0,NO,YES,YES,NO,NO,Marginal
+H048953,23,12138.05,0,Sufficiently active,Male,Most days,Never,Some Days,5,1.0,5.0,2.0,0,5,2,1.0,NO,NO,YES,NO,NO,High
+H027759,29,4585.994,20,Sufficiently active,Female,Some Days,Never,Most days,8,2.0,4.0,2.0,0,9,7,1.0,NO,NO,NO,NO,NO,High
+H025707,25,7576.178,40,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,1,8,10,1.0,NO,YES,NO,NO,NO,High
+H011465,20,17543.735,8,Sufficiently active,Male,Never,Some Days,Most days,7,3.0,5.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H007522,18,19333.802,0,Sufficiently active,Female,Never,Some Days,Some Days,8,5.0,5.0,2.0,0,1,10,1.0,NO,NO,NO,NO,NO,High
+H075134,23,10826.318,28,Sufficiently active,Female,Never,Most days,Most days,6,4.0,4.0,2.0,0,5,9,4.0,NO,YES,NO,NO,NO,Very Low
+H056817,28,8557.598,40,Sufficiently active,Male,Some Days,Some Days,Most days,9,2.0,5.0,2.0,0,9,11,1.0,NO,NO,NO,NO,NO,High
+H027130,24,15699.503,0,Sufficiently active,Female,Some Days,Never,Most days,7,,4.0,2.0,0,8,1,1.0,NO,NO,YES,NO,NO,High
+H011881,23,31466.98,27,Insufficiently active,Female,Some Days,Never,Some Days,5,1.0,2.0,2.0,0,5,13,1.0,NO,NO,NO,NO,NO,High
+H062284,24,3616.068,25,Inactive,Male,Never,Never,Most days,8,4.0,4.0,2.0,0,8,6,1.0,NO,NO,NO,NO,NO,High
+H027506,19,32176.615,0,Inactive,Male,Never,Most days,Most days,12,5.0,5.0,2.0,1,2,1,3.0,NO,NO,NO,NO,NO,Low
+H075050,19,20246.392,30,Inactive,Female,Never,Some Days,Most days,7,5.0,5.0,2.0,0,5,1,2.0,NO,NO,NO,NO,NO,Marginal
+H079342,21,19208.692,0,Insufficiently active,Male,Never,Most days,Some Days,7,2.0,4.0,2.0,0,7,11,1.0,NO,NO,NO,NO,NO,High
+H020997,21,4716.32,35,Insufficiently active,Female,Some Days,Never,Never,6,2.0,5.0,2.0,0,4,5,1.0,NO,NO,NO,NO,NO,High
+H016070,26,1868.009,40,Sufficiently active,Male,Some Days,Some Days,Some Days,7,1.0,2.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H071710,29,13744.622,0,Sufficiently active,Male,Some Days,Some Days,Some Days,7,5.0,3.0,2.0,2,5,4,2.0,,NO,NO,NO,NO,Marginal
+H000893,22,31478.417,0,Insufficiently active,Female,Never,Some Days,Some Days,7,2.0,2.0,2.0,0,4,3,1.0,NO,NO,YES,NO,NO,High
+H052420,21,18785.752,30,Inactive,Female,Never,Never,Most days,8,1.0,5.0,2.0,0,5,8,2.0,NO,NO,NO,NO,NO,Marginal
+H051822,21,17636.199,30,Insufficiently active,Female,Some Days,Never,Some Days,8,2.0,4.0,2.0,0,5,3,1.0,NO,NO,YES,NO,NO,High
+H013829,24,6817.533,40,Inactive,Female,Most days,Some Days,Some Days,7,3.0,2.0,2.0,1,6,6,1.0,NO,NO,NO,NO,NO,High
+H058102,18,26393.047,4,Inactive,Female,Never,Never,Never,7,5.0,5.0,2.0,3,1,5,3.0,NO,NO,NO,NO,NO,Low
+H038911,28,11125.666,0,Sufficiently active,Female,Some Days,Never,Most days,7,1.0,3.0,2.0,1,8,9,2.0,NO,NO,NO,NO,NO,Marginal
+H069227,19,29421.666,32,Inactive,Male,Never,Never,Never,8,2.0,2.0,2.0,1,7,13,1.0,NO,NO,NO,NO,NO,High
+H072510,23,14379.55,36,Insufficiently active,Female,Most days,Some Days,Some Days,8,1.0,5.0,2.0,1,6,10,2.0,NO,NO,NO,NO,NO,Marginal
+H001368,18,10158.644,0,Insufficiently active,Male,Never,Never,Most days,12,3.0,3.0,2.0,0,1,8,1.0,NO,NO,NO,NO,NO,High
+H014535,19,15999.578,48,Sufficiently active,Male,Never,Some Days,Some Days,6,5.0,5.0,2.0,0,4,12,1.0,NO,NO,YES,NO,NO,High
+H049470,21,13118.139,0,Insufficiently active,Female,Most days,Most days,Some Days,6,2.0,3.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H042171,19,22900.29,30,Sufficiently active,Female,Never,Some Days,Every Day,8,4.0,5.0,2.0,2,5,12,1.0,NO,NO,NO,NO,NO,High
+H062083,24,12476.081,40,Sufficiently active,Male,Some Days,Some Days,Some Days,7,4.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H024126,18,2027.064,0,Inactive,Female,Never,Some Days,Most days,8,4.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H058900,22,3190.336,8,Sufficiently active,Male,Some Days,Some Days,Most days,6,5.0,5.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H001278,24,6541.29,0,Insufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,1,1,1,1.0,NO,NO,YES,NO,NO,High
+H045302,19,16541.721,0,Sufficiently active,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,1,5,14,1.0,NO,NO,YES,NO,NO,High
+H013816,27,14395.971,30,Sufficiently active,Male,Some Days,Some Days,Most days,7,5.0,5.0,2.0,2,5,6,1.0,NO,NO,NO,NO,NO,High
+H034307,18,20090.398,0,Insufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,1,2,4,2.0,NO,NO,NO,NO,NO,Marginal
+H053111,26,13370.38,0,Sufficiently active,Female,Some Days,Never,Some Days,6,3.0,5.0,2.0,1,5,5,1.0,NO,NO,NO,NO,NO,High
+H077884,18,32750.573,9,Sufficiently active,Male,Some Days,Never,Some Days,7,2.0,4.0,2.0,1,2,13,1.0,NO,NO,NO,NO,NO,High
+H042611,27,8600.259,6,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,4.0,2.0,0,8,9,1.0,NO,YES,NO,NO,NO,High
+H041368,19,35212.915,0,Sufficiently active,Male,Some Days,Some Days,Some Days,9,4.0,5.0,2.0,1,5,3,2.0,NO,NO,NO,NO,NO,Marginal
+H059598,21,27359.015,0,Sufficiently active,Female,Most days,Most days,Some Days,7,1.0,2.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H029353,23,6020.189,0,Sufficiently active,Female,Some Days,Some Days,Some Days,7,1.0,3.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H079674,22,16099.226,15,Sufficiently active,Female,Never,Some Days,Most days,8,3.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H044348,21,8817.57,50,Sufficiently active,Female,Some Days,Some Days,Every Day,9,1.0,5.0,2.0,0,7,12,1.0,NO,NO,NO,NO,NO,High
+H050857,20,28025.406,40,Insufficiently active,Female,Never,Never,Every Day,7,5.0,5.0,2.0,1,4,6,1.0,NO,NO,NO,NO,NO,High
+H059240,21,11545.517,0,Inactive,Female,Never,Some Days,Most days,8,3.0,5.0,2.0,1,4,3,2.0,NO,NO,YES,NO,NO,Marginal
+H050760,22,31718.903,0,Insufficiently active,Male,Never,Never,Some Days,6,5.0,5.0,2.0,0,9,3,1.0,NO,NO,NO,NO,NO,High
+H054394,20,28545.566,0,Sufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,1,5,11,1.0,YES,NO,NO,NO,NO,High
+H078641,27,20542.259,0,Insufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,9,1,4.0,NO,NO,NO,NO,NO,Very Low
+H072892,21,8413.934,24,Insufficiently active,Male,Never,Most days,Some Days,7,2.0,4.0,2.0,0,4,7,1.0,NO,YES,NO,NO,NO,High
+H003573,21,22000.595,30,Sufficiently active,Male,Most days,Some Days,Most days,7,4.0,5.0,2.0,0,4,4,1.0,NO,NO,YES,NO,NO,High
+H016213,23,2627.994,32,Sufficiently active,Female,Every Day,Every Day,Never,5,5.0,5.0,2.0,2,3,3,1.0,NO,NO,NO,NO,NO,High
+H067184,18,22212.239,20,Sufficiently active,Female,Most days,Every Day,Some Days,6,1.0,2.0,2.0,1,1,14,1.0,NO,YES,YES,NO,NO,High
+H054825,20,11310.081,0,Insufficiently active,Female,Never,Some Days,Some Days,8,2.0,3.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H073992,29,9084.846,20,Sufficiently active,Female,Every Day,Some Days,Some Days,8,1.0,2.0,2.0,0,8,14,2.0,YES,NO,NO,NO,NO,Marginal
+H077869,18,21920.736,0,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,1,4,1.0,NO,NO,NO,NO,NO,High
+H034196,24,16979.065,40,Sufficiently active,Female,Never,Never,Some Days,5,1.0,4.0,2.0,0,8,11,1.0,NO,NO,YES,NO,NO,High
+H064567,18,32366.884,0,Sufficiently active,Male,Never,Never,Most days,9,3.0,5.0,2.0,1,1,14,1.0,NO,NO,NO,NO,NO,High
+H070606,22,11901.737,0,Sufficiently active,Male,Never,Some Days,Most days,9,3.0,5.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H036903,20,14870.338,6,Sufficiently active,Female,Some Days,Some Days,Most days,8,3.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H054007,19,4370.894,25,Sufficiently active,Male,Never,Most days,Some Days,6,4.0,4.0,2.0,1,5,8,1.0,NO,NO,YES,NO,NO,High
+H061586,21,7426.476,0,Inactive,Male,Never,Never,Every Day,12,1.0,5.0,2.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H045255,20,20445.595,16,Inactive,Female,Never,Some Days,Some Days,6,2.0,5.0,2.0,2,5,9,1.0,NO,NO,YES,NO,NO,High
+H013735,21,22312.306,10,,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,1,8,7,1.0,NO,NO,NO,NO,NO,High
+H071438,19,30964.651,0,Sufficiently active,Female,Never,Some Days,Most days,6,2.0,5.0,2.0,0,5,2,2.0,NO,NO,NO,NO,NO,Marginal
+H072356,28,3630.331,55,Sufficiently active,Male,Every Day,Every Day,Some Days,4,1.0,2.0,2.0,0,8,7,2.0,NO,NO,NO,NO,NO,Marginal
+H069397,18,19351.869,0,Insufficiently active,Female,Never,Never,Most days,8,5.0,5.0,2.0,0,5,6,1.0,NO,NO,NO,NO,NO,High
+H067591,20,16234.165,0,Sufficiently active,Female,Some Days,Most days,Some Days,10,1.0,3.0,2.0,1,4,9,2.0,NO,NO,NO,NO,NO,Marginal
+H071894,21,23708.782,0,Sufficiently active,Female,Never,Some Days,Most days,7,4.0,5.0,2.0,0,8,8,1.0,NO,NO,YES,NO,NO,High
+H054110,25,21293.721,40,Sufficiently active,Male,Never,Most days,Some Days,4,1.0,2.0,1.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H006120,18,20037.729,0,Sufficiently active,Female,Never,Never,Some Days,7,2.0,5.0,2.0,2,4,7,1.0,NO,NO,NO,NO,NO,High
+H002790,22,29961.977,0,Sufficiently active,Female,Never,Never,Most days,6,5.0,5.0,2.0,0,3,3,1.0,NO,NO,NO,NO,NO,High
+H048899,20,14536.812,20,Inactive,Female,Every Day,Every Day,Every Day,10,1.0,2.0,1.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H016866,19,26937.702,20,Sufficiently active,Male,Never,Some Days,Most days,8,2.0,3.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H017133,19,14235.247,25,Sufficiently active,Female,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,7,7,1.0,NO,NO,NO,NO,NO,High
+H057235,25,22515.666,8,Sufficiently active,Male,Some Days,Some Days,Most days,8,5.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H003289,25,11624.418,0,Insufficiently active,Female,Most days,Most days,Some Days,8,1.0,2.0,2.0,1,5,9,2.0,NO,YES,YES,NO,NO,Marginal
+H051272,18,31272.547,0,Insufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,0,1,13,1.0,NO,NO,NO,NO,NO,High
+H006163,26,5130.642,30,Sufficiently active,Female,Every Day,Every Day,Some Days,6,2.0,2.0,1.0,0,7,9,4.0,NO,NO,NO,NO,NO,Very Low
+H037350,23,31421.479,0,Inactive,Female,Most days,Every Day,Never,8,1.0,2.0,1.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H054241,19,15721.649,0,Sufficiently active,Female,Never,Some Days,Most days,7,2.0,4.0,2.0,0,5,1,1.0,NO,NO,YES,NO,NO,High
+H034751,28,13801.957,40,Sufficiently active,Male,Never,Never,Some Days,8,4.0,5.0,2.0,1,8,2,3.0,NO,NO,NO,NO,NO,Low
+H069282,25,10013.197,40,Insufficiently active,Male,Never,Some Days,Some Days,7,4.0,5.0,2.0,0,8,11,1.0,NO,NO,NO,NO,NO,High
+H063250,24,14541.683,25,Sufficiently active,Male,Some Days,Never,Some Days,7,4.0,5.0,2.0,2,8,3,1.0,NO,NO,NO,NO,NO,High
+H059033,29,6613.052,0,Sufficiently active,Female,Never,Never,Some Days,7,5.0,5.0,2.0,0,8,5,2.0,NO,NO,NO,NO,NO,Marginal
+H029444,29,22272.613,40,Insufficiently active,Male,Some Days,Some Days,Some Days,5,2.0,3.0,2.0,3,5,7,2.0,YES,NO,NO,NO,NO,Marginal
+H055895,18,21018.009,0,Insufficiently active,Female,Most days,Never,Most days,6,4.0,5.0,2.0,0,2,14,1.0,NO,NO,YES,NO,NO,High
+H061008,21,7577.95,45,Sufficiently active,Male,Never,Never,Some Days,5,5.0,5.0,2.0,0,4,9,1.0,NO,NO,NO,NO,NO,High
+H039902,20,33013.945,0,Insufficiently active,Female,Never,Never,Every Day,8,4.0,5.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H063423,20,20648.207,0,Sufficiently active,Female,Never,Never,Most days,7,5.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H022064,27,4584.618,40,Sufficiently active,Female,Some Days,Never,Most days,8,2.0,3.0,2.0,0,9,6,1.0,NO,NO,NO,NO,NO,High
+H007327,20,32429.415,0,Sufficiently active,Male,Never,Never,Most days,13,2.0,2.0,2.0,1,8,4,2.0,NO,NO,YES,NO,NO,Marginal
+H027603,23,4004.462,0,Insufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,0,8,2,1.0,NO,NO,NO,NO,NO,High
+H049764,26,16169.514,0,Insufficiently active,Female,Some Days,Never,Never,7,1.0,3.0,2.0,2,5,8,1.0,NO,YES,NO,YES,NO,High
+H040435,24,5920.153,40,Inactive,Female,Most days,Some Days,Some Days,9,1.0,2.0,1.0,0,5,8,4.0,NO,NO,YES,NO,NO,Very Low
+H045751,27,8934.161,40,Sufficiently active,Female,Most days,Some Days,Some Days,8,1.0,3.0,2.0,0,9,14,1.0,NO,NO,NO,NO,NO,High
+H053472,19,4857.408,5,Sufficiently active,Female,Never,Never,Most days,9,4.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H023382,18,26042.304,0,Sufficiently active,Female,Never,Some Days,Some Days,7,1.0,4.0,2.0,3,4,4,2.0,NO,NO,NO,NO,NO,Marginal
+H070425,18,11926.025,0,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,4,4,1.0,NO,NO,NO,NO,NO,High
+H018744,19,23101.529,0,Sufficiently active,Female,Never,Some Days,Some Days,5,2.0,4.0,2.0,1,5,14,1.0,NO,NO,YES,NO,NO,High
+H025913,18,12469.751,0,Sufficiently active,Female,Never,Some Days,Most days,7,3.0,4.0,2.0,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H023681,24,10497.51,8,Sufficiently active,Male,Some Days,Some Days,Most days,6,4.0,4.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H016681,21,31466.98,20,Inactive,Female,Never,Never,Most days,8,5.0,5.0,2.0,0,7,8,1.0,NO,NO,NO,NO,NO,High
+H042481,21,5517.341,0,Insufficiently active,Male,Some Days,Most days,Most days,8,2.0,3.0,2.0,0,3,14,1.0,NO,YES,NO,NO,YES,High
+H063569,18,17770.902,8,,Female,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,2,14,1.0,NO,NO,YES,NO,NO,High
+H043288,23,30166.963,28,Sufficiently active,Male,Some Days,Most days,Some Days,6,2.0,3.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H007010,19,28565.183,30,Sufficiently active,Male,Never,Never,Every Day,7,5.0,5.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H039989,18,11773.208,2,Sufficiently active,Female,Most days,Most days,Some Days,8,2.0,3.0,2.0,1,2,14,1.0,NO,NO,NO,NO,NO,High
+H000621,28,7616.021,20,Insufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,2,7,1,1.0,NO,NO,NO,NO,NO,High
+H023465,27,3721.404,29,Insufficiently active,Female,Every Day,Every Day,Never,6,1.0,4.0,1.0,0,9,5,4.0,NO,NO,NO,NO,NO,Very Low
+H014061,26,10336.565,0,Insufficiently active,Female,Never,Never,Every Day,7,4.0,5.0,2.0,0,9,9,1.0,NO,NO,NO,NO,NO,High
+H046754,20,25380.393,8,Sufficiently active,Female,Never,Most days,Every Day,7,5.0,5.0,2.0,1,5,2,1.0,NO,NO,NO,NO,NO,High
+H074379,26,8691.22,0,Inactive,Female,Most days,Most days,Never,5,1.0,3.0,1.0,1,2,2,4.0,YES,YES,NO,NO,NO,Very Low
+H012656,29,12933.719,36,Insufficiently active,Female,Most days,Some Days,Some Days,8,3.0,4.0,2.0,1,5,5,4.0,YES,NO,NO,NO,NO,Very Low
+H043121,20,30587.056,25,Inactive,Male,Some Days,Every Day,Some Days,6,1.0,2.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H011423,28,12224.694,40,Insufficiently active,Male,Some Days,Some Days,Every Day,8,4.0,5.0,2.0,3,5,8,1.0,NO,NO,NO,NO,NO,High
+H032663,25,2537.627,40,Inactive,Female,Some Days,Most days,Most days,8,2.0,3.0,2.0,0,3,14,1.0,NO,NO,NO,NO,NO,High
+H001284,19,11517.747,0,Sufficiently active,Male,Never,Never,Most days,10,5.0,5.0,2.0,2,2,5,1.0,NO,NO,NO,NO,NO,High
+H067666,21,11058.245,30,Sufficiently active,Male,Never,Some Days,Some Days,6,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H028796,25,17557.313,48,Inactive,Female,Never,Never,Some Days,7,1.0,5.0,2.0,0,4,13,1.0,NO,NO,NO,NO,NO,High
+H047258,19,10620.575,20,Inactive,Female,Never,Most days,Most days,8,5.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H016105,22,27584.615,4,Insufficiently active,Female,Never,Most days,Most days,6,2.0,4.0,2.0,0,8,9,1.0,NO,YES,NO,NO,NO,High
+H078425,21,4929.827,7,Sufficiently active,Male,Some Days,Some Days,Most days,8,5.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H066830,24,4929.827,29,Sufficiently active,Male,Never,Never,Most days,8,1.0,3.0,2.0,0,5,4,1.0,YES,NO,NO,NO,NO,High
+H004163,23,4201.138,13,Sufficiently active,Male,Some Days,Some Days,Some Days,8,2.0,3.0,2.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H014521,23,9320.327,37,Insufficiently active,Female,Most days,Some Days,Most days,7,3.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H010449,21,15570.175,0,Insufficiently active,Female,Some Days,Never,Some Days,9,2.0,5.0,2.0,0,5,1,1.0,NO,NO,YES,NO,NO,High
+H068569,23,9040.551,35,Insufficiently active,Female,Never,Never,Most days,8,1.0,5.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H075967,18,29781.307,0,Sufficiently active,Female,Never,Never,Every Day,8,4.0,4.0,2.0,0,5,13,1.0,NO,NO,NO,NO,NO,High
+H025776,18,17711.183,0,Insufficiently active,Male,Never,Never,Never,7,5.0,5.0,2.0,2,4,3,1.0,NO,NO,NO,NO,NO,High
+H033729,27,7651.085,40,Sufficiently active,Male,Never,Never,Most days,7,4.0,4.0,2.0,0,8,13,1.0,NO,NO,NO,NO,NO,High
+H074924,20,21313.006,0,Insufficiently active,Female,Never,Never,Never,8,1.0,1.0,1.0,1,5,5,3.0,NO,NO,NO,NO,NO,Low
+H004631,20,18731.002,35,Sufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,3.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H051415,18,15777.331,0,Inactive,Female,Some Days,Some Days,Never,6,4.0,4.0,2.0,1,1,9,1.0,NO,NO,NO,NO,NO,High
+H013171,19,34812.976,30,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H064502,21,3890.026,0,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,4,1,1.0,NO,NO,NO,NO,NO,High
+H029288,20,15345.551,20,Sufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,2,5,9,1.0,NO,NO,NO,NO,NO,High
+H031459,26,13684.935,25,Sufficiently active,Male,Every Day,Every Day,Some Days,7,2.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H032915,28,11342.074,40,Sufficiently active,Male,Never,Some Days,Most days,7,3.0,4.0,2.0,2,6,7,1.0,NO,NO,NO,NO,NO,High
+H061332,21,14557.452,35,Sufficiently active,Male,Never,Never,Some Days,8,3.0,3.0,2.0,0,7,5,3.0,NO,NO,NO,NO,NO,Low
+H032029,18,31567.216,3,Sufficiently active,Female,Some Days,Some Days,Most days,7,4.0,5.0,2.0,2,2,7,3.0,NO,NO,NO,NO,NO,Low
+H051657,21,15364.163,9,Sufficiently active,Male,Never,Most days,Most days,6,2.0,3.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H023481,20,15371.382,45,Sufficiently active,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,0,5,13,1.0,NO,NO,YES,NO,NO,High
+H028373,28,11403.176,25,Sufficiently active,Female,Most days,Never,Never,7,4.0,4.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H017806,27,4433.76,0,Sufficiently active,Male,Some Days,Some Days,Most days,8,4.0,3.0,2.0,0,4,5,1.0,NO,NO,NO,NO,NO,High
+H000392,21,22063.387,0,Insufficiently active,Male,Never,Some Days,Some Days,7,2.0,3.0,2.0,2,5,11,1.0,NO,NO,NO,NO,NO,High
+H029900,27,1052.435,40,Sufficiently active,Female,Some Days,Some Days,Never,5,2.0,2.0,2.0,3,1,5,4.0,NO,NO,NO,NO,NO,Very Low
+H021740,27,2382.169,3,Sufficiently active,Female,Every Day,Most days,Some Days,5,1.0,4.0,1.0,0,5,8,3.0,NO,NO,NO,NO,NO,Low
+H054200,19,964.71,40,Insufficiently active,Male,Never,Some Days,Some Days,6,1.0,3.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H027131,23,6129.365,15,Sufficiently active,Male,Never,Some Days,Never,7,2.0,2.0,1.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H027493,20,28255.938,0,Sufficiently active,Male,Never,Never,Every Day,9,3.0,4.0,,0,4,11,1.0,NO,NO,NO,NO,NO,High
+H048635,20,15597.516,0,Sufficiently active,Male,Some Days,Some Days,Most days,7,2.0,3.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H063697,20,27609.263,0,Inactive,Female,Some Days,Some Days,Some Days,7,2.0,3.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H003860,29,8090.279,10,Sufficiently active,Female,Some Days,Never,Some Days,8,2.0,5.0,2.0,0,8,13,1.0,NO,NO,NO,NO,NO,High
+H004978,24,13200.455,0,Sufficiently active,Female,Some Days,Some Days,Some Days,7,3.0,4.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H055498,22,11680.908,8,Sufficiently active,Male,Some Days,Never,Some Days,7,2.0,4.0,2.0,0,8,1,2.0,NO,NO,NO,NO,NO,Marginal
+H071180,26,3949.995,40,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,9,14,1.0,NO,NO,NO,NO,NO,High
+H006750,22,22358.48,12,Sufficiently active,Female,Never,Never,Every Day,12,5.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H072096,24,15800.562,32,Sufficiently active,Female,Never,Never,Some Days,6,1.0,3.0,2.0,1,7,8,1.0,NO,NO,NO,NO,NO,High
+H075713,23,26763.386,0,Sufficiently active,Male,Some Days,Most days,Most days,7,1.0,5.0,2.0,0,7,14,1.0,NO,YES,NO,NO,NO,High
+H037700,27,3542.158,40,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,1,8,14,1.0,NO,NO,NO,NO,NO,High
+H025435,20,9288.244,10,Sufficiently active,Female,Never,Never,Some Days,7,1.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H042016,25,8529.327,0,Insufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H016850,28,7175.909,40,Sufficiently active,Male,Some Days,Some Days,Most days,6,3.0,5.0,2.0,0,7,13,1.0,NO,NO,NO,NO,NO,High
+H054275,23,14494.321,15,Sufficiently active,Male,Some Days,Some Days,Some Days,6,2.0,3.0,2.0,0,5,11,1.0,NO,NO,YES,NO,NO,High
+H002810,28,7588.496,40,Sufficiently active,Female,Some Days,Never,Most days,8,4.0,5.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H054217,20,31421.479,0,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,5,10,1.0,NO,NO,NO,NO,YES,High
+H018724,26,17743.177,25,Sufficiently active,Female,Some Days,Most days,Some Days,6,1.0,4.0,2.0,1,9,9,1.0,NO,NO,NO,NO,NO,High
+H038801,21,11391.56,0,Insufficiently active,Female,Never,Never,Every Day,9,5.0,5.0,2.0,0,9,3,1.0,NO,NO,NO,NO,NO,High
+H034869,18,27849.357,11,Insufficiently active,Male,Never,Never,Most days,7,4.0,5.0,2.0,0,1,14,1.0,NO,NO,NO,NO,NO,High
+H050002,23,3218.224,20,Sufficiently active,Male,Some Days,Never,Some Days,7,5.0,1.0,2.0,0,4,3,1.0,YES,NO,NO,NO,NO,High
+H060354,18,9611.44,12,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,1,1,14,1.0,NO,NO,NO,NO,NO,High
+H040098,18,8134.025,0,Insufficiently active,Male,Never,Some Days,Some Days,8,2.0,5.0,2.0,1,1,11,1.0,NO,NO,NO,NO,NO,High
+H042455,20,13240.145,10,Sufficiently active,Male,Some Days,Never,Some Days,7,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H058081,29,2222.071,0,Sufficiently active,Female,Never,Never,Most days,7,2.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H063739,19,14979.43,6,Sufficiently active,Male,Some Days,Some Days,Most days,7,4.0,5.0,2.0,1,5,8,1.0,NO,NO,YES,NO,NO,High
+H078775,27,28960.41,8,Insufficiently active,Female,Never,Never,Some Days,5,3.0,3.0,2.0,0,8,12,1.0,NO,YES,NO,NO,NO,High
+H040864,20,26168.157,0,Insufficiently active,Female,Never,Most days,Most days,10,2.0,4.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H003838,19,7194.569,0,Sufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,0,4,1,1.0,NO,NO,NO,NO,NO,High
+H024817,19,11919.828,20,Sufficiently active,Female,Every Day,Every Day,Never,6,1.0,3.0,2.0,0,4,3,1.0,NO,NO,NO,NO,NO,High
+H076650,23,15308.631,0,Insufficiently active,Male,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H009453,22,25975.903,0,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H063358,20,21821.962,0,Sufficiently active,Male,Some Days,Some Days,Some Days,8,2.0,4.0,2.0,0,5,5,1.0,NO,NO,YES,NO,NO,High
+H054534,27,5940.734,40,Insufficiently active,Female,Some Days,Some Days,Most days,7,1.0,3.0,1.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H056092,18,32064.948,0,Sufficiently active,Male,Some Days,Some Days,Some Days,7,3.0,3.0,2.0,0,5,6,1.0,NO,NO,NO,NO,NO,High
+H078542,21,16929.866,15,Insufficiently active,Female,Some Days,Most days,Most days,8,2.0,4.0,2.0,2,7,10,1.0,NO,NO,NO,NO,NO,High
+H030290,22,22196.327,16,Insufficiently active,Female,Never,Never,Every Day,8,4.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H005200,18,14304.613,25,Inactive,Female,Never,Never,Some Days,7,2.0,4.0,2.0,1,4,9,1.0,NO,NO,NO,NO,NO,High
+H022718,27,15310.465,0,Sufficiently active,Female,Never,Some Days,Most days,7,3.0,4.0,2.0,0,9,1,1.0,NO,NO,NO,NO,YES,High
+H072846,19,22582.924,0,Insufficiently active,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,1,5,3,1.0,NO,NO,NO,NO,NO,High
+H000115,18,13179.982,5,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,3.0,2.0,2,1,7,1.0,NO,NO,NO,YES,NO,High
+H050535,24,3347.49,8,Insufficiently active,Female,Never,Some Days,Most days,8,1.0,3.0,1.0,0,5,5,3.0,YES,NO,NO,NO,NO,Low
+H041606,18,13829.644,17,Insufficiently active,Female,Never,Some Days,Most days,9,2.0,2.0,2.0,1,5,3,1.0,NO,NO,NO,NO,NO,High
+H019463,27,7943.261,0,Insufficiently active,Female,Some Days,Some Days,Some Days,5,1.0,5.0,2.0,2,5,7,2.0,YES,NO,NO,NO,NO,Marginal
+H042720,28,3999.615,0,Sufficiently active,Female,Most days,Most days,Never,4,1.0,1.0,1.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H011406,18,20640.421,0,Inactive,Male,Never,Some Days,Some Days,9,1.0,4.0,2.0,0,1,14,1.0,NO,NO,NO,NO,NO,High
+H031364,23,19123.144,30,Sufficiently active,Female,Most days,Most days,Some Days,6,1.0,2.0,2.0,0,8,6,3.0,NO,NO,YES,NO,NO,Low
+H065622,18,24775.737,40,Sufficiently active,Male,Never,Some Days,Never,6,1.0,2.0,2.0,3,4,11,1.0,YES,NO,NO,NO,NO,High
+H017949,29,11011.055,40,Insufficiently active,Female,Never,Never,Some Days,7,3.0,5.0,2.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H065571,26,28109.522,0,Insufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,3.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H031832,29,28109.522,35,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,9,9,1.0,NO,NO,NO,NO,NO,High
+H025607,19,8984.559,0,Sufficiently active,Female,Most days,Some Days,Never,7,1.0,1.0,2.0,0,4,5,3.0,NO,NO,NO,NO,NO,Low
+H077488,18,13006.196,0,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,1,13,1.0,NO,NO,NO,NO,NO,High
+H074648,27,2838.854,40,Inactive,Male,Most days,Most days,Some Days,6,5.0,4.0,2.0,0,5,9,4.0,NO,NO,NO,NO,NO,Very Low
+H015393,26,12342.178,45,Sufficiently active,Female,Some Days,Some Days,Some Days,8,2.0,4.0,2.0,1,3,14,1.0,NO,NO,NO,NO,NO,High
+H043245,20,20487.526,25,Insufficiently active,Male,Never,Some Days,Some Days,7,3.0,4.0,2.0,0,7,1,1.0,NO,NO,NO,NO,NO,High
+H042195,27,3289.862,50,Sufficiently active,Female,Some Days,Never,Some Days,5,5.0,5.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H003242,20,10216.307,20,Sufficiently active,Male,Never,Never,Some Days,6,4.0,5.0,2.0,0,7,12,1.0,NO,NO,NO,NO,NO,High
+H045745,26,8677.013,50,Sufficiently active,Female,Some Days,Some Days,Never,6,1.0,2.0,1.0,0,9,10,1.0,NO,NO,NO,NO,NO,High
+H020323,28,15089.718,0,Sufficiently active,Male,Some Days,Never,Some Days,6,4.0,5.0,2.0,1,8,12,1.0,NO,NO,NO,NO,NO,High
+H063746,26,2335.991,0,Sufficiently active,Male,Most days,Some Days,Most days,8,2.0,2.0,2.0,0,8,7,2.0,NO,NO,NO,NO,NO,Marginal
+H004282,21,26256.063,21,Sufficiently active,Male,Never,Some Days,Never,6,4.0,3.0,2.0,0,5,5,3.0,YES,NO,YES,NO,NO,Low
+H010768,22,13919.454,40,Insufficiently active,Female,Some Days,Most days,Most days,6,2.0,4.0,2.0,0,6,9,1.0,NO,NO,NO,NO,NO,High
+H015798,19,27813.722,0,Insufficiently active,Female,Some Days,Some Days,Most days,8,4.0,4.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H036869,22,31793.962,0,Sufficiently active,Female,Some Days,Some Days,Some Days,10,1.0,1.0,1.0,0,7,11,1.0,NO,NO,YES,NO,NO,High
+H010818,28,14261.153,20,Sufficiently active,Male,Every Day,Most days,Some Days,7,2.0,5.0,2.0,0,8,14,1.0,NO,YES,NO,NO,NO,High
+H049391,25,7147.832,0,Sufficiently active,Female,Never,Never,Most days,7,2.0,5.0,2.0,0,9,1,1.0,NO,NO,NO,NO,NO,High
+H003926,22,14102.21,20,Sufficiently active,Male,Some Days,Most days,Most days,7,2.0,4.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H054822,21,30904.895,0,Sufficiently active,Male,Some Days,Some Days,Most days,6,4.0,5.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H003957,18,26597.281,0,Sufficiently active,Female,Never,Never,Every Day,8,2.0,5.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H029989,27,7393.846,16,Insufficiently active,Female,Never,Never,Some Days,7,3.0,4.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H024412,18,18519.272,20,Insufficiently active,Female,Some Days,Never,Most days,8,4.0,4.0,2.0,2,4,9,1.0,NO,NO,NO,NO,NO,High
+H062950,28,9859.28,0,Insufficiently active,Female,Most days,Most days,Never,6,2.0,2.0,2.0,2,5,10,1.0,NO,NO,NO,NO,NO,High
+H077677,25,2819.467,10,Inactive,Female,Some Days,Some Days,Some Days,8,3.0,4.0,2.0,1,4,1,1.0,YES,NO,NO,NO,NO,High
+H067038,22,5565.173,45,Sufficiently active,Female,Never,Some Days,Most days,8,2.0,5.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H033106,28,17003.863,40,Sufficiently active,Male,Most days,Never,Some Days,6,4.0,4.0,2.0,2,7,9,2.0,NO,NO,NO,NO,NO,Marginal
+H030260,18,32378.601,0,Sufficiently active,Male,Some Days,Some Days,Some Days,6,3.0,5.0,2.0,0,1,14,1.0,NO,NO,NO,NO,NO,High
+H038958,18,29691.795,0,Inactive,Female,Never,Never,Most days,10,1.0,4.0,2.0,0,2,3,1.0,NO,NO,NO,NO,NO,High
+H001624,24,5207.004,37,Inactive,Female,Never,Never,Some Days,7,2.0,2.0,2.0,0,7,7,1.0,NO,NO,NO,NO,NO,High
+H032509,22,3021.698,30,Sufficiently active,Male,Some Days,Some Days,Some Days,7,1.0,4.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H060117,26,5330.778,20,Insufficiently active,Female,Most days,Most days,Some Days,7,2.0,3.0,2.0,0,7,2,4.0,NO,NO,NO,YES,NO,Very Low
+H031080,23,5544.509,25,Sufficiently active,Male,Some Days,Most days,Some Days,7,2.0,4.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H073219,25,16009.826,0,Sufficiently active,Female,Never,Never,Most days,6,5.0,5.0,2.0,1,5,9,1.0,NO,NO,NO,NO,NO,High
+H073482,22,17388.213,0,Sufficiently active,Female,Never,Never,Every Day,10,5.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H008798,18,25709.478,24,Inactive,Male,Never,Never,Most days,8,3.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H023620,21,32647.913,0,Inactive,Male,Never,Never,Most days,8,4.0,4.0,2.0,2,5,5,4.0,YES,NO,NO,NO,NO,Very Low
+H078320,18,14358.128,19,Sufficiently active,Female,Never,Never,Most days,7,2.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H022297,28,3244.895,0,Sufficiently active,Male,Never,Some Days,Most days,7,3.0,2.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H048861,28,4420.906,45,Insufficiently active,Male,Never,Never,Some Days,6,3.0,5.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H015174,22,14678.662,50,Sufficiently active,Male,Never,Some Days,Never,8,2.0,2.0,2.0,0,7,11,4.0,NO,NO,YES,NO,NO,Very Low
+H015230,21,8353.763,24,Insufficiently active,Female,Some Days,Some Days,Some Days,6,5.0,3.0,2.0,0,4,6,1.0,NO,NO,YES,NO,NO,High
+H042021,22,13819.416,15,Insufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H065301,18,7760.021,24,Inactive,Female,Every Day,Every Day,Never,12,1.0,1.0,1.0,2,2,14,1.0,NO,NO,NO,NO,NO,High
+H042190,21,2455.493,25,Sufficiently active,Female,Never,Never,Most days,7,4.0,5.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H066300,23,9364.318,30,Insufficiently active,Female,Never,Never,Most days,7,5.0,5.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H074778,22,11401.721,40,Sufficiently active,Male,Never,Some Days,Most days,8,2.0,4.0,2.0,2,4,8,1.0,NO,NO,NO,NO,NO,High
+H034945,26,5383.428,0,Sufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,0,5,4,1.0,NO,NO,YES,NO,NO,High
+H005497,22,23514.442,0,Sufficiently active,Female,Never,Most days,Some Days,6,4.0,3.0,2.0,0,5,9,3.0,NO,NO,NO,NO,NO,Low
+H077944,21,5825.411,30,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H023593,19,13955.946,0,Insufficiently active,Female,Never,Never,Every Day,8,4.0,5.0,2.0,1,7,11,1.0,NO,NO,NO,NO,NO,High
+H078563,26,2470.614,2,Insufficiently active,Female,Some Days,Most days,Some Days,8,2.0,4.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H020754,26,12277.472,20,Sufficiently active,Female,Some Days,Some Days,Most days,7,4.0,4.0,2.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H027650,25,16138.467,50,Sufficiently active,Male,Some Days,Never,Some Days,6,4.0,5.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H010314,26,3922.335,0,Insufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,2,5,4,1.0,NO,NO,NO,NO,NO,High
+H076081,21,24305.49,0,Sufficiently active,Female,Every Day,Most days,Never,6,1.0,2.0,2.0,0,5,2,1.0,NO,NO,YES,NO,NO,High
+H037505,19,16019.432,0,Sufficiently active,Female,Some Days,Some Days,Some Days,8,1.0,4.0,2.0,2,4,8,1.0,NO,NO,NO,NO,NO,High
+H059332,20,7689.244,16,Sufficiently active,Male,Never,Some Days,Some Days,6,4.0,5.0,2.0,2,4,9,1.0,NO,NO,NO,NO,NO,High
+H070986,24,16783.379,30,Sufficiently active,Male,Some Days,Never,Most days,7,2.0,3.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H011161,25,5534.628,40,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,4.0,2.0,0,4,10,1.0,NO,NO,NO,NO,NO,High
+H031297,19,11381.879,0,Insufficiently active,Female,Never,Some Days,Most days,8,3.0,5.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H009252,20,3838.301,10,Sufficiently active,Female,Never,Never,Most days,6,3.0,4.0,2.0,0,4,4,4.0,NO,NO,NO,NO,NO,Very Low
+H068088,22,2119.826,10,Sufficiently active,Female,Every Day,Most days,Some Days,10,1.0,3.0,2.0,0,5,6,3.0,YES,YES,NO,NO,NO,Low
+H015625,19,15421.237,18,Sufficiently active,Female,Some Days,Never,Never,8,3.0,5.0,2.0,1,7,5,1.0,NO,NO,YES,NO,NO,High
+H077536,22,20745.412,0,Insufficiently active,Female,Some Days,Some Days,Some Days,4,4.0,4.0,2.0,0,5,3,1.0,NO,NO,YES,NO,NO,High
+H058115,29,11572.115,70,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,2,5,12,1.0,NO,NO,NO,NO,NO,High
+H076909,24,6180.662,0,Inactive,Male,Never,Never,Every Day,6,5.0,5.0,2.0,0,4,9,1.0,NO,NO,NO,NO,NO,High
+H074815,22,30895.286,24,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,4,7,1.0,NO,NO,NO,NO,NO,High
+H002354,24,5244.704,40,Inactive,Male,Never,Never,Every Day,7,5.0,5.0,2.0,1,6,11,1.0,NO,NO,NO,NO,NO,High
+H066791,18,32672.314,0,Sufficiently active,Female,Never,Some Days,Every Day,7,2.0,5.0,2.0,0,1,8,1.0,NO,NO,NO,NO,NO,High
+H010387,29,3061.956,40,Insufficiently active,Female,Some Days,Some Days,Some Days,8,1.0,5.0,2.0,2,7,13,1.0,NO,NO,NO,NO,NO,High
+H010459,19,20849.707,40,Inactive,Female,Some Days,Never,Most days,8,4.0,5.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H050065,26,4592.934,0,Inactive,Female,Some Days,Most days,Some Days,8,2.0,5.0,2.0,1,5,13,1.0,NO,NO,YES,NO,NO,High
+H004391,25,4792.673,20,Inactive,Male,Some Days,Never,Some Days,8,5.0,5.0,2.0,0,7,5,1.0,NO,NO,NO,NO,NO,High
+H005058,20,24396.01,0,Sufficiently active,Male,Never,Most days,Most days,7,4.0,4.0,2.0,0,4,4,1.0,NO,NO,NO,NO,NO,High
+H023967,24,13044.181,45,Insufficiently active,Female,Some Days,Most days,Most days,8,5.0,5.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H068467,23,12746.217,0,Sufficiently active,Male,Never,Every Day,Some Days,4,2.0,4.0,2.0,0,8,13,1.0,NO,NO,YES,NO,NO,High
+H061466,23,3128.918,40,Sufficiently active,Male,Most days,Most days,Some Days,7,2.0,2.0,1.0,0,8,6,1.0,NO,NO,YES,NO,NO,High
+H030892,21,11000.401,5,Sufficiently active,Female,Never,Some Days,Some Days,8,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H064321,22,3175.074,0,Sufficiently active,Male,Never,Never,Some Days,6,4.0,4.0,2.0,0,9,1,1.0,NO,NO,NO,NO,NO,High
+H032202,19,15018.393,0,Inactive,Male,Never,Never,Most days,6,4.0,5.0,2.0,2,5,10,1.0,NO,NO,YES,NO,NO,High
+H027956,18,22853.489,0,Insufficiently active,Female,Never,Some Days,Some Days,8,2.0,5.0,2.0,1,5,9,1.0,NO,NO,NO,NO,NO,High
+H011895,23,31942.566,40,Insufficiently active,Female,Never,Some Days,Some Days,6,1.0,4.0,2.0,1,8,14,1.0,NO,NO,NO,NO,NO,High
+H039488,20,16644.759,0,Sufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H016948,19,26672.55,0,Sufficiently active,Female,Some Days,Some Days,Most days,10,1.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H048548,18,21465.955,15,Insufficiently active,Female,Never,Never,Every Day,8,4.0,5.0,2.0,0,5,14,1.0,NO,YES,NO,NO,NO,High
+H068051,29,11473.029,32,Sufficiently active,Female,Never,Never,Most days,8,2.0,4.0,2.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H078856,21,17394.93,10,Sufficiently active,Female,Never,Some Days,Some Days,8,2.0,1.0,1.0,1,8,11,2.0,,NO,NO,NO,NO,Marginal
+H002546,23,5005.179,15,Sufficiently active,Female,Some Days,Never,Most days,7,3.0,4.0,2.0,1,5,2,1.0,NO,NO,NO,NO,NO,High
+H051002,23,22448.275,0,Inactive,Female,Some Days,Most days,Most days,8,1.0,3.0,2.0,1,1,12,1.0,NO,NO,NO,NO,NO,High
+H078698,22,23192.058,40,Sufficiently active,Female,Most days,Every Day,Some Days,4,1.0,2.0,2.0,3,1,3,2.0,YES,NO,NO,NO,NO,Marginal
+H069836,18,32344.291,0,Insufficiently active,Female,Never,Some Days,Some Days,7,1.0,3.0,2.0,1,2,14,1.0,NO,NO,NO,NO,NO,High
+H054694,27,14855.208,40,Sufficiently active,Female,Most days,Most days,Some Days,7,2.0,3.0,2.0,0,9,8,1.0,NO,NO,NO,NO,NO,High
+H059731,21,10788.629,40,Insufficiently active,Male,Some Days,Some Days,Most days,7,2.0,4.0,2.0,0,7,14,1.0,NO,NO,YES,NO,NO,High
+H038909,20,28052.329,20,Sufficiently active,Female,Never,Most days,Some Days,8,2.0,4.0,2.0,0,7,2,1.0,NO,NO,NO,NO,NO,High
+H025506,20,16794.958,10,Sufficiently active,Male,Every Day,Some Days,Some Days,6,2.0,5.0,2.0,1,5,2,4.0,NO,NO,YES,NO,NO,Very Low
+H025054,24,4496.429,0,Sufficiently active,Male,Some Days,Some Days,Every Day,8,4.0,4.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H049625,24,14703.648,0,Insufficiently active,Female,Never,Some Days,Some Days,6,3.0,4.0,2.0,1,8,8,2.0,NO,NO,NO,YES,NO,Marginal
+H062181,26,31441.941,40,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H059556,18,30035.876,0,Sufficiently active,Male,Never,Never,Every Day,10,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H025981,24,6353.876,20,Sufficiently active,Female,Never,Most days,Never,5,1.0,2.0,2.0,0,8,5,1.0,NO,NO,YES,NO,NO,High
+H020193,18,17751.051,0,Sufficiently active,Male,Some Days,Never,Most days,8,5.0,5.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H064816,26,7035.188,44,Insufficiently active,Female,Some Days,Most days,Never,5,1.0,1.0,1.0,1,5,8,4.0,YES,YES,YES,NO,NO,Very Low
+H055420,24,18724.002,9,Sufficiently active,Female,Never,Never,Some Days,8,4.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H050388,23,13285.853,15,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,4.0,2.0,0,8,1,1.0,NO,NO,YES,NO,NO,High
+H033683,22,25968.452,0,Insufficiently active,Male,Never,Most days,Some Days,8,2.0,5.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H030226,24,6973.55,40,Sufficiently active,Female,Some Days,Some Days,Some Days,7,3.0,4.0,2.0,0,8,9,2.0,NO,NO,NO,NO,NO,Marginal
+H010596,24,10116.662,40,Sufficiently active,Female,Never,Some Days,Most days,8,3.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H056739,29,6421.19,37,Insufficiently active,Male,Never,Never,Every Day,7,4.0,5.0,2.0,0,4,7,2.0,NO,NO,NO,NO,NO,Marginal
+H005830,20,11268.684,20,Insufficiently active,Male,Never,Some Days,Every Day,7,2.0,4.0,2.0,1,5,10,1.0,NO,NO,NO,NO,NO,High
+H022047,22,13834.299,5,Sufficiently active,Female,Never,Never,Some Days,6,4.0,5.0,2.0,0,8,7,3.0,NO,NO,NO,NO,NO,Low
+H049308,18,17081.867,8,Sufficiently active,Male,Never,Every Day,Some Days,7,2.0,2.0,2.0,0,1,7,1.0,,NO,NO,NO,NO,High
+H011946,26,10358.088,0,Sufficiently active,Female,Never,Never,Every Day,7,2.0,2.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H025478,25,5706.532,0,Sufficiently active,Female,Never,Some Days,Some Days,8,2.0,3.0,2.0,0,9,14,1.0,NO,NO,NO,NO,NO,High
+H037933,29,3888.787,37,Sufficiently active,Female,Never,Some Days,Most days,7,3.0,4.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H051294,21,3815.328,22,Inactive,Female,Every Day,Some Days,Most days,8,2.0,3.0,2.0,0,8,5,1.0,NO,NO,NO,YES,NO,High
+H034995,19,19654.519,20,Insufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,2,5,9,1.0,NO,NO,NO,NO,NO,High
+H045747,25,3659.23,0,Insufficiently active,Female,Every Day,Every Day,Never,8,1.0,1.0,1.0,0,7,10,4.0,NO,NO,NO,NO,NO,Very Low
+H074991,29,2849.291,0,Insufficiently active,Female,Never,Never,Some Days,6,3.0,4.0,2.0,0,9,10,1.0,NO,NO,NO,NO,NO,High
+H060082,24,6041.478,0,Sufficiently active,Male,Some Days,Some Days,Most days,8,3.0,4.0,2.0,0,3,7,1.0,NO,NO,NO,NO,NO,High
+H038797,18,6502.163,6,Insufficiently active,Female,Most days,Every Day,Some Days,6,2.0,3.0,2.0,0,4,3,,,NO,NO,NO,NO,
+H039653,24,13285.408,0,Sufficiently active,Female,Never,Never,Most days,5,4.0,5.0,2.0,0,8,13,1.0,NO,NO,NO,YES,NO,High
+H040855,27,5693.281,40,Insufficiently active,Female,Some Days,Never,Most days,7,4.0,5.0,2.0,0,8,9,1.0,NO,NO,YES,NO,NO,High
+H020589,29,10785.757,38,Sufficiently active,Female,Never,Some Days,Some Days,8,2.0,3.0,2.0,0,9,14,1.0,NO,NO,NO,NO,NO,High
+H067313,21,8463.265,0,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H051188,19,12412.619,40,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,1,5,10,4.0,NO,NO,NO,NO,NO,Very Low
+H005922,18,24671.687,0,Insufficiently active,Female,Never,Never,Most days,7,2.0,4.0,2.0,0,2,12,1.0,NO,NO,NO,NO,NO,High
+H019232,18,12241.896,35,Sufficiently active,Female,Never,Never,Some Days,7,1.0,4.0,2.0,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H079793,26,15527.709,32,Sufficiently active,Female,Some Days,Some Days,Most days,8,3.0,5.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H004933,19,22498.937,21,Sufficiently active,Male,Never,Some Days,Most days,8,3.0,5.0,2.0,1,5,8,1.0,NO,NO,YES,NO,NO,High
+H013054,20,30713.076,6,Sufficiently active,Female,Never,Never,Most days,10,5.0,5.0,2.0,1,4,3,1.0,NO,NO,YES,NO,NO,High
+H011344,26,15321.033,40,Sufficiently active,Female,Never,Some Days,Most days,6,2.0,5.0,2.0,0,7,12,1.0,NO,NO,NO,NO,NO,High
+H049263,23,31510.715,0,Insufficiently active,Male,Never,Some Days,Most days,8,1.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H005004,18,19187.009,0,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,1,2,13,1.0,NO,NO,NO,NO,NO,High
+H001204,23,7548.482,40,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,4.0,2.0,0,4,4,1.0,YES,NO,NO,NO,NO,High
+H024757,23,5390.082,20,Sufficiently active,Female,Some Days,Some Days,Some Days,7,1.0,3.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H050249,19,15160.519,0,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,2,5,13,1.0,NO,NO,NO,NO,NO,High
+H036512,19,10298.059,40,Sufficiently active,Female,Some Days,Some Days,Most days,6,1.0,2.0,2.0,0,4,3,1.0,NO,NO,YES,YES,NO,High
+H063072,18,6986.814,0,Sufficiently active,Female,Never,Some Days,Most days,8,4.0,4.0,2.0,1,1,12,1.0,NO,NO,NO,NO,NO,High
+H019964,21,31894.292,10,Sufficiently active,Female,Never,Some Days,Some Days,8,1.0,3.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H058031,21,9279.644,0,Insufficiently active,Male,Never,Most days,Some Days,6,1.0,5.0,2.0,0,7,3,1.0,NO,NO,YES,NO,NO,High
+H028272,27,10956.213,5,Sufficiently active,Female,Some Days,Some Days,Some Days,8,1.0,4.0,2.0,1,7,10,1.0,NO,NO,NO,NO,NO,High
+H012278,23,6999.58,30,Insufficiently active,Female,Never,Some Days,Most days,7,5.0,3.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H037250,20,13215.887,30,Sufficiently active,Female,Never,Most days,Some Days,6,2.0,5.0,2.0,0,5,4,1.0,NO,NO,NO,NO,NO,High
+H059205,19,9744.993,20,Sufficiently active,Male,Some Days,Most days,Some Days,5,5.0,4.0,2.0,0,4,9,1.0,NO,NO,NO,NO,NO,High
+H059431,21,32282.79,20,Insufficiently active,Female,Never,Some Days,Most days,7,2.0,4.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H062507,20,18610.885,0,Sufficiently active,Male,Never,Some Days,Most days,8,2.0,4.0,2.0,1,5,14,1.0,NO,NO,YES,NO,NO,High
+H052701,24,18794.508,40,Insufficiently active,Female,Most days,Some Days,Some Days,4,4.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H021783,29,3070.643,0,Sufficiently active,Female,Never,Some Days,Some Days,6,1.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H062134,21,31894.292,30,Insufficiently active,Female,Never,Never,Most days,7,3.0,3.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H013184,28,9149.928,55,Sufficiently active,Male,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H016357,22,18798.978,0,Insufficiently active,Female,Never,Most days,Some Days,9,1.0,1.0,1.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H003107,18,15074.491,10,Insufficiently active,Female,Some Days,Some Days,Some Days,8,2.0,4.0,2.0,1,1,14,1.0,NO,NO,NO,NO,NO,High
+H013925,26,3405.969,0,Inactive,Female,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H078709,21,5651.226,0,Inactive,Female,Never,Never,Every Day,8,5.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H070932,22,14358.539,40,Sufficiently active,Female,Some Days,Most days,Some Days,5,1.0,1.0,1.0,0,7,10,1.0,NO,NO,NO,NO,NO,High
+H014302,21,19221.946,30,Insufficiently active,Female,Most days,Most days,Some Days,6,1.0,2.0,1.0,0,5,9,2.0,NO,NO,NO,NO,NO,Marginal
+H073220,28,12545.486,40,Sufficiently active,Male,Some Days,Some Days,Most days,7,4.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H011151,22,11783.183,18,Sufficiently active,Male,Some Days,Some Days,Some Days,6,5.0,5.0,2.0,0,8,6,1.0,NO,NO,NO,NO,NO,High
+H056967,19,25802.61,0,Inactive,Female,Never,Never,Every Day,10,5.0,5.0,2.0,1,4,4,4.0,NO,NO,NO,NO,NO,Very Low
+H065260,22,9488.511,20,Sufficiently active,Female,Some Days,Some Days,Most days,12,1.0,5.0,2.0,0,6,5,1.0,NO,NO,NO,NO,NO,High
+H079647,22,32321.345,20,Insufficiently active,,Some Days,Some Days,Some Days,6,1.0,3.0,2.0,0,7,9,1.0,NO,NO,NO,NO,NO,High
+H065520,23,1323.2,0,Sufficiently active,Female,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H026538,27,3557.237,0,Sufficiently active,Male,Never,Never,Some Days,7,2.0,4.0,2.0,0,8,11,1.0,NO,NO,NO,NO,NO,High
+H036023,26,1877.802,40,Insufficiently active,Male,Most days,Never,Never,7,1.0,2.0,2.0,0,5,8,2.0,YES,NO,NO,NO,NO,Marginal
+H041389,24,4289.05,40,Sufficiently active,Male,Never,Some Days,Most days,8,2.0,5.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H030123,23,10360.61,0,Inactive,Female,Never,Never,Every Day,8,4.0,5.0,2.0,0,8,5,2.0,NO,NO,NO,NO,NO,Marginal
+H053430,21,32360.296,40,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,3.0,2.0,1,5,11,1.0,NO,NO,YES,NO,NO,High
+H041254,25,3796.851,40,Sufficiently active,Female,Never,Never,Never,5,1.0,1.0,2.0,1,5,5,1.0,NO,NO,NO,NO,NO,High
+H056209,28,7035.014,40,Insufficiently active,Female,Most days,Some Days,Some Days,5,1.0,2.0,1.0,1,5,4,4.0,YES,YES,NO,YES,NO,Very Low
+H059971,23,8108.341,50,Sufficiently active,Female,Never,Some Days,Never,7,1.0,2.0,2.0,0,7,11,1.0,NO,YES,YES,NO,NO,High
+H048246,20,18326.273,30,Sufficiently active,Male,Never,Some Days,Every Day,9,5.0,5.0,2.0,1,7,14,1.0,NO,NO,NO,NO,NO,High
+H076717,19,32239.72,0,Inactive,Female,Never,Never,Most days,7,4.0,5.0,2.0,1,5,9,1.0,NO,NO,NO,NO,NO,High
+H058237,25,23800.572,40,Sufficiently active,Female,Never,Never,Every Day,7,4.0,5.0,2.0,1,5,6,1.0,NO,NO,NO,NO,NO,High
+H025965,26,10820.609,0,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,2.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H032615,19,13600.124,20,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H053972,18,12012.969,22,Sufficiently active,Male,Never,Never,Some Days,8,2.0,2.0,2.0,2,2,9,3.0,NO,NO,NO,NO,NO,Low
+H061669,25,5868.392,0,Inactive,Female,Some Days,Never,Some Days,6,2.0,3.0,2.0,0,8,8,1.0,NO,NO,YES,NO,NO,High
+H058787,25,2618.892,0,Sufficiently active,Female,Some Days,Never,Most days,7,2.0,3.0,2.0,0,8,2,3.0,NO,NO,NO,NO,NO,Low
+H034178,27,11734.913,40,Sufficiently active,Male,Never,Some Days,Most days,8,3.0,5.0,2.0,0,9,13,1.0,NO,NO,NO,NO,NO,High
+H015104,29,1803.068,40,Insufficiently active,Female,Some Days,Some Days,Some Days,8,3.0,4.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H028168,25,5538.681,40,Sufficiently active,Male,Some Days,Some Days,Some Days,7,3.0,3.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H033526,24,13747.978,0,Sufficiently active,Female,Some Days,Most days,Some Days,7,2.0,2.0,2.0,0,8,13,1.0,NO,NO,YES,NO,NO,High
+H039551,18,22577.424,0,Insufficiently active,Female,Never,Never,Most days,7,3.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H018903,27,3415.822,0,Sufficiently active,Female,Never,Some Days,Never,9,3.0,4.0,2.0,0,10,1,1.0,NO,NO,YES,NO,NO,High
+H076138,27,3333.026,0,Sufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,5.0,2.0,0,8,1,1.0,YES,NO,NO,NO,NO,High
+H068128,18,32227.209,0,Sufficiently active,Male,Every Day,Never,Every Day,8,5.0,5.0,2.0,0,2,9,3.0,YES,NO,NO,NO,NO,Low
+H048947,22,18908.536,0,Sufficiently active,Male,Never,Never,Every Day,9,5.0,5.0,2.0,0,7,3,1.0,YES,NO,NO,NO,NO,High
+H052258,20,9262.353,16,Insufficiently active,Male,Never,Some Days,Most days,6,5.0,5.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H048486,20,3283.724,0,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,4,5,1.0,NO,NO,NO,NO,NO,High
+H036212,21,12483.085,0,Sufficiently active,Male,Never,Never,Some Days,6,4.0,4.0,2.0,0,5,1,2.0,NO,NO,NO,NO,NO,Marginal
+H074878,20,31421.31,15,Sufficiently active,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H014501,22,16505.031,0,Sufficiently active,Male,Some Days,Never,Some Days,9,3.0,5.0,2.0,0,4,2,1.0,NO,NO,NO,NO,NO,High
+H060523,19,21706.063,30,Sufficiently active,Female,Some Days,Some Days,Most days,8,4.0,4.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H065204,27,5148.483,45,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,3.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H043516,20,17380.615,0,Sufficiently active,Female,Never,Never,Some Days,7,3.0,5.0,2.0,3,5,13,1.0,NO,NO,NO,NO,NO,High
+H039097,19,11103.987,35,Sufficiently active,Male,Some Days,Most days,Some Days,7,2.0,5.0,2.0,0,4,13,1.0,NO,NO,YES,NO,NO,High
+H074873,18,4869.705,0,Insufficiently active,Male,Never,Never,Most days,8,3.0,5.0,2.0,3,5,7,1.0,NO,NO,YES,NO,NO,High
+H058888,25,3517.12,20,Insufficiently active,Male,Never,Never,Every Day,7,4.0,5.0,2.0,0,8,1,1.0,NO,YES,YES,NO,NO,High
+H025933,25,13562.673,0,Sufficiently active,Male,Some Days,Some Days,Some Days,7,4.0,4.0,2.0,0,5,4,1.0,NO,NO,YES,NO,NO,High
+H024562,18,19362.019,0,Inactive,Female,Never,Never,Every Day,9,5.0,5.0,2.0,0,1,14,1.0,NO,NO,NO,NO,NO,High
+H062412,18,30153.672,0,Sufficiently active,Male,Some Days,Some Days,Some Days,6,3.0,4.0,2.0,2,1,14,1.0,NO,NO,NO,NO,NO,High
+H016325,27,5644.12,36,Insufficiently active,Female,Some Days,Some Days,Most days,7,4.0,5.0,2.0,0,7,12,1.0,NO,NO,NO,NO,NO,High
+H033914,18,29576.588,10,Sufficiently active,Male,Never,Never,Most days,8,3.0,4.0,2.0,0,1,14,1.0,NO,NO,NO,NO,NO,High
+H043584,18,10271.984,0,Sufficiently active,Female,Never,Some Days,Most days,8,3.0,4.0,2.0,0,4,1,1.0,NO,NO,YES,NO,NO,High
+H027584,20,21001.776,30,Inactive,Male,Every Day,Every Day,Every Day,5,5.0,5.0,2.0,1,8,13,1.0,NO,NO,NO,NO,NO,High
+H057379,19,12590.023,0,Sufficiently active,Male,Some Days,Most days,Some Days,6,4.0,4.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H001752,20,18481.967,15,Insufficiently active,Female,Every Day,Most days,Some Days,7,1.0,1.0,2.0,0,2,5,1.0,NO,NO,NO,NO,NO,High
+H036444,27,22109.773,20,Inactive,Male,Never,Never,Every Day,8,2.0,3.0,2.0,0,9,4,4.0,NO,NO,YES,NO,NO,Very Low
+H021566,26,13010.345,40,Insufficiently active,Male,Some Days,Never,Never,6,1.0,2.0,2.0,0,9,8,2.0,NO,NO,NO,NO,NO,Marginal
+H038617,22,7108.245,0,Sufficiently active,Male,Never,Most days,Every Day,7,3.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H059506,19,33007.391,0,Insufficiently active,Female,Never,Never,Most days,7,2.0,5.0,2.0,1,7,13,1.0,NO,NO,NO,NO,NO,High
+H019430,24,16423.832,0,Insufficiently active,Male,Most days,Most days,Some Days,6,5.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H073558,24,7684.848,0,Sufficiently active,Male,Every Day,Every Day,Most days,4,1.0,1.0,1.0,0,7,9,3.0,NO,NO,NO,YES,NO,Low
+H031132,23,7384.02,30,Insufficiently active,Female,Never,Some Days,Most days,9,4.0,5.0,2.0,0,7,7,3.0,NO,NO,NO,NO,NO,Low
+H063756,25,5178.431,40,Insufficiently active,Female,Most days,Some Days,Most days,8,3.0,4.0,2.0,0,7,7,1.0,NO,NO,NO,NO,NO,High
+H042953,25,5326.535,40,Inactive,Female,Never,Never,Most days,8,2.0,4.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H005289,18,26025.681,30,Sufficiently active,Male,Every Day,Some Days,Some Days,3,5.0,5.0,2.0,0,4,11,2.0,YES,NO,YES,NO,NO,Marginal
+H043255,22,13491.815,30,Sufficiently active,Female,Never,Never,Most days,7,3.0,4.0,2.0,0,9,6,1.0,NO,NO,NO,NO,NO,High
+H060503,21,14656.931,40,Sufficiently active,Male,Never,Some Days,Some Days,7,4.0,3.0,2.0,0,5,7,1.0,NO,NO,YES,NO,NO,High
+H079841,19,10944.278,0,Sufficiently active,Male,Never,Most days,Some Days,5,2.0,2.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H073662,24,2865.252,0,Insufficiently active,Male,Never,Some Days,Most days,7,2.0,3.0,2.0,0,8,2,1.0,NO,NO,NO,NO,NO,High
+H055902,22,6808.31,0,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,2.0,2.0,0,5,1,1.0,NO,NO,YES,NO,NO,High
+H003240,18,30097.028,50,Sufficiently active,Male,Some Days,Never,Most days,8,5.0,5.0,2.0,2,1,9,1.0,NO,NO,NO,NO,NO,High
+H061781,22,10156.504,0,Sufficiently active,Male,Never,Some Days,Some Days,8,4.0,5.0,2.0,0,5,1,1.0,NO,YES,NO,NO,NO,High
+H027198,25,5144.059,40,Sufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H067439,22,4786.693,10,Sufficiently active,Male,Some Days,Some Days,Some Days,6,2.0,3.0,2.0,0,5,12,1.0,NO,NO,YES,NO,NO,High
+H049884,21,10136.535,0,Sufficiently active,Male,Never,Some Days,Some Days,8,1.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H014047,20,32360.296,2,Sufficiently active,Female,Never,Some Days,Most days,7,2.0,5.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H048611,18,10509.44,0,Sufficiently active,Female,Never,Some Days,Some Days,6,1.0,2.0,2.0,1,4,9,1.0,NO,NO,NO,NO,NO,High
+H061439,20,29461.923,25,Sufficiently active,Female,Never,Never,Most days,6,3.0,5.0,2.0,2,5,14,1.0,NO,NO,NO,NO,NO,High
+H053941,21,13026.086,30,Sufficiently active,Female,Some Days,Most days,Most days,7,5.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H057607,19,32505.859,25,Insufficiently active,Female,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H070895,21,10687.837,0,Sufficiently active,Male,Never,Most days,Most days,7,5.0,5.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H033515,21,5091.186,40,Sufficiently active,Male,Some Days,Some Days,Most days,7,5.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H010092,19,20384.403,27,Sufficiently active,Female,Some Days,Most days,Some Days,6,1.0,4.0,2.0,0,5,8,2.0,NO,NO,NO,NO,NO,Marginal
+H023829,23,15038.442,40,Sufficiently active,Female,Never,Most days,Most days,8,4.0,5.0,2.0,2,8,14,1.0,NO,NO,YES,NO,NO,High
+H052879,19,18212.131,19,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,4.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H049125,22,14817.478,40,Sufficiently active,Male,Some Days,Some Days,Every Day,8,3.0,4.0,2.0,1,7,14,1.0,NO,NO,NO,NO,NO,High
+H015969,19,22166.572,0,Inactive,Female,Never,Some Days,Most days,8,3.0,3.0,2.0,1,4,3,1.0,NO,NO,NO,NO,NO,High
+H033182,18,20038.435,30,Sufficiently active,Male,Never,Some Days,Most days,9,3.0,3.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H065565,18,33069.511,32,Inactive,Female,Never,Never,Every Day,8,5.0,5.0,2.0,0,7,9,1.0,NO,NO,NO,NO,NO,High
+H029962,29,32931.486,40,Inactive,Male,Never,Never,Some Days,8,5.0,5.0,2.0,1,7,5,1.0,NO,NO,NO,NO,NO,High
+H027466,18,28918.367,20,Sufficiently active,Female,Every Day,Every Day,Never,7,2.0,3.0,2.0,0,1,8,4.0,,NO,NO,NO,NO,Very Low
+H045370,26,2530.073,40,Inactive,Female,Never,Some Days,Some Days,5,4.0,4.0,2.0,0,5,8,3.0,NO,YES,NO,NO,NO,Low
+H048582,24,7943.698,35,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,4.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H057854,20,32321.345,0,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,5.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H048193,20,3064.74,32,Sufficiently active,Male,Some Days,Some Days,Most days,7,4.0,4.0,2.0,0,8,2,1.0,NO,NO,YES,NO,NO,High
+H025125,23,17190.55,0,Sufficiently active,Male,Some Days,Some Days,Most days,6,5.0,2.0,2.0,0,5,6,2.0,NO,YES,NO,NO,NO,Marginal
+H028413,22,10917.635,0,Insufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H047392,20,12157.366,0,Inactive,Male,Never,Every Day,Never,4,1.0,3.0,1.0,1,5,6,4.0,YES,NO,NO,NO,NO,Very Low
+H038660,19,7863.064,30,Inactive,Male,Every Day,Every Day,Every Day,9,5.0,5.0,2.0,3,1,2,3.0,NO,NO,NO,NO,NO,Low
+H052063,20,25550.724,0,Insufficiently active,Male,Some Days,Some Days,Some Days,8,2.0,3.0,1.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H036438,21,13294.121,28,,Female,Never,Some Days,Most days,7,2.0,4.0,2.0,0,7,4,2.0,YES,NO,YES,NO,NO,Marginal
+H036944,23,3339.397,0,Sufficiently active,Male,Some Days,Most days,Some Days,6,4.0,3.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H027298,21,11972.478,30,Sufficiently active,Male,Never,Never,Most days,6,4.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H029047,27,16680.43,40,Sufficiently active,Female,Some Days,Some Days,Some Days,7,3.0,5.0,2.0,0,7,9,1.0,NO,NO,NO,NO,NO,High
+H048286,19,16242.804,30,Sufficiently active,Male,Most days,Some Days,Some Days,5,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H011140,20,17199.507,0,Sufficiently active,Female,Never,Some Days,Every Day,8,4.0,5.0,2.0,2,4,9,1.0,NO,NO,NO,NO,NO,High
+H062213,23,3404.091,50,Inactive,Male,Never,Some Days,Some Days,6,2.0,2.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H007126,20,31929.629,20,Sufficiently active,Female,Never,Never,Most days,10,2.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H079345,18,6336.713,0,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,4,2,1.0,NO,YES,NO,NO,NO,High
+H026206,23,31548.347,0,Sufficiently active,Male,Some Days,Some Days,Some Days,8,3.0,5.0,2.0,0,5,6,1.0,NO,NO,YES,NO,NO,High
+H067105,19,22322.511,30,Sufficiently active,Female,Never,Never,Most days,7,4.0,5.0,2.0,1,4,11,1.0,NO,NO,NO,NO,NO,High
+H011048,29,16840.026,20,Sufficiently active,Male,Never,Every Day,Most days,6,3.0,5.0,2.0,0,8,12,1.0,NO,NO,YES,NO,NO,High
+H058494,25,6477.823,20,Sufficiently active,Female,Most days,Some Days,Some Days,6,2.0,4.0,2.0,0,8,12,1.0,NO,YES,NO,NO,NO,High
+H025226,18,22285.009,0,Sufficiently active,Female,Never,Never,Most days,7,5.0,5.0,2.0,3,1,2,3.0,NO,NO,NO,NO,NO,Low
+H015857,23,3251.209,40,Insufficiently active,Female,Never,Some Days,Most days,8,1.0,4.0,2.0,0,8,9,1.0,NO,NO,YES,NO,NO,High
+H038931,22,8539.534,0,Inactive,Female,Never,Never,Every Day,8,5.0,5.0,2.0,1,8,10,1.0,NO,NO,NO,NO,NO,High
+H038093,28,12011.545,40,Insufficiently active,Male,Some Days,Some Days,Most days,8,1.0,3.0,2.0,0,7,11,1.0,NO,NO,YES,NO,NO,High
+H007930,18,6343.82,24,Sufficiently active,Female,Never,Never,Most days,8,5.0,5.0,2.0,1,4,12,1.0,NO,NO,NO,NO,NO,High
+H059930,19,25945.813,20,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,4.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H050201,21,7836.5,45,Sufficiently active,Male,Some Days,Never,Most days,7,1.0,4.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H021522,26,8989.341,0,Inactive,Female,Most days,Never,Most days,5,3.0,4.0,2.0,3,4,5,1.0,NO,YES,NO,NO,NO,High
+H052315,19,18006.754,70,Insufficiently active,Male,Never,Never,Most days,8,4.0,4.0,2.0,1,4,2,3.0,NO,NO,NO,NO,NO,Low
+H043069,21,3755.559,80,Inactive,Female,Some Days,Never,Some Days,8,2.0,3.0,2.0,1,5,1,1.0,NO,NO,NO,NO,NO,High
+H018689,27,6621.206,42,Sufficiently active,Female,Some Days,Some Days,Some Days,8,1.0,1.0,2.0,0,8,14,1.0,NO,NO,YES,NO,NO,High
+H011632,18,16474.649,0,Insufficiently active,Female,Some Days,Some Days,Some Days,8,4.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H044660,19,19774.069,30,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,4.0,2.0,1,5,10,1.0,NO,NO,NO,NO,NO,High
+H076777,19,23707.664,25,Insufficiently active,Female,Never,Never,Most days,8,3.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H010859,20,2757.78,0,Insufficiently active,Male,Never,Some Days,Every Day,9,4.0,5.0,2.0,0,3,1,1.0,NO,NO,NO,NO,NO,High
+H053860,18,29243.47,0,Sufficiently active,Female,Never,Never,Every Day,4,2.0,3.0,2.0,0,4,7,1.0,YES,NO,NO,NO,NO,High
+H057757,18,18198.564,0,Insufficiently active,Male,Never,Never,Every Day,8,2.0,5.0,2.0,0,4,10,1.0,NO,NO,YES,NO,NO,High
+H051612,27,23062.392,0,Sufficiently active,Male,Never,Never,Some Days,8,4.0,5.0,2.0,2,7,12,1.0,NO,NO,NO,NO,NO,High
+H018830,21,31586.368,22,Insufficiently active,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H079294,19,11832.919,30,Sufficiently active,Male,Never,Never,Most days,8,2.0,3.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H051544,18,12271.848,0,Insufficiently active,Male,Never,Some Days,Some Days,8,5.0,5.0,2.0,0,4,1,2.0,YES,NO,NO,NO,NO,Marginal
+H040257,18,3553.835,40,Insufficiently active,Male,Some Days,Some Days,Most days,8,1.0,4.0,2.0,0,4,1,2.0,NO,NO,NO,NO,NO,Marginal
+H075063,28,8425.593,40,Sufficiently active,Female,Some Days,Never,Some Days,6,1.0,4.0,2.0,2,5,5,4.0,NO,NO,NO,NO,NO,Very Low
+H027855,24,7380.646,0,Insufficiently active,Female,Never,Some Days,Most days,8,2.0,4.0,2.0,1,4,4,2.0,NO,NO,NO,NO,NO,Marginal
+H077716,18,15163.202,0,Inactive,Male,Some Days,Most days,Some Days,6,3.0,5.0,2.0,0,4,11,1.0,NO,NO,NO,NO,NO,High
+H067426,20,19118.456,40,Sufficiently active,Male,Never,Never,Never,5,2.0,5.0,2.0,3,6,11,1.0,NO,NO,NO,NO,NO,High
+H047382,20,4909.434,4,Sufficiently active,Male,Never,Never,Every Day,9,3.0,5.0,2.0,1,8,7,1.0,NO,NO,NO,NO,NO,High
+H011078,23,21173.47,12,Insufficiently active,Female,Never,Never,Some Days,7,1.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H039109,18,13838.351,0,Sufficiently active,Female,Never,Most days,Some Days,6,3.0,3.0,2.0,1,4,13,1.0,NO,NO,YES,NO,NO,High
+H033988,23,6909.473,30,Insufficiently active,Female,Never,Never,Some Days,6,3.0,5.0,2.0,1,7,9,1.0,NO,NO,NO,NO,NO,High
+H010406,27,4583.648,40,Sufficiently active,Female,Never,Most days,Some Days,6,4.0,5.0,2.0,2,6,4,1.0,NO,NO,NO,NO,NO,High
+H030302,19,20956.161,0,Sufficiently active,Male,Never,Some Days,Some Days,6,4.0,5.0,2.0,1,5,13,1.0,NO,NO,NO,NO,NO,High
+H005343,22,3424.741,40,Sufficiently active,Male,Never,Never,Most days,6,4.0,4.0,2.0,0,9,3,3.0,NO,NO,NO,NO,NO,Low
+H001429,24,12831.865,20,Inactive,Male,Never,Most days,Most days,8,5.0,5.0,2.0,0,9,2,1.0,NO,NO,NO,NO,NO,High
+H033519,19,12330.651,60,Insufficiently active,Female,Never,Some Days,Some Days,8,2.0,3.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H052129,23,20988.69,0,Sufficiently active,Male,Never,Some Days,Most days,7,3.0,5.0,2.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H005872,23,3709.952,30,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,5.0,2.0,0,7,8,1.0,NO,NO,YES,NO,NO,High
+H027859,20,31548.347,30,Sufficiently active,Male,Some Days,Most days,Most days,7,5.0,5.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H026470,19,23167.605,24,Sufficiently active,Male,Never,Some Days,Some Days,7,5.0,4.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H040763,18,32153.03,26,Sufficiently active,Female,Never,Never,Most days,7,5.0,5.0,2.0,2,7,8,1.0,NO,NO,YES,NO,NO,High
+H021844,21,4968.988,20,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H034327,19,12738.797,32,Insufficiently active,Male,Never,Some Days,Most days,6,4.0,5.0,2.0,2,5,14,1.0,NO,NO,NO,NO,NO,High
+H007929,21,31482.577,30,Sufficiently active,Female,Never,Most days,Some Days,8,1.0,4.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H009886,24,21594.844,49,Sufficiently active,Male,Never,Some Days,Some Days,7,3.0,4.0,2.0,0,7,5,3.0,NO,NO,YES,NO,NO,Low
+H057503,23,5387.047,0,Sufficiently active,Male,Never,Never,Most days,7,4.0,4.0,2.0,0,5,1,1.0,NO,NO,YES,NO,NO,High
+H045559,22,4391.108,40,Sufficiently active,Male,Never,Some Days,Some Days,6,2.0,4.0,2.0,0,4,3,1.0,NO,NO,NO,NO,NO,High
+H038406,28,2418.596,40,Sufficiently active,Male,Some Days,Some Days,Most days,7,3.0,3.0,2.0,0,9,14,1.0,NO,NO,YES,NO,NO,High
+H034022,20,2257.486,40,Sufficiently active,Male,Never,Some Days,Some Days,6,1.0,5.0,2.0,0,5,2,2.0,NO,NO,NO,NO,NO,Marginal
+H044412,28,7933.622,0,Insufficiently active,Female,Never,Never,Some Days,7,1.0,1.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H052306,26,15240.945,0,Inactive,Female,Most days,Most days,Some Days,5,1.0,3.0,1.0,3,3,3,4.0,NO,NO,NO,NO,NO,Very Low
+H045082,21,4394.067,40,Inactive,Female,Some Days,Most days,Some Days,7,1.0,3.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H027992,27,30788.708,0,Insufficiently active,Female,Some Days,Some Days,Some Days,10,3.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H008566,19,12430.113,16,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H050747,19,8858.659,0,Insufficiently active,Female,Most days,Most days,Never,10,1.0,3.0,2.0,0,5,5,1.0,NO,NO,YES,YES,NO,High
+H018781,19,13450.8,30,Inactive,Male,Never,Some Days,Most days,6,5.0,5.0,2.0,1,5,7,3.0,YES,NO,NO,NO,NO,Low
+H042458,23,21011.6,16,Sufficiently active,Female,Never,Some Days,Some Days,8,2.0,2.0,1.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H021534,20,15163.534,45,Insufficiently active,Female,Every Day,Never,Never,5,2.0,3.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H074506,18,1476.793,55,Sufficiently active,Male,Some Days,Most days,Some Days,7,1.0,1.0,1.0,0,7,3,1.0,NO,NO,YES,NO,NO,High
+H004479,27,1850.159,50,Sufficiently active,Female,Most days,Most days,Some Days,6,3.0,3.0,2.0,1,6,8,1.0,NO,NO,NO,NO,NO,High
+H015848,18,19909.146,0,Sufficiently active,Female,Never,Never,Most days,7,4.0,5.0,2.0,3,4,2,1.0,NO,NO,NO,NO,NO,High
+H022588,20,8839.868,0,Inactive,Male,Never,Most days,Most days,8,4.0,4.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H068446,25,20328.611,0,Sufficiently active,Male,Some Days,Some Days,Most days,8,3.0,3.0,2.0,3,5,9,1.0,NO,NO,YES,NO,NO,High
+H059413,19,14409.585,25,Sufficiently active,Male,Never,Most days,Most days,6,2.0,4.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H063454,21,9229.9,36,Inactive,Male,Most days,Most days,Most days,6,3.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H017453,29,2923.847,0,Insufficiently active,Female,Most days,Never,Some Days,8,4.0,2.0,2.0,3,5,3,4.0,YES,NO,YES,NO,NO,Very Low
+H037861,20,30425.168,30,Sufficiently active,Female,Every Day,Most days,Some Days,4,2.0,3.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H075048,21,19373.818,0,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H039807,21,27715.534,0,Inactive,Female,Never,Never,Every Day,7,4.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H078167,27,26521.161,40,Sufficiently active,Female,Never,Never,Most days,7,2.0,4.0,2.0,0,9,14,1.0,NO,NO,NO,NO,NO,High
+H054819,19,10182.125,40,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,3,4,6,1.0,NO,NO,NO,NO,NO,High
+H067523,18,10182.125,25,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,2,4,2,1.0,NO,NO,YES,NO,NO,High
+H004444,19,20949.477,39,Sufficiently active,Male,Never,Some Days,Most days,9,3.0,5.0,2.0,0,5,9,1.0,NO,NO,YES,NO,NO,High
+H072621,20,19079.427,0,Sufficiently active,Male,Never,Some Days,Most days,7,3.0,4.0,2.0,1,5,5,1.0,NO,NO,NO,NO,NO,High
+H047251,19,24301.774,0,Sufficiently active,Male,Never,Never,Every Day,7,5.0,5.0,2.0,1,4,6,3.0,NO,NO,YES,NO,NO,Low
+H066252,22,22682.152,0,Sufficiently active,Male,Never,Most days,Some Days,8,3.0,5.0,2.0,0,6,7,2.0,NO,NO,NO,NO,NO,Marginal
+H016148,23,4056.524,0,Insufficiently active,Male,Never,Some Days,Most days,8,5.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H013377,28,3938.975,40,Sufficiently active,Female,Some Days,Most days,Some Days,6,2.0,2.0,2.0,0,8,14,1.0,NO,NO,YES,NO,NO,High
+H062892,22,4251.785,0,Sufficiently active,Male,Never,Some Days,Most days,8,2.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H041624,19,11267.81,0,Sufficiently active,Male,Some Days,Some Days,Most days,8,5.0,5.0,2.0,1,1,1,4.0,YES,NO,NO,NO,NO,Very Low
+H063103,28,4904.989,20,Insufficiently active,Female,Every Day,Every Day,Never,7,1.0,1.0,1.0,1,5,2,2.0,YES,YES,YES,YES,NO,Marginal
+H017452,29,4116.086,60,Sufficiently active,Male,Some Days,Some Days,Never,5,2.0,3.0,2.0,0,9,11,1.0,NO,NO,YES,NO,NO,High
+H027880,20,13113.139,0,Sufficiently active,Female,Some Days,Some Days,Most days,9,4.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H060013,29,12070.505,40,Sufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H011324,25,8819.698,50,Insufficiently active,Male,Never,Never,Most days,8,3.0,3.0,2.0,2,5,10,1.0,NO,NO,YES,NO,NO,High
+H072857,26,16127.468,40,Insufficiently active,Male,Never,Some Days,Most days,10,3.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H006801,28,9932.828,40,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,2.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H054848,23,18164.747,24,,Female,Some Days,Never,Most days,8,1.0,5.0,2.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H003442,26,5833.147,45,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H041401,19,16935.289,0,Sufficiently active,Female,Every Day,Every Day,Some Days,5,1.0,2.0,2.0,0,4,7,4.0,NO,YES,NO,NO,NO,Very Low
+H042083,22,6350.134,25,Sufficiently active,Female,Never,Some Days,Most days,6,3.0,5.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H077248,19,33752.048,0,Inactive,Female,Every Day,Every Day,Never,12,1.0,1.0,1.0,1,2,3,3.0,YES,NO,NO,NO,NO,Low
+H049658,28,3809.464,0,Inactive,Male,Never,Never,Some Days,9,4.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H058475,28,5494.642,40,Inactive,Female,Most days,Most days,Some Days,7,1.0,2.0,1.0,0,8,10,1.0,NO,NO,NO,YES,NO,High
+H064986,20,13728.055,20,Insufficiently active,Female,Never,Never,Most days,7,3.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H072333,18,18873.34,30,Sufficiently active,Female,Never,Never,Some Days,6,3.0,4.0,2.0,1,4,14,1.0,NO,NO,NO,NO,NO,High
+H025712,19,31061.927,25,Sufficiently active,Male,Never,Most days,Every Day,8,3.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H049176,19,34851.991,0,Insufficiently active,Male,Some Days,Some Days,Some Days,8,3.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H016358,25,13322.505,35,Inactive,Female,Some Days,Most days,Some Days,7,2.0,3.0,2.0,0,5,14,1.0,YES,NO,YES,NO,NO,High
+H013697,23,4216.61,30,Sufficiently active,Female,Never,Never,Some Days,7,5.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H031799,19,32555.614,36,Inactive,Female,Never,Some Days,Most days,8,2.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H067008,22,31763.606,32,Sufficiently active,Male,Never,Never,Most days,7,3.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H050473,28,6043.04,0,Sufficiently active,Female,Never,Some Days,Some Days,10,5.0,5.0,2.0,1,8,14,1.0,NO,NO,NO,NO,NO,High
+H071075,19,15710.341,8,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,0,2,10,1.0,NO,NO,NO,NO,NO,High
+H018457,18,27534.193,0,Sufficiently active,Male,Some Days,Never,Most days,8,3.0,5.0,2.0,0,4,3,2.0,NO,NO,NO,NO,NO,Marginal
+H044915,18,25289.62,20,Sufficiently active,Male,Never,Never,Most days,6,5.0,5.0,2.0,0,4,12,1.0,NO,NO,YES,NO,NO,High
+H056804,25,6073.141,45,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,1,4,11,1.0,NO,NO,NO,NO,NO,High
+H017627,25,3934.732,40,Sufficiently active,Female,Never,Some Days,Most days,7,4.0,5.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H032714,28,3174.005,40,Insufficiently active,Female,Every Day,Every Day,Never,4,2.0,3.0,1.0,0,4,6,2.0,YES,YES,NO,,NO,Marginal
+H052534,21,31899.944,40,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,4.0,2.0,2,4,14,1.0,NO,NO,YES,NO,NO,High
+H068920,21,32063.567,29,Insufficiently active,Female,Never,Some Days,Some Days,7,1.0,4.0,2.0,0,5,7,1.0,YES,NO,NO,NO,NO,High
+H036538,24,7150.402,20,Sufficiently active,Male,Never,Some Days,Most days,8,3.0,4.0,2.0,0,9,5,1.0,NO,NO,NO,NO,NO,High
+H071642,23,15206.951,40,Sufficiently active,Female,Never,Never,Some Days,7,2.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H036396,25,18138.942,40,Sufficiently active,Female,Some Days,Most days,Some Days,7,1.0,3.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H038604,20,24041.76,40,Inactive,Female,Never,Some Days,Most days,6,2.0,4.0,2.0,2,4,10,1.0,NO,NO,NO,NO,NO,High
+H072187,24,15434.983,0,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,4.0,2.0,0,8,4,1.0,NO,NO,NO,NO,NO,High
+H073668,28,6064.602,20,Sufficiently active,Female,Never,Some Days,Some Days,8,4.0,4.0,2.0,0,9,5,1.0,NO,NO,NO,NO,NO,High
+H048532,21,19858.033,40,Sufficiently active,Female,Some Days,Most days,Most days,7,2.0,3.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H016847,22,6396.798,40,Sufficiently active,Female,Never,Never,Most days,8,4.0,4.0,2.0,0,7,11,1.0,NO,NO,NO,NO,NO,High
+H035844,19,17426.077,0,Sufficiently active,Female,Never,Never,Every Day,12,1.0,1.0,2.0,2,5,2,3.0,NO,NO,YES,NO,NO,Low
+H066035,28,6607.451,0,Insufficiently active,Male,Some Days,Never,Some Days,6,4.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H072134,19,13898.208,40,Sufficiently active,Female,Most days,Never,Most days,8,1.0,1.0,1.0,0,5,6,1.0,NO,YES,NO,YES,NO,High
+H046188,20,24137.839,25,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,2,5,10,1.0,NO,NO,NO,NO,NO,High
+H020878,26,8745.28,40,Sufficiently active,Male,Never,Never,Some Days,6,4.0,5.0,2.0,0,5,14,1.0,NO,NO,YES,NO,NO,High
+H026729,23,3585.392,80,Sufficiently active,Female,Never,Never,Most days,8,5.0,5.0,2.0,0,8,10,1.0,YES,NO,NO,NO,NO,High
+H044152,23,3399.834,0,Insufficiently active,Male,Some Days,Some Days,Most days,7,4.0,4.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H069762,18,17984.993,0,Insufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,,,1,5,9,1.0,NO,NO,YES,NO,NO,High
+H029637,18,31112.865,15,Insufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H011354,18,19196.605,30,Sufficiently active,Female,Never,Some Days,Most days,7,5.0,5.0,2.0,2,4,5,1.0,NO,NO,NO,NO,NO,High
+H060787,20,29953.579,30,Insufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,3.0,2.0,1,5,3,1.0,NO,NO,NO,NO,NO,High
+H017798,20,26430.942,35,Sufficiently active,Male,Never,Some Days,Some Days,5,1.0,3.0,2.0,2,4,4,3.0,NO,NO,NO,NO,NO,Low
+H011814,29,8627.431,0,Sufficiently active,Female,Some Days,Never,Some Days,7,2.0,5.0,2.0,1,7,7,2.0,NO,NO,NO,NO,NO,Marginal
+H067268,25,25570.961,40,Sufficiently active,Female,Some Days,Most days,Some Days,7,1.0,5.0,2.0,0,8,13,1.0,NO,NO,YES,NO,NO,High
+H001858,26,11577.941,50,Sufficiently active,Female,Never,Never,Some Days,7,3.0,5.0,2.0,0,7,11,1.0,NO,YES,NO,NO,NO,High
+H061687,28,850.935,60,Insufficiently active,Male,Some Days,Most days,Some Days,5,2.0,4.0,2.0,0,4,9,1.0,NO,YES,YES,NO,NO,High
+H010927,20,27157.033,0,Inactive,Male,Some Days,Most days,Never,9,1.0,4.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H056496,26,14913.745,40,Sufficiently active,Male,Never,Some Days,Most days,6,4.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H042198,21,30489.44,15,Sufficiently active,Female,Some Days,Every Day,Never,6,1.0,2.0,2.0,0,5,6,4.0,YES,NO,NO,NO,NO,Very Low
+H022201,23,33672.836,40,Sufficiently active,Male,Never,Never,Never,8,4.0,5.0,2.0,2,5,13,1.0,NO,NO,NO,NO,NO,High
+H024909,19,29036.213,30,Inactive,Female,Some Days,Some Days,Most days,8,4.0,5.0,2.0,2,5,10,1.0,NO,NO,NO,NO,NO,High
+H059179,25,7266.24,40,Sufficiently active,Female,Some Days,Most days,Some Days,6,2.0,5.0,2.0,1,5,8,2.0,NO,NO,NO,NO,NO,Marginal
+H045489,24,4586.679,0,Sufficiently active,Male,Never,Never,Never,5,4.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H014389,19,31648.655,38,Sufficiently active,Female,Some Days,Some Days,Some Days,7,5.0,5.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H025346,18,11784.132,42,Sufficiently active,Male,Some Days,Some Days,Some Days,6,2.0,4.0,2.0,0,4,11,2.0,NO,NO,NO,NO,NO,Marginal
+H024744,21,12389.311,0,Insufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H071554,20,6678.769,20,Insufficiently active,Female,Some Days,Most days,Never,8,2.0,4.0,2.0,0,7,1,2.0,NO,NO,NO,NO,NO,Marginal
+H020493,26,11092.543,0,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,0,9,1,1.0,NO,NO,NO,NO,NO,High
+H074093,28,4914.197,40,Sufficiently active,Male,Some Days,Never,Most days,7,1.0,4.0,2.0,0,8,11,1.0,NO,NO,NO,NO,NO,High
+H049376,18,17475.228,0,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,4,9,1.0,NO,NO,YES,NO,NO,High
+H066872,23,33718.366,0,Sufficiently active,Male,Never,Most days,Some Days,5,2.0,2.0,2.0,1,7,12,1.0,NO,NO,NO,NO,NO,High
+H078859,20,26638.121,45,Sufficiently active,Male,Never,Never,Most days,7,3.0,5.0,2.0,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H023148,28,13665.592,50,Inactive,Female,Most days,Most days,Some Days,8,2.0,4.0,2.0,1,3,14,2.0,YES,NO,NO,NO,NO,Marginal
+H041843,24,11369.84,0,Insufficiently active,Male,Most days,Most days,Some Days,6,3.0,4.0,2.0,0,8,14,1.0,NO,YES,NO,NO,NO,High
+H017826,26,15287.25,35,Sufficiently active,Female,Never,Some Days,Some Days,7,4.0,4.0,2.0,0,7,4,1.0,NO,NO,NO,NO,NO,High
+H035399,24,3654.112,40,Sufficiently active,Male,Never,Some Days,Some Days,7,5.0,5.0,2.0,0,6,14,1.0,NO,NO,NO,NO,NO,High
+H034348,20,4515.698,40,Sufficiently active,Male,Never,Some Days,Most days,6,3.0,4.0,2.0,3,5,8,1.0,YES,NO,YES,NO,NO,High
+H079521,19,7950.379,0,Sufficiently active,Female,Some Days,Most days,Most days,8,2.0,3.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H071639,18,25480.049,0,Sufficiently active,Male,Some Days,Never,Most days,9,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H052559,27,18231.465,0,Sufficiently active,Female,Some Days,Most days,Some Days,6,1.0,1.0,1.0,0,7,11,1.0,NO,NO,YES,NO,NO,High
+H072862,18,18373.673,0,Inactive,Female,Never,Never,Some Days,7,1.0,2.0,1.0,2,1,5,2.0,NO,NO,NO,NO,NO,Marginal
+H044795,25,9301.009,40,Sufficiently active,Male,Some Days,Some Days,Most days,8,3.0,3.0,2.0,0,9,9,1.0,NO,NO,YES,NO,NO,High
+H001807,26,8002.581,0,Insufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,2.0,1.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H078377,22,7939.35,40,Insufficiently active,Male,Some Days,Some Days,Some Days,7,4.0,4.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H059121,21,11622.275,36,Sufficiently active,Male,Never,Never,Some Days,7,3.0,5.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H061359,28,6268.403,45,Inactive,Female,Never,Most days,Some Days,5,2.0,2.0,1.0,0,9,8,1.0,NO,NO,YES,NO,NO,High
+H065449,24,13915.977,0,Sufficiently active,Male,Every Day,Every Day,Some Days,6,1.0,2.0,2.0,2,7,5,2.0,NO,NO,YES,NO,NO,Marginal
+H025668,21,13443.841,30,Sufficiently active,Female,Some Days,Some Days,Some Days,7,1.0,3.0,2.0,0,5,10,2.0,NO,NO,NO,NO,NO,Marginal
+H022159,22,7729.994,0,Sufficiently active,Female,Some Days,Most days,Some Days,7,2.0,4.0,2.0,0,4,11,1.0,NO,NO,NO,NO,NO,High
+H001719,20,9376.321,0,Sufficiently active,Female,Some Days,Some Days,Most days,8,1.0,3.0,2.0,2,5,9,1.0,NO,NO,YES,NO,NO,High
+H002085,28,12345.698,50,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,4.0,2.0,0,8,14,1.0,NO,NO,YES,NO,NO,High
+H074264,25,11905.427,40,Insufficiently active,Male,Never,Some Days,Most days,8,3.0,3.0,2.0,0,8,10,2.0,NO,NO,YES,NO,NO,Marginal
+H030038,18,13696.596,0,Insufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,4,10,1.0,NO,NO,NO,NO,NO,High
+H020007,24,7612.102,40,Sufficiently active,Male,Never,Never,Most days,7,2.0,4.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H052707,25,5285.953,0,Sufficiently active,Female,Never,Some Days,Some Days,6,3.0,5.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H005677,23,5275.435,0,Sufficiently active,Female,Most days,Some Days,Some Days,7,2.0,4.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H061988,25,2523.906,0,Sufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H009871,20,19606.918,0,Sufficiently active,Male,Never,Some Days,Every Day,8,5.0,5.0,2.0,1,5,13,2.0,NO,NO,YES,NO,NO,Marginal
+H041907,21,15544.831,0,Sufficiently active,Male,Never,Some Days,Most days,8,5.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H028911,18,17912.682,30,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,2,5,14,1.0,NO,NO,YES,NO,NO,High
+H070423,22,7545.481,35,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,3.0,2.0,0,5,7,1.0,NO,NO,YES,NO,NO,High
+H029183,22,4347.208,35,Insufficiently active,Female,Some Days,Most days,Some Days,7,2.0,5.0,2.0,0,4,6,3.0,YES,NO,NO,NO,NO,Low
+H051689,20,24920.124,45,Sufficiently active,Male,Never,Never,Some Days,7,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,YES,NO,High
+H062263,22,24920.124,30,Sufficiently active,Male,Never,Some Days,Most days,8,3.0,5.0,2.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H026134,18,19442.237,0,Insufficiently active,Female,Never,Some Days,Every Day,7,4.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H012010,18,17194.255,45,Inactive,Female,Some Days,Most days,Some Days,8,2.0,3.0,2.0,3,4,7,1.0,NO,NO,NO,NO,NO,High
+H020469,24,14418.065,40,Inactive,Male,Most days,Some Days,Never,5,1.0,2.0,2.0,2,5,9,1.0,NO,NO,NO,NO,NO,High
+H059519,19,24019.148,40,Insufficiently active,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,0,5,5,1.0,NO,NO,YES,NO,NO,High
+H026797,25,8525.53,0,Sufficiently active,Female,Never,Never,Some Days,7,3.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H042322,18,23432.967,30,Sufficiently active,Female,Never,Never,Some Days,6,1.0,4.0,2.0,2,4,14,1.0,NO,NO,NO,NO,NO,High
+H070100,19,36885.858,0,Inactive,Female,Every Day,Most days,Most days,8,2.0,5.0,2.0,3,5,2,3.0,NO,NO,NO,NO,NO,Low
+H071821,29,7542.729,40,Sufficiently active,Female,Some Days,Some Days,Most days,9,4.0,4.0,2.0,0,7,7,1.0,YES,NO,NO,NO,NO,High
+H074132,27,4517.602,0,Insufficiently active,Female,Some Days,Some Days,Some Days,5,3.0,3.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H020451,28,4118.156,14,Sufficiently active,Female,Some Days,Some Days,Some Days,8,2.0,2.0,2.0,0,8,2,1.0,NO,NO,NO,NO,NO,High
+H070218,22,7022.277,70,Sufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H051406,18,13244.992,40,Sufficiently active,Female,Never,Some Days,Some Days,8,3.0,4.0,2.0,2,4,13,1.0,NO,NO,NO,NO,NO,High
+H077320,20,21571.127,35,Sufficiently active,Female,Never,Never,Most days,8,1.0,2.0,2.0,0,4,10,1.0,NO,NO,NO,NO,NO,High
+H038078,19,13236.698,15,Sufficiently active,Male,Some Days,Most days,Most days,8,2.0,2.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H057091,23,7872.451,40,Sufficiently active,Male,Never,Never,Most days,6,3.0,5.0,2.0,1,5,10,2.0,NO,YES,NO,NO,NO,Marginal
+H041691,29,7653.424,40,Sufficiently active,Female,Never,Never,Some Days,7,1.0,3.0,1.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H020729,19,19469.146,24,Sufficiently active,Male,Never,Never,Most days,8,4.0,4.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H009915,27,2356.746,45,Inactive,Female,Most days,Never,Some Days,6,5.0,5.0,2.0,1,4,6,2.0,NO,YES,NO,NO,NO,Marginal
+H025233,18,14554.674,30,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,2,5,8,1.0,NO,NO,NO,NO,NO,High
+H041229,20,7451.645,26,Insufficiently active,Female,Some Days,Some Days,Most days,8,2.0,4.0,2.0,1,5,10,1.0,NO,NO,NO,NO,NO,High
+H021175,22,19089.249,0,Inactive,Male,Some Days,Some Days,Most days,5,1.0,2.0,2.0,3,7,4,1.0,YES,NO,NO,NO,NO,High
+H005796,28,5457.459,0,Sufficiently active,Female,Some Days,Some Days,Most days,12,4.0,4.0,2.0,2,5,1,4.0,YES,NO,NO,NO,NO,Very Low
+H044226,22,22395.286,0,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,4.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H004470,20,32036.401,25,Sufficiently active,Female,Never,Some Days,Most days,8,1.0,3.0,2.0,0,2,1,1.0,NO,NO,YES,NO,NO,High
+H026863,22,22779.053,25,Insufficiently active,Female,Some Days,Every Day,Never,5,4.0,5.0,2.0,1,4,14,2.0,YES,NO,NO,NO,NO,Marginal
+H016489,20,31717.628,0,Sufficiently active,Male,Never,Never,Most days,7,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H029771,21,25518.101,0,Sufficiently active,Female,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H000308,29,4343.71,75,Sufficiently active,Male,Some Days,Some Days,Some Days,6,4.0,5.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H002928,22,12265.032,0,Sufficiently active,Male,Some Days,Never,Some Days,7,3.0,4.0,2.0,0,7,7,1.0,YES,NO,YES,NO,NO,High
+H006792,19,5631.301,20,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H066802,19,9721.456,20,Sufficiently active,Male,Never,Every Day,Some Days,7,2.0,5.0,2.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H007791,19,8969.693,33,Sufficiently active,Male,Never,Never,Most days,9,4.0,5.0,2.0,0,5,3,1.0,YES,NO,NO,NO,NO,High
+H021068,26,3365.931,40,Sufficiently active,Male,Never,Never,Every Day,10,5.0,5.0,2.0,0,1,7,1.0,YES,NO,NO,NO,NO,High
+H051865,21,30091.514,40,Sufficiently active,Female,Some Days,Most days,Never,5,1.0,4.0,2.0,0,6,13,1.0,NO,NO,NO,NO,NO,High
+H077250,19,17632.438,15,Insufficiently active,Male,Never,Never,Some Days,8,2.0,5.0,2.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H064315,19,17465.302,0,Sufficiently active,Female,Some Days,Never,Most days,7,3.0,5.0,2.0,1,4,4,1.0,NO,NO,NO,NO,NO,High
+H057108,22,11841.233,0,Sufficiently active,Female,Some Days,Most days,Some Days,5,1.0,5.0,2.0,1,5,9,1.0,NO,NO,NO,NO,NO,High
+H053728,24,6523.215,0,Sufficiently active,Male,Never,Never,Most days,8,3.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H024911,24,5727.795,0,Sufficiently active,Male,Some Days,Some Days,Some Days,7,1.0,3.0,2.0,0,8,1,1.0,NO,NO,YES,NO,NO,High
+H052620,26,17415.658,32,Sufficiently active,Female,Never,Never,Some Days,6,3.0,4.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H016157,21,17254.569,30,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,4.0,2.0,2,4,5,1.0,NO,NO,YES,NO,NO,High
+H001804,20,17673.543,5,Inactive,Female,Most days,Most days,Never,7,1.0,2.0,1.0,1,7,6,1.0,NO,NO,NO,NO,NO,High
+H014131,20,31806.554,25,Sufficiently active,Male,Never,Most days,Most days,7,1.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H014458,23,15487.936,60,Sufficiently active,Male,Never,Most days,Never,5,5.0,5.0,2.0,1,4,10,1.0,NO,NO,NO,NO,NO,High
+H014811,20,30016.489,0,Inactive,Female,Some Days,Most days,Some Days,5,1.0,4.0,2.0,2,5,4,4.0,NO,NO,NO,NO,NO,Very Low
+H045566,25,2326.121,20,Sufficiently active,Female,Never,Never,Most days,8,1.0,4.0,2.0,0,9,10,1.0,NO,NO,YES,NO,NO,High
+H047253,25,14312.641,40,Insufficiently active,Female,Some Days,Some Days,Most days,8,1.0,4.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H048197,22,23870.455,28,Insufficiently active,Male,Some Days,Some Days,Some Days,6,1.0,3.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H017347,20,30550.795,0,Inactive,Female,Never,Never,Most days,7,5.0,5.0,2.0,3,5,3,3.0,NO,NO,NO,NO,NO,Low
+H057236,18,25573.404,30,Inactive,Female,Some Days,Some Days,Some Days,7,1.0,2.0,1.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H032001,25,12292.427,0,Sufficiently active,Male,Some Days,Most days,Some Days,10,1.0,2.0,2.0,0,5,13,1.0,NO,NO,NO,NO,NO,High
+H045774,20,6821.895,40,Insufficiently active,Female,Some Days,Most days,Some Days,10,1.0,1.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H019056,27,16892.478,0,Sufficiently active,Female,Most days,Some Days,Most days,7,1.0,5.0,2.0,3,7,6,2.0,NO,NO,NO,YES,NO,Marginal
+H075135,20,19521.599,60,Sufficiently active,Female,Never,Never,Some Days,3,2.0,5.0,2.0,0,5,4,1.0,NO,NO,NO,NO,NO,High
+H066867,21,13103.953,0,Sufficiently active,Male,Every Day,Every Day,Never,8,2.0,3.0,2.0,0,5,3,4.0,NO,NO,YES,NO,NO,Very Low
+H058522,26,10455.985,0,Sufficiently active,Female,Never,Most days,Most days,10,2.0,5.0,2.0,0,4,13,1.0,NO,NO,NO,NO,NO,High
+H022229,24,14817.408,8,Sufficiently active,Female,Never,Most days,Never,8,1.0,2.0,2.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H001885,20,13173.394,0,Sufficiently active,Female,Never,Some Days,Some Days,7,1.0,2.0,2.0,1,4,11,1.0,NO,NO,YES,NO,NO,High
+H063778,19,7068.703,0,Inactive,Male,Never,Some Days,Some Days,8,2.0,3.0,2.0,2,4,4,4.0,YES,NO,NO,NO,NO,Very Low
+H068860,24,26349.291,20,Insufficiently active,Female,Most days,Some Days,Most days,7,4.0,4.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H050791,23,5018.805,20,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,4.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H039601,25,4744.4,0,Sufficiently active,Male,Never,Some Days,Most days,10,5.0,4.0,2.0,0,7,11,2.0,NO,NO,NO,NO,NO,Marginal
+H006614,23,6064.598,0,Inactive,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,9,11,1.0,NO,NO,NO,NO,NO,High
+H038717,19,30523.16,0,Insufficiently active,Male,Never,Never,Most days,7,4.0,4.0,2.0,3,4,2,2.0,NO,NO,NO,NO,NO,Marginal
+H042337,26,16934.446,24,Inactive,Female,Some Days,Never,Never,10,3.0,3.0,2.0,1,1,3,1.0,NO,NO,NO,NO,NO,High
+H053356,18,23005.904,0,Sufficiently active,Male,Never,Some Days,Some Days,8,5.0,5.0,2.0,0,2,8,1.0,NO,NO,NO,NO,NO,High
+H079121,21,25921.945,15,Inactive,Female,Never,Never,Some Days,8,2.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H050991,19,30544.122,0,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,0,5,13,1.0,NO,NO,NO,NO,NO,High
+H023449,25,19253.793,0,Sufficiently active,Male,Never,Every Day,Never,8,1.0,1.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H027975,21,19975.699,7,Sufficiently active,Male,Never,Some Days,Most days,8,1.0,5.0,2.0,0,3,11,1.0,,NO,NO,NO,NO,High
+H019265,20,12828.637,0,Insufficiently active,Male,Never,Never,Most days,7,4.0,5.0,2.0,1,4,14,1.0,NO,NO,NO,NO,NO,High
+H026775,22,12481.585,20,Sufficiently active,Female,Some Days,Some Days,Never,8,1.0,3.0,2.0,0,5,3,2.0,YES,NO,YES,NO,NO,Marginal
+H072079,19,28521.975,35,Inactive,Female,Most days,Some Days,Some Days,6,1.0,1.0,1.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H002987,26,7654.963,35,Sufficiently active,Female,Never,Never,Every Day,8,5.0,5.0,2.0,1,5,8,1.0,NO,NO,YES,NO,NO,High
+H033232,28,1083.099,0,Sufficiently active,Male,Some Days,Never,Some Days,7,4.0,3.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H075997,26,4390.995,36,Inactive,Female,Some Days,Every Day,Some Days,4,1.0,4.0,2.0,0,8,14,3.0,YES,NO,NO,NO,NO,Low
+H018430,24,9327.324,32,Inactive,Female,Some Days,Most days,Most days,9,5.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H015747,23,9473.032,36,Inactive,Female,Some Days,Never,Most days,6,5.0,5.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H029304,25,3144.666,35,Sufficiently active,Male,Never,Every Day,Never,6,3.0,5.0,2.0,0,7,11,1.0,NO,NO,NO,NO,NO,High
+H056205,23,22503.974,30,Inactive,Male,Never,Never,Some Days,8,5.0,5.0,2.0,0,7,8,1.0,NO,NO,NO,NO,NO,High
+H070538,23,23519.13,0,Sufficiently active,Male,Never,Some Days,Most days,7,1.0,3.0,2.0,0,7,1,1.0,NO,NO,NO,NO,NO,High
+H052317,19,19108.05,40,Sufficiently active,Male,Never,Some Days,Some Days,9,1.0,4.0,2.0,2,5,9,1.0,NO,NO,NO,NO,NO,High
+H057687,20,15523.648,15,Sufficiently active,Female,Never,Some Days,Most days,7,2.0,5.0,2.0,1,1,10,1.0,NO,NO,NO,NO,NO,High
+H057945,20,25944.432,25,Sufficiently active,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H055348,23,17538.337,40,Sufficiently active,Female,Never,Never,Most days,8,2.0,4.0,2.0,1,5,6,1.0,NO,NO,NO,NO,NO,High
+H005545,24,12173.18,0,Insufficiently active,Male,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,8,6,1.0,NO,NO,NO,NO,NO,High
+H035727,27,12544.894,45,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H055843,28,5142.047,34,Insufficiently active,Female,Never,Some Days,Some Days,7,1.0,1.0,1.0,1,6,8,3.0,NO,NO,YES,NO,NO,Low
+H037232,27,3174.779,50,Sufficiently active,Male,Some Days,Most days,Some Days,5,2.0,3.0,2.0,0,7,10,1.0,NO,NO,NO,NO,NO,High
+H020540,29,5583.379,20,Sufficiently active,Male,Some Days,Some Days,Most days,7,2.0,5.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H077050,18,34243.296,0,Sufficiently active,Female,Never,Never,Most days,9,1.0,4.0,2.0,1,4,5,1.0,NO,NO,NO,NO,NO,High
+H066149,22,18858.051,0,Sufficiently active,Female,Never,Never,Most days,7,4.0,5.0,2.0,0,5,6,2.0,YES,NO,NO,NO,NO,Marginal
+H018754,18,32555.614,0,Sufficiently active,Female,Some Days,Some Days,Most days,7,1.0,3.0,2.0,2,5,14,1.0,NO,NO,NO,NO,NO,High
+H024666,18,36836.051,16,Sufficiently active,Female,Never,Never,Most days,7,4.0,5.0,2.0,3,5,5,1.0,NO,NO,NO,NO,NO,High
+H000536,20,17527.174,30,Inactive,Female,Never,Some Days,Most days,7,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H023879,23,2290.695,50,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,3.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H025610,20,9319.099,40,Sufficiently active,Female,Never,Most days,Never,6,3.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H024212,22,20416.416,34,Inactive,Female,Never,Never,Every Day,6,5.0,5.0,2.0,1,7,9,1.0,NO,NO,NO,NO,NO,High
+H007385,23,9494.23,30,Insufficiently active,Female,Never,Never,Most days,7,4.0,4.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H071029,28,4147.446,55,Sufficiently active,Male,Some Days,Most days,Some Days,7,1.0,1.0,1.0,0,8,6,1.0,NO,YES,YES,NO,NO,High
+H077707,27,4147.446,10,Sufficiently active,Male,Never,Most days,Most days,6,4.0,4.0,2.0,0,8,3,1.0,NO,NO,NO,NO,NO,High
+H056173,20,20600.266,0,Insufficiently active,Male,Some Days,Most days,Some Days,8,1.0,1.0,2.0,1,5,13,1.0,NO,NO,YES,NO,NO,High
+H034483,20,3172.925,40,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,4.0,2.0,0,5,7,1.0,NO,NO,NO,YES,NO,High
+H079808,22,18131.662,8,Insufficiently active,Male,Never,Some Days,Most days,8,5.0,5.0,2.0,0,7,2,1.0,NO,NO,NO,NO,NO,High
+H079724,28,11015.314,40,Insufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,2,4,10,1.0,NO,NO,YES,NO,NO,High
+H065551,18,22189.539,13,Inactive,Female,Never,Never,Most days,8,5.0,5.0,2.0,1,1,5,1.0,NO,NO,NO,NO,NO,High
+H037456,29,9909.822,4,Sufficiently active,Female,Never,Never,Some Days,6,2.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H057013,21,4732.632,40,Insufficiently active,Female,Every Day,Most days,Some Days,6,1.0,1.0,1.0,0,5,10,4.0,NO,NO,NO,NO,NO,Very Low
+H060582,20,2533.973,0,Insufficiently active,Male,Never,Some Days,Most days,7,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H052872,24,7978.338,0,Inactive,Female,Never,Never,Some Days,8,1.0,5.0,2.0,0,8,1,2.0,NO,YES,NO,NO,NO,Marginal
+H040100,28,2352.094,12,Sufficiently active,Male,Most days,Most days,Some Days,4,1.0,2.0,2.0,0,3,10,1.0,NO,NO,NO,NO,NO,High
+H037723,18,18871.679,0,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H043395,26,26293.956,0,Sufficiently active,Female,Never,Most days,Some Days,8,1.0,1.0,1.0,0,7,14,1.0,NO,NO,NO,NO,NO,High
+H075371,20,32217.521,0,Insufficiently active,Male,Never,Some Days,Most days,7,2.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H035291,23,31568.599,32,Sufficiently active,Male,Some Days,Some Days,Some Days,8,3.0,5.0,2.0,1,5,9,1.0,NO,NO,YES,NO,NO,High
+H043494,27,16321.222,40,Inactive,Female,Never,Never,Every Day,8,4.0,5.0,2.0,0,8,11,1.0,NO,NO,NO,NO,NO,High
+H068267,19,31025.878,0,Sufficiently active,Male,Never,Never,Most days,9,5.0,5.0,2.0,0,5,3,1.0,NO,NO,YES,NO,NO,High
+H008144,23,31310.758,15,Sufficiently active,Male,Some Days,Some Days,Most days,8,5.0,5.0,2.0,0,4,10,1.0,NO,NO,NO,NO,NO,High
+H016177,26,7173.745,0,Inactive,Female,Some Days,Every Day,Never,6,1.0,3.0,2.0,2,8,5,3.0,YES,YES,NO,YES,NO,Low
+H012978,20,7960.905,30,Inactive,Male,Never,Some Days,Some Days,6,4.0,5.0,2.0,0,7,7,3.0,NO,NO,NO,NO,NO,Low
+H054584,23,18397.058,25,Insufficiently active,Female,Never,Some Days,Most days,9,1.0,4.0,2.0,1,5,8,,,NO,NO,NO,NO,
+H027746,18,15016.693,0,Inactive,Male,Never,Some Days,Most days,9,5.0,5.0,2.0,0,4,4,3.0,NO,NO,NO,NO,NO,Low
+H027664,21,4204.008,15,Sufficiently active,Male,Never,Some Days,Most days,8,4.0,5.0,2.0,0,4,5,2.0,NO,NO,YES,NO,NO,Marginal
+H030124,18,19993.058,0,Insufficiently active,Male,Never,Never,Most days,7,4.0,5.0,2.0,0,2,10,1.0,NO,NO,NO,NO,NO,High
+H040858,29,8180.125,45,Insufficiently active,Female,Most days,Most days,Never,5,1.0,3.0,2.0,2,9,8,1.0,NO,NO,YES,NO,NO,High
+H058271,18,6264.076,25,Sufficiently active,Female,Never,Some Days,Most days,7,1.0,5.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H005303,21,8083.224,0,Sufficiently active,Female,Never,Some Days,Most days,7,2.0,4.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H032250,22,9451.405,40,Insufficiently active,Female,Some Days,Most days,Some Days,8,1.0,3.0,1.0,0,3,5,1.0,NO,NO,NO,NO,NO,High
+H077071,28,5385.598,6,Sufficiently active,Female,Some Days,Some Days,Most days,7,3.0,4.0,2.0,0,9,1,4.0,YES,NO,NO,NO,NO,Very Low
+H023059,21,32312.118,15,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,5.0,2.0,0,4,7,1.0,NO,NO,YES,NO,NO,High
+H014864,26,15287.249,40,Sufficiently active,Female,Never,Some Days,Most days,8,1.0,5.0,2.0,0,5,14,3.0,YES,NO,NO,NO,NO,Low
+H069363,21,6326.121,15,Sufficiently active,Female,Never,Never,Most days,8,2.0,5.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H057741,26,6094.136,40,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,1.0,2.0,0,9,12,1.0,NO,NO,NO,NO,NO,High
+H035161,26,26421.535,0,Sufficiently active,Male,Never,Most days,Some Days,6,4.0,5.0,2.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H051130,26,6256.223,40,Sufficiently active,Female,Never,Never,Never,5,1.0,1.0,1.0,3,8,9,1.0,NO,NO,NO,NO,NO,High
+H037042,21,18035.029,22,Sufficiently active,Female,Never,Most days,Most days,8,2.0,3.0,2.0,1,5,4,3.0,NO,NO,NO,NO,NO,Low
+H068655,25,4511.571,65,Sufficiently active,Male,Most days,Some Days,Some Days,5,5.0,4.0,2.0,0,5,8,2.0,NO,NO,NO,NO,NO,Marginal
+H022540,29,7587.886,0,Inactive,Male,Never,Never,Every Day,7,5.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H052821,26,4371.373,32,Inactive,Female,Never,Most days,Every Day,8,4.0,4.0,2.0,0,4,4,1.0,NO,NO,NO,NO,NO,High
+H003003,20,16397.455,0,Inactive,Female,Never,Some Days,Some Days,8,2.0,3.0,2.0,0,5,5,3.0,YES,NO,NO,NO,NO,Low
+H071731,18,15258.012,14,Inactive,Female,Some Days,Some Days,Most days,8,4.0,5.0,2.0,0,2,3,1.0,YES,NO,NO,NO,NO,High
+H013741,20,20778.59,0,Inactive,Female,Never,Never,Most days,6,3.0,5.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H074113,18,30595.498,0,Inactive,Female,Never,Some Days,Some Days,7,1.0,3.0,2.0,2,5,12,1.0,NO,NO,NO,NO,NO,High
+H058325,21,18403.392,20,Inactive,Female,Some Days,Some Days,Some Days,7,5.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H061968,18,4324.993,0,Sufficiently active,Male,Never,Some Days,Some Days,8,3.0,5.0,2.0,0,4,1,1.0,NO,NO,YES,NO,NO,High
+H059341,22,3165.82,0,Sufficiently active,Male,Some Days,Some Days,Most days,8,2.0,5.0,2.0,0,9,3,1.0,NO,NO,NO,NO,NO,High
+H032356,19,18377.777,40,Inactive,Male,Some Days,Most days,Some Days,8,2.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H067009,18,3424.467,40,Inactive,Male,Never,Never,Most days,10,3.0,5.0,2.0,0,4,6,1.0,NO,NO,NO,NO,NO,High
+H005979,20,32474.809,15,Insufficiently active,Female,Some Days,Most days,Some Days,10,2.0,1.0,2.0,1,5,9,1.0,NO,NO,YES,NO,NO,High
+H071343,18,21918.03,22,Sufficiently active,Male,Never,Some Days,Some Days,7,3.0,2.0,2.0,1,2,14,1.0,NO,NO,NO,NO,NO,High
+H028407,25,6910.58,0,Sufficiently active,Female,Some Days,Never,Some Days,8,1.0,2.0,2.0,0,8,9,3.0,YES,NO,YES,NO,NO,Low
+H031222,27,10513.789,60,Sufficiently active,Male,Never,Never,Some Days,7,5.0,5.0,2.0,0,8,11,1.0,NO,NO,YES,NO,NO,High
+H003265,28,14698.49,45,Sufficiently active,Male,Never,Never,Some Days,7,5.0,5.0,2.0,1,8,10,1.0,NO,NO,NO,NO,NO,High
+H028253,19,15113.126,0,Sufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,3.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H063077,19,10778.828,0,Sufficiently active,Male,Some Days,Most days,Some Days,6,2.0,2.0,1.0,0,8,14,1.0,NO,NO,YES,NO,NO,High
+H070684,19,18054.519,0,Sufficiently active,Male,Never,Most days,Every Day,9,3.0,4.0,2.0,0,5,5,4.0,YES,NO,NO,NO,NO,Very Low
+H034193,19,14797.81,0,Sufficiently active,Female,Some Days,Every Day,Some Days,8,1.0,1.0,1.0,0,5,3,2.0,YES,NO,NO,NO,NO,Marginal
+H008515,24,11690.775,0,Sufficiently active,Male,Never,Most days,Most days,8,3.0,4.0,2.0,1,8,2,1.0,NO,NO,NO,NO,NO,High
+H078327,19,12245.861,0,Insufficiently active,Female,Never,Every Day,Most days,6,3.0,5.0,2.0,2,5,2,2.0,,NO,NO,NO,NO,Marginal
+H059640,18,19066.736,20,Sufficiently active,Female,Never,Some Days,Some Days,6,2.0,4.0,2.0,2,4,4,1.0,NO,NO,NO,NO,NO,High
+H016417,29,8092.722,45,Sufficiently active,Male,Some Days,Some Days,Some Days,7,4.0,4.0,2.0,0,4,14,2.0,NO,NO,YES,NO,NO,Marginal
+H008050,26,12913.988,0,Inactive,Female,Most days,Some Days,Some Days,8,1.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H069060,18,25630.596,0,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,3.0,2.0,1,4,3,3.0,NO,NO,NO,NO,NO,Low
+H032990,22,13940.841,35,Sufficiently active,Male,Never,Some Days,Some Days,6,3.0,4.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H052965,22,20307.884,20,Sufficiently active,Male,Never,Never,Most days,6,4.0,5.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H077299,23,5368.303,0,Sufficiently active,Male,Never,Never,Most days,6,5.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H016182,19,7343.545,32,Sufficiently active,Male,Never,Never,Most days,7,4.0,5.0,2.0,0,4,4,2.0,NO,NO,NO,NO,NO,Marginal
+H005191,21,4809.983,0,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,5.0,2.0,0,5,3,2.0,NO,NO,NO,NO,NO,Marginal
+H036488,19,11622.805,0,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H067972,27,17316.777,45,Insufficiently active,Male,Never,Most days,Some Days,6,2.0,4.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H012244,19,29193.499,30,Sufficiently active,Female,Never,Never,Most days,8,2.0,3.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H055241,18,16860.695,0,Insufficiently active,Female,Some Days,Some Days,Some Days,8,1.0,4.0,2.0,3,2,2,2.0,NO,NO,YES,NO,NO,Marginal
+H055624,27,1666.579,40,Insufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,4.0,2.0,0,8,11,1.0,NO,YES,YES,NO,NO,High
+H064428,21,5720.085,40,Insufficiently active,Female,Never,Never,Every Day,5,4.0,4.0,2.0,0,4,5,2.0,NO,NO,NO,NO,NO,Marginal
+H020306,23,25140.373,0,Sufficiently active,Male,Never,Some Days,Most days,7,3.0,5.0,2.0,0,10,2,1.0,NO,NO,NO,NO,NO,High
+H036274,25,14940.417,0,Inactive,Female,Never,Never,Some Days,7,2.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H056632,18,20575.067,0,Inactive,Female,Never,Never,Every Day,7,3.0,5.0,2.0,1,5,5,1.0,NO,NO,NO,NO,NO,High
+H072138,20,17493.51,0,Inactive,Male,Never,Some Days,Every Day,8,2.0,2.0,2.0,0,6,11,1.0,NO,NO,YES,NO,NO,High
+H024682,27,12499.05,20,Sufficiently active,Male,Some Days,Never,Most days,7,4.0,3.0,2.0,0,9,12,1.0,NO,NO,NO,NO,NO,High
+H026888,22,33775.292,0,Inactive,Female,Never,Some Days,Most days,10,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H039759,21,11928.281,40,Inactive,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,5,2,1.0,NO,NO,YES,NO,NO,High
+H009757,18,7237.803,20,Sufficiently active,Female,Most days,Never,Most days,8,5.0,5.0,2.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H075265,26,4928.391,40,Sufficiently active,Female,Never,Never,Every Day,8,4.0,4.0,2.0,0,9,7,1.0,NO,NO,NO,NO,NO,High
+H013653,23,12995.324,0,Insufficiently active,Male,Never,Never,Most days,6,4.0,4.0,2.0,0,4,5,1.0,NO,NO,YES,NO,NO,High
+H031076,23,15171.667,36,Sufficiently active,Male,Some Days,Some Days,Some Days,7,5.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H012019,26,10200.432,40,Sufficiently active,Female,Some Days,Never,Most days,8,3.0,3.0,2.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H008163,19,21904.177,0,Insufficiently active,Female,Never,Never,Most days,9,5.0,5.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H061686,25,3838.858,0,Insufficiently active,Male,Never,Never,Some Days,7,1.0,4.0,2.0,0,8,7,1.0,NO,NO,NO,NO,NO,High
+H005403,22,8464.809,40,Insufficiently active,Female,Some Days,Never,Some Days,8,1.0,2.0,2.0,1,5,7,2.0,YES,YES,NO,NO,NO,Marginal
+H057269,20,24278.346,8,Insufficiently active,Female,Never,Some Days,Some Days,7,4.0,5.0,2.0,0,7,8,1.0,NO,NO,NO,NO,NO,High
+H048578,19,11471.273,40,Sufficiently active,Female,Some Days,Never,Some Days,8,2.0,3.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H074689,20,28801.663,48,Sufficiently active,Male,Some Days,Some Days,Some Days,6,4.0,4.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H006690,18,6753.687,0,Sufficiently active,Male,Never,Never,Never,8,5.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H077480,18,28035.757,14,Sufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H006446,22,2035.975,0,Insufficiently active,Male,Some Days,Most days,Some Days,8,3.0,3.0,2.0,0,8,1,2.0,NO,NO,NO,NO,NO,Marginal
+H026910,29,2526.961,95,Sufficiently active,Male,Never,Never,Every Day,5,5.0,5.0,2.0,0,9,8,1.0,NO,NO,NO,NO,NO,High
+H009091,23,7523.512,12,Sufficiently active,Male,Some Days,Most days,Some Days,7,3.0,4.0,2.0,0,8,8,1.0,NO,NO,YES,NO,NO,High
+H008724,22,5258.294,0,Sufficiently active,Female,Never,Never,Some Days,7,4.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H060653,23,2071.764,0,Inactive,Male,Never,Never,Some Days,7,3.0,4.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H030728,21,6286.644,10,Insufficiently active,Female,Never,Most days,Some Days,7,2.0,3.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H030615,28,2839.655,40,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,9,9,1.0,NO,NO,NO,NO,NO,High
+H051621,20,35071.875,30,Insufficiently active,Female,Every Day,Most days,Most days,7,2.0,5.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H004311,22,2246.73,25,Insufficiently active,Female,Some Days,Some Days,Never,8,1.0,3.0,2.0,0,5,3,3.0,NO,NO,NO,NO,NO,Low
+H034016,22,15584.185,0,Insufficiently active,Male,Never,Never,Most days,7,2.0,3.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H030935,19,15674.196,0,Insufficiently active,Male,Some Days,Some Days,Most days,7,2.0,4.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H057744,26,7138.862,0,Sufficiently active,Female,Never,Some Days,Every Day,6,3.0,5.0,2.0,0,9,1,1.0,NO,NO,NO,NO,NO,High
+H035376,29,13536.686,0,Insufficiently active,Male,Never,Never,Most days,8,4.0,4.0,2.0,2,4,7,2.0,NO,NO,YES,NO,NO,Marginal
+H050655,20,16598.66,0,Insufficiently active,Male,Never,Some Days,Most days,8,2.0,4.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H035351,18,33017.003,0,Sufficiently active,Female,Never,Most days,Some Days,8,1.0,5.0,2.0,1,5,7,3.0,NO,NO,NO,NO,NO,Low
+H063120,23,13003.358,20,Insufficiently active,Female,Never,Some Days,Every Day,8,2.0,2.0,2.0,0,5,8,4.0,YES,NO,NO,NO,NO,Very Low
+H032986,23,30283.693,12,Sufficiently active,Male,Never,Never,Most days,10,4.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H050724,23,4063.681,0,Sufficiently active,Female,Some Days,Some Days,Some Days,7,3.0,5.0,2.0,0,8,4,1.0,NO,NO,NO,NO,NO,High
+H067965,26,5529.066,40,Sufficiently active,Female,Some Days,Some Days,Most days,8,2.0,4.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H025826,26,22300.794,0,Inactive,Male,Some Days,Never,Some Days,9,2.0,3.0,2.0,0,5,1,2.0,NO,NO,YES,NO,NO,Marginal
+H036129,26,15157.812,0,Inactive,Female,Never,Some Days,Some Days,8,5.0,5.0,2.0,0,4,4,1.0,NO,YES,NO,NO,NO,High
+H003716,21,3665.474,25,Sufficiently active,Male,Some Days,Some Days,Most days,7,2.0,4.0,2.0,0,4,4,2.0,NO,NO,NO,NO,NO,Marginal
+H028093,20,20646.624,8,Sufficiently active,Male,Never,Never,Most days,7,3.0,5.0,2.0,0,7,11,1.0,NO,NO,NO,NO,NO,High
+H009540,25,8321.051,20,Insufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H056507,20,30886.457,0,Sufficiently active,Male,Some Days,Never,Most days,6,3.0,5.0,2.0,0,5,5,1.0,NO,NO,NO,NO,NO,High
+H001083,18,12326.046,30,Sufficiently active,Male,Some Days,Most days,Most days,6,4.0,4.0,2.0,0,6,3,1.0,NO,NO,NO,NO,NO,High
+H078103,27,29921.308,25,Sufficiently active,Male,Some Days,Most days,Some Days,7,2.0,2.0,2.0,1,6,10,2.0,NO,NO,NO,NO,NO,Marginal
+H029620,29,7452.092,20,Inactive,Female,Never,Most days,Never,6,1.0,4.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H038856,19,15090.153,15,Sufficiently active,Male,Never,Never,Most days,7,4.0,4.0,2.0,2,5,3,3.0,NO,NO,NO,NO,NO,Low
+H054373,22,10762.587,55,Insufficiently active,Male,Every Day,Most days,Never,6,1.0,3.0,2.0,0,5,8,2.0,NO,NO,NO,NO,NO,Marginal
+H035914,26,12783.259,40,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H027485,20,34768.488,40,Inactive,Male,Some Days,Most days,Most days,5,4.0,3.0,2.0,0,5,13,1.0,NO,NO,NO,NO,NO,High
+H029321,18,23843.403,20,Insufficiently active,Male,Never,Some Days,Some Days,8,4.0,5.0,2.0,1,2,14,1.0,NO,NO,NO,NO,NO,High
+H080035,21,10300.758,10,Insufficiently active,Male,Some Days,Some Days,Most days,7,3.0,4.0,2.0,0,7,1,1.0,NO,NO,NO,NO,NO,High
+H011771,23,11997.319,0,Insufficiently active,Male,Never,Some Days,Some Days,7,4.0,4.0,2.0,0,4,10,1.0,NO,NO,YES,NO,NO,High
+H028056,28,4761.606,45,Inactive,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,4,13,1.0,NO,NO,NO,NO,NO,High
+H005919,18,5615.238,0,Sufficiently active,Male,Never,Some Days,Most days,8,2.0,5.0,2.0,1,1,6,2.0,NO,NO,NO,NO,NO,Marginal
+H012711,26,19590.422,40,Inactive,Female,Most days,Most days,Some Days,6,3.0,3.0,2.0,1,5,13,1.0,NO,NO,NO,NO,NO,High
+H009153,19,37411.091,0,Insufficiently active,Female,Most days,Some Days,Every Day,8,4.0,4.0,2.0,0,2,8,1.0,NO,NO,NO,NO,NO,High
+H032366,18,31827.821,20,Sufficiently active,Female,Never,Some Days,Some Days,8,1.0,4.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H061479,19,17844.967,4,Insufficiently active,Female,Never,Some Days,Some Days,6,2.0,4.0,2.0,0,4,4,1.0,NO,NO,NO,NO,NO,High
+H062036,28,8543.184,35,Sufficiently active,Female,Some Days,Some Days,Every Day,8,1.0,5.0,2.0,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H004460,24,7234.239,0,Insufficiently active,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H074960,19,18130.775,5,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,4.0,2.0,0,5,3,3.0,NO,NO,NO,NO,NO,Low
+H039395,22,2564.68,10,Sufficiently active,Male,Some Days,Some Days,Some Days,8,3.0,3.0,2.0,0,8,4,1.0,NO,NO,NO,NO,NO,High
+H064719,22,2995.196,0,Sufficiently active,Male,Never,Some Days,Most days,7,4.0,4.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H068159,21,9127.399,15,Sufficiently active,Male,Some Days,Never,Some Days,7,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H032802,24,8561.772,0,Sufficiently active,Female,Some Days,Some Days,Some Days,6,3.0,4.0,2.0,1,8,3,1.0,NO,NO,NO,NO,NO,High
+H067092,25,5718.65,0,Insufficiently active,Male,Never,Some Days,Most days,7,4.0,5.0,2.0,0,7,2,1.0,NO,NO,NO,NO,NO,High
+H046849,19,15434.695,12,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,5.0,2.0,0,4,13,1.0,NO,NO,NO,NO,NO,High
+H033944,19,2164.661,0,Sufficiently active,Male,Never,Never,Some Days,5,2.0,3.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H040794,22,7584.683,0,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,5,4,1.0,NO,NO,NO,NO,NO,High
+H075731,20,13300.942,0,Sufficiently active,Male,Never,Some Days,Most days,7,2.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H041647,20,6037.382,0,Sufficiently active,Female,Never,Never,Most days,8,5.0,5.0,2.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H050506,28,14088.114,55,Sufficiently active,Male,Never,Some Days,Some Days,8,2.0,3.0,2.0,0,7,8,1.0,YES,NO,NO,NO,NO,High
+H076139,21,13378.982,30,Sufficiently active,Female,Some Days,Some Days,Most days,8,1.0,4.0,2.0,1,8,7,1.0,NO,NO,NO,NO,NO,High
+H039285,19,11444.478,0,Insufficiently active,Female,Some Days,Never,Every Day,8,5.0,5.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H028943,20,26074.445,19,Sufficiently active,Male,Never,Some Days,Never,7,1.0,5.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H062106,27,11417.465,40,Sufficiently active,Female,Some Days,Most days,Some Days,6,3.0,4.0,2.0,2,8,5,3.0,NO,NO,NO,NO,NO,Low
+H024610,19,9065.184,20,Sufficiently active,Male,Never,Never,Every Day,8,4.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H018348,19,10706.918,24,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,2,5,8,1.0,NO,NO,YES,NO,NO,High
+H035060,25,6642.64,40,Insufficiently active,Female,Every Day,Some Days,Most days,8,1.0,5.0,2.0,1,3,6,1.0,NO,NO,NO,NO,NO,High
+H021937,22,35527.567,30,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,0,4,4,,,NO,NO,NO,NO,
+H060964,18,29433.076,0,Sufficiently active,Male,Some Days,Every Day,Some Days,12,5.0,5.0,2.0,0,1,14,1.0,NO,NO,NO,NO,NO,High
+H050328,23,22350.31,40,Insufficiently active,Female,Never,Never,Every Day,8,2.0,5.0,2.0,1,8,8,1.0,NO,NO,NO,NO,NO,High
+H012814,21,16109.967,30,Sufficiently active,Female,Never,Never,Most days,9,2.0,4.0,2.0,0,5,4,1.0,NO,NO,NO,NO,NO,High
+H062483,18,36707.613,0,Sufficiently active,Female,Never,Never,Most days,9,4.0,4.0,2.0,0,1,3,1.0,,NO,NO,NO,NO,High
+H049734,26,6069.319,0,Sufficiently active,Female,Every Day,Every Day,Some Days,5,1.0,2.0,2.0,2,5,3,1.0,NO,NO,NO,NO,NO,High
+H000492,28,20229.024,0,Sufficiently active,Male,Never,Some Days,Some Days,9,1.0,4.0,2.0,0,5,14,2.0,NO,NO,NO,NO,NO,Marginal
+H074208,22,34764.502,0,Inactive,Female,Some Days,Some Days,Most days,8,1.0,4.0,2.0,0,5,8,2.0,NO,NO,NO,NO,NO,Marginal
+H066345,19,19799.617,30,Sufficiently active,Male,Some Days,Some Days,Most days,9,4.0,5.0,2.0,3,5,12,1.0,NO,NO,NO,NO,NO,High
+H000368,18,16443.452,0,Inactive,Female,Never,Never,Every Day,8,5.0,3.0,2.0,2,1,2,1.0,NO,NO,NO,NO,NO,High
+H001770,20,16064.892,30,Sufficiently active,Female,Some Days,Some Days,Most days,6,3.0,5.0,2.0,2,4,5,3.0,NO,NO,NO,NO,NO,Low
+H051987,18,23168.658,10,Sufficiently active,Male,Never,Never,Most days,8,3.0,5.0,2.0,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H004095,23,34320.068,0,Insufficiently active,Male,Some Days,Some Days,Most days,7,1.0,4.0,2.0,0,7,12,1.0,NO,NO,NO,NO,NO,High
+H025499,28,12234.891,40,Sufficiently active,Male,Never,Never,Some Days,7,4.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H072762,18,31665.854,0,Insufficiently active,Female,Never,Never,Most days,9,3.0,5.0,2.0,2,5,14,1.0,NO,NO,NO,NO,NO,High
+H063208,21,34235.949,2,Sufficiently active,Female,Never,Never,Some Days,6,3.0,5.0,2.0,0,5,10,1.0,NO,NO,YES,NO,NO,High
+H026427,25,32589.094,10,Sufficiently active,Female,Never,Some Days,Most days,8,2.0,4.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H051012,18,10386.899,0,Insufficiently active,Male,Some Days,Some Days,Some Days,7,4.0,5.0,2.0,2,1,8,2.0,NO,NO,NO,NO,NO,Marginal
+H009574,24,4148.133,40,Sufficiently active,Female,Some Days,Some Days,Most days,7,2.0,4.0,2.0,0,8,5,1.0,NO,NO,NO,NO,NO,High
+H014969,24,5750.263,16,Sufficiently active,Female,Some Days,Some Days,Most days,8,1.0,4.0,2.0,0,8,14,1.0,NO,NO,YES,NO,NO,High
+H063601,26,5305.32,40,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,9,14,1.0,NO,NO,NO,NO,NO,High
+H078792,18,33859.064,0,Sufficiently active,Male,Never,Some Days,Most days,6,2.0,3.0,2.0,2,1,2,1.0,NO,YES,YES,NO,NO,High
+H019123,20,14450.393,0,Sufficiently active,Male,Never,Never,Every Day,8,2.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H026171,19,26341.41,20,Sufficiently active,Female,Never,Some Days,Most days,8,2.0,3.0,2.0,1,5,13,1.0,NO,NO,NO,NO,NO,High
+H041576,18,12377.862,40,Inactive,Male,Some Days,Some Days,Some Days,6,4.0,4.0,2.0,1,4,10,1.0,NO,NO,NO,NO,NO,High
+H054424,19,13751.873,20,Sufficiently active,Female,Never,Some Days,Most days,8,2.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H018022,18,9233.809,0,Inactive,Female,Never,Never,Most days,7,3.0,5.0,2.0,0,1,8,1.0,NO,NO,NO,NO,NO,High
+H044903,23,13908.599,60,Sufficiently active,Female,Never,Some Days,Most days,8,3.0,5.0,2.0,0,8,13,1.0,NO,NO,NO,NO,NO,High
+H050757,28,5261.094,40,Sufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,5.0,2.0,2,5,10,1.0,YES,NO,NO,NO,NO,High
+H067233,24,11141.062,40,Sufficiently active,Female,Never,Some Days,Most days,6,1.0,3.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H019953,19,17981.887,40,Sufficiently active,Male,Never,Never,Some Days,8,2.0,5.0,2.0,1,6,14,1.0,NO,NO,NO,NO,NO,High
+H078364,28,4416.086,40,Sufficiently active,Male,Never,Never,Most days,8,3.0,3.0,2.0,0,4,7,1.0,NO,NO,YES,NO,NO,High
+H054649,18,36615.177,0,Sufficiently active,Female,Some Days,Most days,Most days,7,3.0,4.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H005895,24,13112.972,0,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H043810,21,18951.548,30,Sufficiently active,Female,Never,Some Days,Some Days,7,1.0,2.0,1.0,0,5,10,3.0,YES,NO,NO,NO,NO,Low
+H067308,19,19285.094,3,Sufficiently active,Female,Never,Never,Most days,8,4.0,5.0,2.0,0,4,1,1.0,NO,NO,NO,NO,NO,High
+H041491,21,33904.03,15,Sufficiently active,Male,Never,Never,Most days,7,3.0,4.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H048090,21,2387.708,20,Sufficiently active,Female,Most days,Most days,Some Days,6,2.0,3.0,2.0,0,4,3,1.0,NO,NO,YES,NO,NO,High
+H055893,23,34312.753,0,Inactive,Female,Never,Most days,Some Days,10,1.0,2.0,1.0,0,3,13,1.0,NO,NO,NO,NO,NO,High
+H061123,26,12589.967,0,Insufficiently active,Male,Some Days,Never,Never,4,5.0,1.0,2.0,0,8,13,1.0,NO,YES,NO,NO,NO,High
+H049289,20,28830.104,62,Sufficiently active,Male,Never,Never,Every Day,8,3.0,5.0,2.0,0,4,12,1.0,NO,NO,NO,NO,NO,High
+H041827,26,8185.138,40,Insufficiently active,Female,Some Days,Some Days,Some Days,9,1.0,1.0,1.0,0,8,13,1.0,NO,NO,NO,NO,NO,High
+H055944,19,8728.954,25,Sufficiently active,Male,Never,Never,Most days,8,4.0,5.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H013399,20,4491.189,30,Inactive,Female,Never,Never,Most days,10,2.0,5.0,2.0,0,4,1,1.0,NO,NO,NO,NO,NO,High
+H050194,18,33885.65,20,Sufficiently active,Male,Never,Never,Most days,6,2.0,5.0,2.0,2,1,2,1.0,NO,NO,YES,NO,NO,High
+H019098,18,22862.755,30,Inactive,Female,Never,Some Days,Never,6,2.0,4.0,2.0,1,5,8,1.0,NO,NO,NO,NO,NO,High
+H056438,22,32273.933,25,Sufficiently active,Male,Some Days,Some Days,Some Days,7,2.0,2.0,1.0,0,7,14,1.0,NO,NO,YES,NO,NO,High
+H003939,18,15543.638,0,Inactive,Female,Never,Never,Some Days,8,5.0,5.0,2.0,0,1,11,1.0,NO,NO,NO,NO,NO,High
+H052666,24,6865.474,40,Insufficiently active,Male,Never,Some Days,Most days,7,4.0,5.0,2.0,0,8,12,1.0,NO,NO,NO,NO,NO,High
+H020904,21,5869.647,19,Insufficiently active,Female,Some Days,Never,Some Days,6,4.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H067582,21,8545.858,12,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,4.0,2.0,0,5,3,1.0,NO,NO,NO,NO,NO,High
+H052773,18,10412.279,20,Sufficiently active,Male,Most days,Some Days,Most days,9,2.0,5.0,2.0,3,5,7,3.0,NO,NO,NO,NO,NO,Low
+H055157,21,6162.74,8,Inactive,Female,Never,Some Days,Never,8,1.0,3.0,2.0,0,5,10,1.0,NO,NO,NO,NO,NO,High
+H010954,21,17327.348,0,Sufficiently active,Female,Some Days,Some Days,Some Days,8,2.0,4.0,2.0,0,5,1,2.0,NO,NO,NO,NO,NO,Marginal
+H066974,22,6623.58,0,Sufficiently active,Male,Never,Never,Some Days,9,4.0,5.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H014500,21,7932.854,0,Sufficiently active,Female,Never,Never,Most days,7,3.0,4.0,2.0,0,5,1,3.0,NO,NO,NO,NO,NO,Low
+H020396,22,5375.193,40,Insufficiently active,Male,Most days,Some Days,Some Days,10,2.0,5.0,2.0,0,4,3,1.0,NO,NO,NO,NO,NO,High
+H051917,22,34567.815,20,Sufficiently active,Male,Never,Some Days,Most days,9,2.0,4.0,2.0,1,4,14,1.0,YES,NO,NO,NO,NO,High
+H034195,23,2575.264,0,Sufficiently active,Female,Never,Some Days,Most days,8,5.0,4.0,2.0,1,3,1,1.0,YES,NO,YES,NO,NO,High
+H044709,21,30753.533,6,Sufficiently active,Male,Never,Never,Most days,7,2.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H069286,27,4640.27,45,Insufficiently active,Male,Some Days,Most days,Some Days,6,1.0,2.0,2.0,0,5,8,3.0,YES,NO,YES,NO,NO,Low
+H046910,21,9962.03,20,Sufficiently active,Female,Some Days,Some Days,Never,5,2.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H074850,20,15571.356,50,Sufficiently active,Female,Never,Never,Some Days,9,4.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H013183,27,2176.418,36,Insufficiently active,Female,Most days,Most days,Some Days,7,1.0,3.0,2.0,0,5,12,1.0,NO,NO,NO,NO,NO,High
+H046808,18,3939.574,20,Sufficiently active,Female,Some Days,Some Days,Most days,6,3.0,3.0,2.0,2,5,14,1.0,NO,NO,YES,NO,NO,High
+H046294,25,5452.268,40,Sufficiently active,Male,Most days,Every Day,Never,6,1.0,1.0,1.0,0,5,6,1.0,NO,NO,NO,YES,NO,High
+H003077,26,3128.078,0,Inactive,Male,Every Day,Every Day,Never,6,1.0,3.0,2.0,0,7,12,1.0,NO,NO,NO,NO,NO,High
+H048828,18,24543.101,0,Insufficiently active,Female,Some Days,Some Days,Some Days,6,2.0,4.0,2.0,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H058433,22,16573.645,40,Sufficiently active,Female,Most days,Every Day,Never,7,1.0,2.0,2.0,1,4,14,1.0,NO,NO,NO,YES,NO,High
+H010305,19,12143.386,5,Insufficiently active,Female,Some Days,Some Days,Some Days,7,2.0,4.0,2.0,1,5,10,1.0,NO,NO,NO,NO,NO,High
+H064700,20,13805.923,0,Sufficiently active,Female,Some Days,Some Days,Most days,8,1.0,2.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H045865,26,17647.451,24,Sufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H000780,27,3972.386,50,Sufficiently active,Female,Some Days,Most days,Some Days,7,1.0,3.0,2.0,1,7,7,2.0,NO,YES,NO,NO,NO,Marginal
+H042606,19,36517.758,0,Inactive,Female,Never,Some Days,Most days,8,4.0,5.0,2.0,0,4,10,1.0,NO,NO,YES,NO,NO,High
+H056696,27,10534.36,0,Sufficiently active,Female,Never,Never,Most days,6,5.0,5.0,2.0,3,8,5,1.0,NO,NO,NO,NO,NO,High
+H049121,21,20033.964,0,Sufficiently active,Female,Never,Some Days,Some Days,7,5.0,5.0,2.0,1,5,14,1.0,NO,NO,NO,NO,NO,High
+H072534,24,16827.942,15,Sufficiently active,Male,Never,Some Days,Every Day,8,4.0,5.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H029644,23,16113.311,0,Sufficiently active,Male,Some Days,Most days,Most days,6,1.0,4.0,2.0,0,4,1,,,NO,NO,NO,NO,
+H002917,23,6426.692,0,Insufficiently active,Female,Never,Every Day,Never,6,5.0,5.0,2.0,0,8,5,1.0,YES,NO,NO,NO,NO,High
+H058226,21,14219.964,16,Sufficiently active,Female,Never,Never,Most days,7,2.0,5.0,2.0,0,4,7,1.0,NO,NO,NO,NO,NO,High
+H036887,20,6205.241,0,Sufficiently active,Female,Some Days,Some Days,Most days,5,4.0,4.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H023555,18,29907.191,0,Sufficiently active,Female,Some Days,Most days,Some Days,7,1.0,5.0,2.0,2,5,8,1.0,NO,NO,NO,NO,NO,High
+H008359,26,4872.965,50,Sufficiently active,Female,Never,Never,Some Days,7,2.0,3.0,2.0,0,8,11,1.0,NO,NO,YES,YES,NO,High
+H006646,21,26928.072,18,Sufficiently active,Female,Some Days,Most days,Some Days,8,3.0,5.0,2.0,0,5,7,1.0,NO,NO,NO,NO,NO,High
+H021864,21,18432.358,9,Insufficiently active,Female,Some Days,Some Days,Most days,8,1.0,3.0,2.0,0,5,2,1.0,NO,NO,YES,NO,NO,High
+H033051,25,7359.124,42,Sufficiently active,Female,Never,Some Days,Most days,7,2.0,4.0,2.0,0,8,11,1.0,NO,NO,NO,NO,NO,High
+H027916,19,16746.612,0,Insufficiently active,Male,Some Days,Some Days,Some Days,6,1.0,4.0,,0,2,14,1.0,NO,NO,NO,NO,NO,High
+H056892,22,1515.264,28,Insufficiently active,Male,Some Days,Some Days,Some Days,8,5.0,5.0,2.0,0,4,7,3.0,NO,NO,NO,NO,NO,Low
+H068334,20,13125.739,30,Inactive,Male,Never,Some Days,Some Days,9,2.0,3.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H054882,22,13658.42,0,Inactive,Male,Never,Never,Every Day,9,4.0,5.0,2.0,1,5,11,1.0,NO,NO,NO,NO,NO,High
+H038405,27,12375.422,75,Sufficiently active,Female,Never,Never,Most days,6,1.0,3.0,1.0,0,7,8,4.0,YES,NO,YES,NO,NO,Very Low
+H063414,18,27465.002,0,Sufficiently active,Male,Never,Never,Some Days,8,5.0,5.0,2.0,0,1,2,1.0,NO,NO,NO,NO,NO,High
+H005962,19,7994.02,25,Sufficiently active,Male,Never,Never,Most days,7,5.0,5.0,2.0,0,5,4,1.0,NO,NO,YES,NO,NO,High
+H076185,28,5020.429,40,Insufficiently active,Female,Some Days,Some Days,Some Days,7,3.0,3.0,2.0,3,8,5,4.0,YES,NO,YES,NO,NO,Very Low
+H059989,27,13096.311,40,Insufficiently active,Female,Never,Never,Most days,7,3.0,5.0,2.0,0,4,7,1.0,NO,NO,NO,NO,NO,High
+H056555,19,24949.979,20,Sufficiently active,Male,Some Days,Never,Most days,7,4.0,5.0,2.0,0,5,12,1.0,YES,NO,,NO,NO,High
+H050893,18,16118.281,20,Insufficiently active,Male,Never,Some Days,Most days,7,5.0,5.0,2.0,1,2,1,1.0,NO,NO,NO,NO,NO,High
+H033644,20,12573.484,60,Insufficiently active,Male,Never,Never,Every Day,8,5.0,5.0,2.0,0,4,9,1.0,NO,NO,NO,NO,NO,High
+H073475,23,28072.16,35,Sufficiently active,Female,Never,Every Day,Some Days,6,2.0,4.0,2.0,0,8,14,1.0,NO,NO,YES,NO,NO,High
+H029163,24,17533.627,30,Sufficiently active,Male,Some Days,Some Days,Most days,8,4.0,4.0,2.0,0,7,13,1.0,NO,NO,NO,NO,NO,High
+H019769,28,15064.634,40,Inactive,Male,Every Day,Every Day,Never,8,5.0,3.0,2.0,1,4,12,4.0,NO,NO,YES,NO,NO,Very Low
+H063821,23,8348.108,24,Insufficiently active,Female,Some Days,Most days,Some Days,8,1.0,3.0,2.0,0,8,1,1.0,NO,NO,NO,NO,NO,High
+H010780,23,12099.488,15,Sufficiently active,Male,Never,Never,Every Day,9,5.0,5.0,2.0,0,5,8,1.0,NO,NO,YES,NO,NO,High
+H051626,20,34320.068,45,Sufficiently active,Male,Some Days,Most days,Never,5,1.0,1.0,1.0,0,5,9,2.0,NO,NO,NO,NO,NO,Marginal
+H033586,23,6845.779,16,Sufficiently active,Female,Some Days,Most days,Some Days,7,3.0,4.0,2.0,2,6,3,3.0,NO,YES,NO,YES,NO,Low
+H010808,27,8559.037,12,Insufficiently active,Male,Never,Some Days,Most days,8,2.0,4.0,2.0,0,9,10,1.0,NO,NO,YES,NO,NO,High
+H025239,26,12061.595,50,Sufficiently active,Female,Some Days,Some Days,Some Days,6,2.0,4.0,2.0,0,8,8,1.0,NO,NO,NO,NO,NO,High
+H004032,20,13330.879,0,Insufficiently active,Female,Some Days,Some Days,Most days,10,4.0,5.0,2.0,0,4,4,1.0,NO,NO,NO,NO,NO,High
+H079609,18,26395.321,20,Sufficiently active,Male,Never,Never,Every Day,9,4.0,5.0,2.0,1,5,9,1.0,NO,YES,NO,NO,NO,High
+H039568,29,5197.111,40,Sufficiently active,Male,Some Days,Some Days,Some Days,8,4.0,5.0,2.0,0,5,9,1.0,NO,NO,NO,NO,NO,High
+H032692,19,26934.936,0,Sufficiently active,Male,Never,Never,Some Days,7,2.0,3.0,2.0,2,5,10,2.0,NO,NO,NO,NO,NO,Marginal
+H014639,18,33344.636,18,Sufficiently active,Male,Never,Never,Most days,7,2.0,5.0,2.0,0,5,11,1.0,NO,NO,NO,NO,NO,High
+H022300,21,27133.029,0,Sufficiently active,Female,Never,Some Days,Some Days,8,2.0,2.0,2.0,1,5,14,1.0,NO,NO,YES,NO,NO,High
+H000358,20,34660.033,0,Sufficiently active,Male,Never,Never,Most days,8,5.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H037425,24,13183.529,0,Sufficiently active,Female,Most days,Most days,Some Days,7,3.0,4.0,2.0,0,8,13,1.0,NO,NO,YES,NO,NO,High
+H041846,19,18253.085,23,Insufficiently active,Male,Never,Never,Most days,7,1.0,2.0,1.0,0,5,4,1.0,NO,NO,NO,NO,NO,High
+H021314,22,26282.957,30,Sufficiently active,Male,Some Days,Never,Never,6,3.0,4.0,2.0,0,8,6,1.0,NO,NO,NO,NO,NO,High
+H010805,20,21180.177,20,Sufficiently active,Female,Never,Never,Most days,8,3.0,4.0,2.0,0,4,14,1.0,NO,NO,YES,NO,NO,High
+H045474,20,20865.763,0,Insufficiently active,Male,Never,Never,Most days,7,4.0,5.0,2.0,1,8,9,1.0,NO,YES,NO,NO,NO,High
+H063921,27,5841.44,30,Sufficiently active,Male,Never,Some Days,Some Days,8,2.0,1.0,2.0,0,4,8,1.0,NO,NO,YES,NO,NO,High
+H044956,22,14821.5,30,Sufficiently active,Male,Never,Some Days,Some Days,7,2.0,3.0,2.0,2,5,5,3.0,YES,NO,NO,NO,NO,Low
+H003376,19,27273.232,15,Sufficiently active,Male,Never,Never,Every Day,9,5.0,5.0,2.0,1,5,14,1.0,NO,NO,YES,NO,NO,High
+H048111,19,11447.588,16,Sufficiently active,Male,Never,Never,Every Day,10,4.0,5.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H038631,23,9792.096,0,Sufficiently active,Male,Never,Never,Most days,7,4.0,5.0,2.0,1,8,6,1.0,NO,NO,NO,NO,NO,High
+H033760,29,7114.395,40,Sufficiently active,Female,Some Days,Most days,Some Days,7,1.0,4.0,2.0,0,8,14,1.0,NO,NO,NO,YES,NO,High
+H002068,18,4282.531,0,Insufficiently active,Female,Some Days,Some Days,Some Days,9,1.0,2.0,2.0,0,5,14,1.0,NO,NO,NO,NO,NO,High
+H017982,29,3876.561,20,Insufficiently active,Female,Most days,Some Days,Most days,7,4.0,5.0,2.0,0,9,5,1.0,NO,NO,NO,NO,NO,High
+H061708,25,4689.918,0,Sufficiently active,Female,Some Days,Most days,Some Days,5,1.0,4.0,2.0,0,8,1,1.0,NO,NO,YES,NO,NO,High
+H034383,23,9389.107,34,Insufficiently active,Female,Some Days,Some Days,Most days,9,4.0,5.0,2.0,0,4,8,1.0,NO,NO,NO,NO,NO,High
+H033528,28,22645.767,45,Sufficiently active,Female,Every Day,Most days,Some Days,5,2.0,3.0,2.0,0,8,14,1.0,NO,NO,NO,NO,NO,High
+H040550,19,36729.751,20,Sufficiently active,Female,Every Day,Never,Never,5,1.0,1.0,1.0,2,5,14,1.0,NO,NO,YES,NO,NO,High
+H074946,21,34235.949,15,Insufficiently active,Female,Most days,Some Days,Some Days,7,4.0,5.0,2.0,0,5,4,1.0,NO,NO,NO,NO,NO,High
+H051349,18,13075.007,0,Sufficiently active,Male,Never,Never,Most days,7,2.0,4.0,2.0,1,2,14,1.0,NO,NO,NO,NO,NO,High
+H029045,24,6230.349,40,Sufficiently active,Female,Never,Never,Every Day,8,4.0,5.0,2.0,0,8,9,1.0,NO,NO,YES,NO,NO,High
+H043236,20,15929.459,30,Sufficiently active,Female,Some Days,Every Day,Some Days,6,1.0,1.0,2.0,1,5,9,2.0,NO,NO,NO,NO,NO,Marginal
+H038991,20,4747.856,50,Sufficiently active,Female,Some Days,Some Days,Never,7,4.0,4.0,1.0,1,4,2,4.0,NO,NO,NO,NO,NO,Very Low
+H043610,18,9534.272,32,Sufficiently active,Female,Never,Never,Most days,8,4.0,4.0,2.0,1,2,5,1.0,NO,NO,YES,NO,NO,High
+H076712,18,20744.966,0,Sufficiently active,Male,Never,Some Days,Some Days,7,3.0,5.0,2.0,0,4,14,1.0,NO,NO,NO,NO,NO,High
+H040812,23,5495.281,40,Sufficiently active,Female,Some Days,Most days,Some Days,9,2.0,3.0,2.0,0,8,9,1.0,NO,NO,NO,NO,NO,High
+H035562,20,20335.145,0,Insufficiently active,Female,Never,Never,Some Days,8,4.0,5.0,2.0,2,7,5,2.0,NO,NO,NO,NO,NO,Marginal
+H038007,20,19820.546,35,Sufficiently active,Male,Never,Some Days,Every Day,7,3.0,4.0,2.0,1,7,8,1.0,NO,NO,NO,NO,NO,High
+H041475,29,15570.166,40,Sufficiently active,Female,Never,Some Days,Most days,8,2.0,2.0,2.0,0,8,10,1.0,NO,NO,NO,NO,NO,High
+H058561,20,35071.875,0,Insufficiently active,Female,Some Days,Some Days,Some Days,7,1.0,3.0,2.0,0,5,8,1.0,NO,NO,NO,NO,NO,High
+H052177,22,8534.067,0,Insufficiently active,Male,Never,Some Days,Most days,10,4.0,5.0,2.0,0,5,1,1.0,NO,NO,NO,NO,NO,High
+H030673,20,20706.415,0,Sufficiently active,Female,Never,Never,Every Day,9,4.0,5.0,2.0,0,5,2,1.0,NO,NO,NO,NO,NO,High
+H066336,28,14778.807,45,Sufficiently active,Female,Never,Some Days,Every Day,8,4.0,5.0,2.0,0,7,13,1.0,NO,NO,NO,NO,NO,High
+H078912,18,2800.466,16,Insufficiently active,Male,Never,Never,Most days,8,2.0,5.0,2.0,2,1,13,1.0,NO,NO,YES,NO,NO,High
