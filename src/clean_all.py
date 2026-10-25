@@ -1,17 +1,4 @@
-"""
-Combined data cleaning for NHIS adult24.csv.
-
-Sample: students (SCHCURENR_A == 1) aged 18-29.
-
-Writes one CSV per person (same files as the original notebooks) plus
-combined_clean.csv with every cleaned column side by side, one row per person.
-
-Run from the project folder or from notebooks/:
-    python clean_all.py
-"""
-
 from pathlib import Path
-
 import numpy as np
 import pandas as pd
 
@@ -22,13 +9,11 @@ OUT_DIR = ROOT / "data" / "processed"
 NA_VALUES = ["", " ", "-", "..", ":", "ukjent", "unknown"]
 
 
-# ---------------------------------------------------------------------------
-# Load and select the sample (done once for everyone)
-# ---------------------------------------------------------------------------
 def load_students() -> pd.DataFrame:
     df = pd.read_csv(RAW_PATH, na_values=NA_VALUES)
 
-    by_age = df[df["AGEP_A"].between(18, 29)]  # also drops age codes 97/99
+    #Filtering to include age 18-29 and students only
+    by_age = df[df["AGEP_A"].between(18, 29)]
     unknown_school = by_age["SCHCURENR_A"].isin([7, 8, 9]).sum()
     students = by_age[by_age["SCHCURENR_A"] == 1].reset_index(drop=True)
 
@@ -38,24 +23,21 @@ def load_students() -> pd.DataFrame:
     return students
 
 
-# ---------------------------------------------------------------------------
-# Unknown codes -> NaN (done once for every variable)
-# ---------------------------------------------------------------------------
-# 7 = Refused, 8 = Not ascertained, 9 = Don't know
+# Unknown codes: 7 = Refused, 8 = Not ascertained, 9 = Don't know
 UNKNOWN_7_9 = [
-    "PA18_02R_A", "SEX_A", "SLPSTY_A", "SLPFLL_A", "SLPREST_A",    # Kristine
-    "ANXFREQ_A", "DEPFREQ_A", "K6SPD_A", "PCNTKIDS_A",             # Endre
-    "FDSCAT4_A", "HOUSECOST_A", "HYPEV_A", "ASEV_A", "ARTHEV_A", "DIBEV_A",  # Lykke
+    "PA18_02R_A", "SEX_A", "SLPSTY_A", "SLPFLL_A", "SLPREST_A",
+    "ANXFREQ_A", "DEPFREQ_A", "K6SPD_A", "PCNTKIDS_A",
+    "FDSCAT4_A", "HOUSECOST_A", "HYPEV_A", "ASEV_A", "ARTHEV_A", "DIBEV_A",
 ]
 
-# 97 = Refused, 98 = Not ascertained, 99 = Don't know
+# Unknown codes: 97 = Refused, 98 = Not ascertained, 99 = Don't know
 UNKNOWN_97_99 = [
     "SLPHOURS_A",   # Kristine
     "EDUCP_A",      # Endre
     "EMPWKHRS3_A",  # Jørgen
 ]
 
-
+#Replacing unknown values to NaN
 def set_unknowns_to_nan(students: pd.DataFrame) -> pd.DataFrame:
     students = students.copy()
     students[UNKNOWN_7_9] = students[UNKNOWN_7_9].replace({7: np.nan, 8: np.nan, 9: np.nan})
@@ -63,9 +45,6 @@ def set_unknowns_to_nan(students: pd.DataFrame) -> pd.DataFrame:
     return students
 
 
-# ---------------------------------------------------------------------------
-# Jørgen: weekly work hours
-# ---------------------------------------------------------------------------
 def clean_jorgen(students: pd.DataFrame) -> pd.DataFrame:
     out = pd.DataFrame({
         "household_id": students["HHX"],
@@ -79,9 +58,6 @@ def clean_jorgen(students: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-# ---------------------------------------------------------------------------
-# Kristine: sleep, sex, physical activity
-# ---------------------------------------------------------------------------
 def clean_kristine(students: pd.DataFrame) -> pd.DataFrame:
     out = students[
         ["PA18_02R_A", "SEX_A", "SLPSTY_A", "SLPFLL_A", "SLPREST_A", "SLPHOURS_A"]
@@ -107,9 +83,6 @@ def clean_kristine(students: pd.DataFrame) -> pd.DataFrame:
     })
 
 
-# ---------------------------------------------------------------------------
-# Endre: anxiety, depression, distress, kids, education
-# ---------------------------------------------------------------------------
 def clean_endre(students: pd.DataFrame) -> pd.DataFrame:
     out = students[["ANXFREQ_A", "DEPFREQ_A", "K6SPD_A", "PCNTKIDS_A", "EDUCP_A"]].copy()
 
@@ -122,11 +95,7 @@ def clean_endre(students: pd.DataFrame) -> pd.DataFrame:
     })
 
 
-# ---------------------------------------------------------------------------
-# Lykke: income, food security, housing cost, chronic conditions
-# ---------------------------------------------------------------------------
 FOOD_SECURITY_LABELS = {1: "High", 2: "Marginal", 3: "Low", 4: "Very Low"}
-
 
 def clean_lykke(students: pd.DataFrame) -> pd.DataFrame:
     out = students[
@@ -150,9 +119,7 @@ def clean_lykke(students: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
-# ---------------------------------------------------------------------------
-# Run everything
-# ---------------------------------------------------------------------------
+#Saving the cleaned datafram to a csv file
 def save(df: pd.DataFrame, name: str) -> None:
     path = OUT_DIR / name
     df.to_csv(path, index=False)
@@ -160,7 +127,7 @@ def save(df: pd.DataFrame, name: str) -> None:
 
 
 def main() -> None:
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    OUT_DIR.mkdir(parents=True, exist_ok=True) #Error handling if folder exists
     students = set_unknowns_to_nan(load_students())
 
     parts = {
@@ -170,14 +137,15 @@ def main() -> None:
         "lykke_clean.csv": clean_lykke(students),
     }
 
-    print()
+    print() #Making space and then saving each cleaned part to csv files
     for name, part in parts.items():
         save(part, name)
 
-    # All parts share the same rows in the same order, so they line up side by side.
+    # Saving into one combined csv file 
     combined = pd.concat(parts.values(), axis=1)
     save(combined, "combined_clean.csv")
 
+    #Sanity checking missing values and uniquness of row id aka hoousehold_id
     print("\nMissing values in combined data:")
     print(combined.isna().sum().to_string())
     assert combined["household_id"].is_unique, "household_id should be unique"
