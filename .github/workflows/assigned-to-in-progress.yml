@@ -1,0 +1,85 @@
+# When someone is assigned to an issue, move its card on the project board to "In Progress".
+# Only cards in Backlog or Klar are moved; cards already in PR or Done are left alone.
+#
+# Needs a repository secret named CLAUDEACCESS: a personal access token that can edit
+# the organisation's project (classic token with the "project" and "repo" scopes).
+# Without the secret the job only logs a warning.
+
+name: Assigned issue to In Progress
+
+on:
+  issues:
+    types: [assigned]
+
+permissions: {}
+
+jobs:
+  move-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Move the card to In Progress
+        env:
+          GH_TOKEN: ${{ secrets.CLAUDEACCESS }}
+          ISSUE_ID: ${{ github.event.issue.node_id }}
+          NUMBER: ${{ github.event.issue.number }}
+          OWNER: DataScience-OsloMet
+          PROJECT_NUMBER: "1"
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_TOKEN}" ]; then
+            echo "::warning::The CLAUDEACCESS secret is not set, so the card was not moved."
+            exit 0
+          fi
+
+          # Find this issue's card on the board and its current status
+          data=$(gh api graphql -f id="$ISSUE_ID" -f query='
+            query($id: ID!) {
+              node(id: $id) {
+                ... on Issue {
+                  projectItems(first: 20) {
+                    nodes {
+                      id
+                      project { id number owner { ... on Organization { login } } }
+                      status: fieldValueByName(name: "Status") {
+                        ... on ProjectV2ItemFieldSingleSelectValue { name }
+                      }
+                    }
+                  }
+                }
+              }
+            }')
+          item=$(jq -c --arg owner "$OWNER" --argjson num "$PROJECT_NUMBER" \
+            '.data.node.projectItems.nodes[] | select(.project.number == $num and .project.owner.login == $owner)' <<<"$data")
+          if [ -z "$item" ]; then
+            echo "Issue #$NUMBER is not on the board."
+            exit 0
+          fi
+
+          status=$(jq -r '.status.name // ""' <<<"$item")
+          case "$status" in
+            ""|Backlog|Klar) ;;
+            *) echo "Issue #$NUMBER is in '$status', leaving it there."; exit 0 ;;
+          esac
+
+          # Look up the Status field and its "In Progress" option by name
+          item_id=$(jq -r '.id' <<<"$item")
+          project_id=$(jq -r '.project.id' <<<"$item")
+          field=$(gh api graphql -f project="$project_id" -f query='
+            query($project: ID!) {
+              node(id: $project) {
+                ... on ProjectV2 {
+                  field(name: "Status") { ... on ProjectV2SingleSelectField { id options { id name } } }
+                }
+              }
+            }')
+          field_id=$(jq -r '.data.node.field.id' <<<"$field")
+          option_id=$(jq -r '.data.node.field.options[] | select(.name == "In Progress") | .id' <<<"$field")
+
+          gh api graphql -f project="$project_id" -f item="$item_id" -f field="$field_id" -f option="$option_id" -f query='
+            mutation($project: ID!, $item: ID!, $field: ID!, $option: String!) {
+              updateProjectV2ItemFieldValue(input: {
+                projectId: $project, itemId: $item, fieldId: $field,
+                value: { singleSelectOptionId: $option }
+              }) { projectV2Item { id } }
+            }' > /dev/null
+          echo "Moved issue #$NUMBER from '${status:-no status}' to In Progress."
