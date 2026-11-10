@@ -50,14 +50,33 @@ reports/figures/    figures for the report
 
 ## How we work
 
-- **`main` always runs.** Work on your own branch and merge through a pull request.
-- **One notebook, one owner at a time.** Two people editing the same notebook gives conflicts
-  that are hard to fix.
-- **Restart and Run All before you push**, so the notebook is known to run from top to bottom.
-- **Add or change a variable:** edit its section in `01_cleaning.ipynb`, update
-  `docs/variables.md`, and run the notebook again.
-- **Later notebooks** start with `pd.read_csv(PROCESSED / "clean_dataset.csv")` and never read the raw file.
-- Save figures for the report with `fig.savefig(FIGURES / "name.png", dpi=200)` (`from src.config import FIGURES`).
+All tasks are on the [project board](https://github.com/orgs/DataScience-OsloMet/projects/1). One card is one task.
+
+1. **Pick a card** in **Klar** and drag it to **In Progress**.
+2. **Make a branch** from the latest `main` (use the card's number in the name):
+
+   ```bash
+   git switch main
+   git pull
+   git switch -c 19-baseline
+   ```
+
+3. **Do the work.** Before you push, run **Restart and Run All** so the notebook runs from top to bottom.
+4. **Push and open a pull request** on GitHub. Write `Closes #19` in the description, and drag the card to **PR**.
+5. **Someone else looks at it and merges.** The card moves to **Done** and the issue closes by itself.
+
+Rules:
+
+- Never push straight to `main`.
+- Only one person works in a notebook at a time.
+- A card with a red blocked icon waits for another card. Leave it until that one is done.
+- Every Monday, move next week's cards that are not blocked from **Backlog** to **Klar**.
+
+In the code:
+
+- Later notebooks read `data/processed/clean_dataset.csv`, never the raw file.
+- New or changed variable: edit its section in `01_cleaning.ipynb` and update `docs/variables.md`.
+- Save report figures in `reports/figures/` (`from src.config import FIGURES`).
 
 ## If something goes wrong
 
