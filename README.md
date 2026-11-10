@@ -52,7 +52,7 @@ reports/figures/    figures for the report
 
 All tasks are on the [project board](https://github.com/orgs/DataScience-OsloMet/projects/1). One card is one task.
 
-1. **Pick a card** in **Klar** and drag it to **In Progress**.
+1. **Pick a card** in **Klar** and assign yourself. The card moves to **In Progress** by itself.
 2. **Make a branch** from the latest `main` (use the card's number in the name):
 
    ```bash
