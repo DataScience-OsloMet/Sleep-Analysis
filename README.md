@@ -1,11 +1,17 @@
 # Sleep-Analysis
 
-DATA3800 group project: does working alongside studies affect students' sleep?
-Data: NHIS 2024 Sample Adult file (CDC). Sample: currently enrolled students aged 18-29 (1 085 people).
+DATA3800 group project (OsloMet, autumn 2026).
+
+**Question:** can we predict which students sleep too little, and how much do weekly work hours contribute?
+The data is from one point in time, so it can show that work and sleep go together, not that work causes short sleep.
+
+**Data:** [NHIS 2024 Sample Adult file](https://www.cdc.gov/nchs/nhis/documentation/2024-nhis.html) (CDC),
+a US health survey. Sample: currently enrolled students aged 18-29 (1 085 people). One row is one student.
 
 ## Get started
 
-1. Install [uv](https://docs.astral.sh/uv/) (once). It fetches the right Python (3.14) and packages for you.
+1. Install [uv](https://docs.astral.sh/uv/) (once). It fetches the right Python (3.14.7, set in `.python-version`)
+   and the exact package versions in `uv.lock` (pandas, scikit-learn, matplotlib, seaborn and others).
 2. In the project folder, run:
 
 ```bash
@@ -17,6 +23,7 @@ uv sync
    the data from the CDC to `data/raw/` and writes `data/processed/clean_dataset.csv`.
 
 You do not need to activate `.venv` yourself. In the terminal, put `uv run` in front of a command.
+To only download the data, run `uv run python -m src.data`.
 
 ## Run everything
 
