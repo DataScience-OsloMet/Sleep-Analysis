@@ -1,7 +1,7 @@
 # When someone is assigned to an issue, move its card on the project board to "In Progress".
 # Only cards in Backlog or Klar are moved; cards already in PR or Done are left alone.
 #
-# Needs a repository secret named PROJECT_TOKEN: a personal access token that can edit
+# Needs a repository secret named CLAUDEACCESS: a personal access token that can edit
 # the organisation's project (classic token with the "project" and "repo" scopes).
 # Without the secret the job only logs a warning.
 
@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Move the card to In Progress
         env:
-          GH_TOKEN: ${{ secrets.PROJECT_TOKEN }}
+          GH_TOKEN: ${{ secrets.CLAUDEACCESS }}
           ISSUE_ID: ${{ github.event.issue.node_id }}
           NUMBER: ${{ github.event.issue.number }}
           OWNER: DataScience-OsloMet
@@ -27,7 +27,7 @@ jobs:
         run: |
           set -euo pipefail
           if [ -z "${GH_TOKEN}" ]; then
-            echo "::warning::The PROJECT_TOKEN secret is not set, so the card was not moved."
+            echo "::warning::The CLAUDEACCESS secret is not set, so the card was not moved."
             exit 0
           fi
 
