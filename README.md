@@ -52,7 +52,7 @@ reports/figures/    figures for the report
 
 All tasks are on the [project board](https://github.com/orgs/DataScience-OsloMet/projects/1). One card is one task.
 
-1. **Pick a card** in **Klar** and assign yourself. The card moves to **In Progress** by itself.
+1. **Take the top card** in **Klar** (the board is sorted by week, so this week's cards come first). Assign yourself and drag it to **In Progress**.
 2. **Make a branch** from the latest `main` (use the card's number in the name):
 
    ```bash
@@ -69,8 +69,8 @@ Rules:
 
 - Never push straight to `main`.
 - Only one person works in a notebook at a time.
-- A card with a red blocked icon waits for another card. Leave it until that one is done.
-- Every Monday, move next week's cards that are not blocked from **Backlog** to **Klar**.
+- **Klar** holds every card that can be started now. A card waiting for another card stays in **Backlog**
+  and moves to **Klar** by itself within an hour after that card is done.
 
 In the code:
 
