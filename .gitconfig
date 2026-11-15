@@ -1,0 +1,9 @@
+# Git filter that cleans notebooks on commit: keeps code and output,
+# removes metadata (Python version, kernel, cell timings, execution counts).
+# Turn it on once per clone: git config --local include.path ../.gitconfig
+[filter "nbstripout"]
+	clean = uv run --quiet nbstripout --keep-output --extra-keys \"metadata.language_info metadata.kernelspec\"
+	smudge = cat
+	required = true
+[diff "ipynb"]
+	textconv = uv run --quiet nbstripout --keep-output --extra-keys \"metadata.language_info metadata.kernelspec\" -t

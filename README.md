@@ -18,7 +18,18 @@ a US health survey. Sample: currently enrolled students aged 18-29 (1 085 people
 uv sync
 ```
 
-3. Open the project folder in VS Code, open `notebooks/01_cleaning.ipynb`, click
+3. Turn on the notebook filter (once per clone). From then on, every commit keeps the code and the
+   output of a notebook but removes its metadata (Python version, kernel, cell run times, run counts),
+   so diffs only show real changes. Your file on disk is not touched.
+
+```bash
+git config --local include.path ../.gitconfig
+```
+
+   **Already cloned the project before this step was added?** Run `git pull`, `uv sync` and the command above.
+   To check that it is on, run `git config --get filter.nbstripout.clean`: it should print a line that starts with `uv run`.
+
+4. Open the project folder in VS Code, open `notebooks/01_cleaning.ipynb`, click
    **Select Kernel** (top right) and choose `.venv`. Run all cells. The first run downloads
    the data from the CDC to `data/raw/` and writes `data/processed/clean_dataset.csv`.
 
@@ -46,6 +57,8 @@ data/raw/           the NHIS file, downloaded automatically (not in Git)
 data/processed/     clean_dataset.csv (not in Git, made by 01_cleaning)
 docs/               variables.md (every column and its codes) and codebook screenshots
 reports/figures/    figures for the report
+.gitconfig          the notebook filter (removes metadata on commit), turned on in step 3
+.gitattributes      applies that filter to every .ipynb file
 ```
 
 ## How we work
