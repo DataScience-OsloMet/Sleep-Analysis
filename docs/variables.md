@@ -24,6 +24,7 @@ Codes are taken from the cleaning notebook and the screenshots in `docs/codebook
 | `past_month_trouble_falling_asleep` | SLPFLL_A | 1.4 Sleep | Same labels | Same 1-4 codes |
 | `past_month_trouble_staying_asleep` | SLPSTY_A | 1.4 Sleep | Same labels | Same 1-4 codes |
 | `sex` | SEX_A | 1.4 Sleep | Male, Female | 1 Male, 2 Female |
+| `short sleep` | | | 1, 0 | under 7 hours, over 7 hours" |
 | `activity_guideline_status` | PA18_02R_A | 1.4 Sleep | Inactive, Insufficiently active, Sufficiently active | 1 Inactive, 2 Insufficiently active, 3 Sufficiently active |
 | `anxiety_frequency` | ANXFREQ_A | 1.5 Mental health | 1-5, see `codebook/ANXFREQ_A_explained.png` | Same |
 | `depression_frequency` | DEPFREQ_A | 1.5 Mental health | 1-5, see `codebook/DEPFREQ_A_explained.png` | Same |
